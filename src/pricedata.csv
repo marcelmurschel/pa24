@@ -1,0 +1,1148 @@
+,Verkauf in,Bauart,Marke,Modell,Kategorie,Erstzulassung,Km-Stand,Getriebeart,Leistung in kW,Chassis,Verkaufspreis,Wunschpreis,PLZ Verkäufer,Fahrzeugalter,fahrzeugalter_cat,Kilometer_cat
+0,2022-01-01,Wohnmobil,Dethleffs,Globebus I1 GT 4 Sitzpl. Hubbett AHK,Integrierter,2021-07-01,5000.0,Schaltung,103.0,Fiat Ducato,71500,73900,64589,6,0-2 Jahre,0-20.000 km
+1,2022-01-01,Wohnmobil,Adria,Coral Axess 670SL,Teilintegrierter,2019-04-01,36000.0,Schaltung,120.0,Citroen Jumper,54000,55000,93176,33,2-5 Jahre,20.001-50.000 km
+2,2022-01-01,Wohnmobil,Weinsberg,Carabus 601 MQ Edition Fire 4 Sitzpl.,Kastenwagen,2018-07-01,33600.0,Schaltung,96.0,Fiat Ducato,43020,44820,93077,42,2-5 Jahre,20.001-50.000 km
+3,2022-02-01,Wohnmobil,Concorde,Charisma 840 l,Integrierter,2008-01-01,110000.0,Automatik,130.0,Iveco Daily,80800,85000,56237,169,Über 10 Jahre,Über 100.000 km
+4,2022-02-01,Wohnmobil,LMC,Liberty TI 652,Teilintegrierter,2008-04-01,95730.0,Schaltung,96.0,FIAT Ducato,30900,29500,27574,166,Über 10 Jahre,50.001-100.000 km
+5,2022-03-01,Wohnmobil,Bürstner,Lyseo TD 728 G Harmony Line,Teilintegrierter,2020-09-01,9000.0,Automatik,103.0,Fiat Ducato,68500,70000,40764,18,0-2 Jahre,0-20.000 km
+6,2022-03-01,Wohnmobil,Etrusco,V5900,Teilintegrierter,2021-05-01,6400.0,Schaltung,103.0,Citroen Jumper,48000,52500,97084,10,0-2 Jahre,0-20.000 km
+7,2022-03-01,Wohnmobil,Eura Mobil,Terrestra T,Teilintegrierter,2016-04-01,42100.0,Automatik,109.0,Fiat Ducato,52300,51500,74629,71,5-10 Jahre,20.001-50.000 km
+8,2022-03-01,Wohnmobil,Carthago,Chic c-line 5.0 L Superior,Integrierter,2019-02-01,17000.0,Automatik,130.0,Fiat Ducato,109100,125000,4229,37,2-5 Jahre,0-20.000 km
+9,2022-03-01,Wohnmobil,Frankia,I 6400,Integrierter,2013-07-01,48000.0,Schaltung,120.0,MB Sprinter,42099,46999,41515,104,5-10 Jahre,20.001-50.000 km
+10,2022-03-01,Wohnmobil,Dethleffs,Globetrotter XXL A 9000-2,Alkoven,2018-05-01,36000.0,Automatik,150.0,Iveco,147000,160000,82194,46,2-5 Jahre,20.001-50.000 km
+11,2022-03-01,Wohnmobil,Knaus,Sky I 650 LEG Automatik 4.4t,Integrierter,2019-03-01,34853.0,Automatik,110.0,Fiat Ducato,65700,68000,49143,36,2-5 Jahre,20.001-50.000 km
+12,2022-03-01,Wohnmobil,Knaus,Boxstar Street 600 MQ,Kastenwagen,2017-05-01,43242.0,Schaltung,110.0,FIAT Ducato,44500,50000,27607,58,2-5 Jahre,20.001-50.000 km
+13,2022-03-01,Wohnmobil,LMC,Liberty 688 Aut.,Teilintegrierter,2005-12-01,143000.0,Automatik,92.0,Ford Transit,23000,25000,53902,195,Über 10 Jahre,Über 100.000 km
+14,2022-03-01,Wohnmobil,Hymer,B 654 SL 4.5 t,Integrierter,2010-08-01,117890.0,Schaltung,96.0,Fiat,45600,45000,17438,139,Über 10 Jahre,Über 100.000 km
+15,2022-03-01,Wohnmobil,Concorde,"Charisma 850 L 7,5 t",Integrierter,2017-07-01,76000.0,Automatik,150.0,Iveco,190000,200000,9619,56,2-5 Jahre,50.001-100.000 km
+16,2022-03-01,Wohnmobil,Hobby,Siesta A70 6-Sitzer 3.850 kg,Alkoven,2017-04-01,60400.0,Schaltung,110.0,Fiat Ducato,44500,47000,50321,59,2-5 Jahre,50.001-100.000 km
+17,2022-04-01,Wohnmobil,Sunlight,T 65 9G-Tronic 3.5 t,Teilintegrierter,2020-04-01,7650.0,Automatik,103.0,Fiat Ducato,56500,58000,71723,24,0-2 Jahre,0-20.000 km
+18,2022-04-01,Wohnmobil,Hobby,600,Teilintegrierter,2004-07-01,49855.0,Schaltung,81.0,Fiat Ducato 244,23700,27000,35686,213,Über 10 Jahre,20.001-50.000 km
+19,2022-04-01,Wohnmobil,Laika,Kosmo 509 3.85 t,Teilintegrierter,2019-02-01,15000.0,Schaltung,110.0,Fiat Ducato,62000,63000,63505,38,2-5 Jahre,0-20.000 km
+20,2022-04-01,Wohnmobil,GiottiLine,Therry T31,Teilintegrierter,2013-03-01,53835.0,Schaltung,96.0,Citroen Jumper,34800,36000,25486,109,5-10 Jahre,50.001-100.000 km
+21,2022-04-01,Wohnmobil,Knaus,Sky Traveller *1. Hand*,Alkoven,2013-07-01,23700.0,Schaltung,85.0,Fiat Ducato,33499,34999,53545,105,5-10 Jahre,20.001-50.000 km
+22,2022-04-01,Wohnmobil,Pössl,Roadcruiser B,Kastenwagen,2019-02-01,19980.0,Schaltung,120.0,Citroen Jumper,52700,52000,37581,38,2-5 Jahre,0-20.000 km
+23,2022-04-01,Wohnmobil,Clever,Van Celebration Kastenwagen,Kastenwagen,2018-02-01,35025.0,Schaltung,120.0,Citroen,45100,45000,14797,50,2-5 Jahre,20.001-50.000 km
+24,2022-04-01,Wohnmobil,Bürstner,Lyseo Harmony Line 9G-Tronic 4.4 t,Teilintegrierter,2021-07-01,16123.0,Automatik,118.0,Fiat Ducato,66500,76900,17322,9,0-2 Jahre,0-20.000 km
+25,2022-04-01,Wohnmobil,Hobby,Vantana Premium ET 65,Kastenwagen,2019-10-01,31600.0,Schaltung,110.0,Fiat,52100,59500,23730,30,2-5 Jahre,20.001-50.000 km
+26,2022-04-01,Wohnmobil,Knaus,Sun Ti 650 LEG 3.5 t,Teilintegrierter,2014-05-01,96505.0,Schaltung,109.0,Fiat Ducato,43000,45000,33758,95,5-10 Jahre,50.001-100.000 km
+27,2022-04-01,Wohnmobil,Concorde,Credo 840L 5.8 t,Integrierter,2016-03-01,59030.0,Automatik,150.0,Iveco,154000,175000,85560,73,5-10 Jahre,50.001-100.000 km
+28,2022-04-01,Wohnmobil,LMC,Liberty Breezer A 694-2G 3.5 t,Alkoven,2011-04-01,93000.0,Schaltung,96.0,Fiat Ducato,32200,36500,3172,132,Über 10 Jahre,50.001-100.000 km
+29,2022-04-01,Wohnmobil,Adria,Twin 600 SP All-In 3.5 t,Kastenwagen,2022-02-01,1900.0,Schaltung,121.0,Citroen Jumper,53900,55000,90518,2,0-2 Jahre,0-20.000 km
+30,2022-04-01,Wohnmobil,Carado,T 448 3.5 t,Teilintegrierter,2018-06-01,17500.0,Schaltung,96.0,Fiat Ducato,49900,55500,1279,46,2-5 Jahre,0-20.000 km
+31,2022-04-01,Wohnmobil,Knaus,Sport Traveller 600 DKG Silver Line 3.5 t,Alkoven,2007-05-01,78400.0,Schaltung,84.0,Renault Master,20400,24000,67117,179,Über 10 Jahre,50.001-100.000 km
+32,2022-04-01,Wohnmobil,Sun Living,Lido M50 SL 3.5 t,Teilintegrierter,2017-12-01,40300.0,Schaltung,96.0,Fiat Ducato,46038,49638,26789,52,2-5 Jahre,20.001-50.000 km
+33,2022-05-01,Wohnmobil,Sunlight,V66 Adventure Edition 3.5 t,Teilintegrierter,2022-03-01,1800.0,Schaltung,121.0,Citroën,54000,58000,49661,2,0-2 Jahre,0-20.000 km
+34,2022-05-01,Wohnmobil,GiottiLine,Therry T 41 3.5 t,Alkoven,2012-11-01,37000.0,Schaltung,96.0,Citroen Jumper,36800,37000,27383,114,5-10 Jahre,20.001-50.000 km
+35,2022-05-01,Wohnmobil,Sunlight,I68 3.5 t,Integrierter,2019-06-01,18000.0,Automatik,103.0,Fiat Ducato,64500,66500,21509,35,2-5 Jahre,0-20.000 km
+36,2022-05-01,Wohnmobil,Dethleffs,T 7051 DBM Advantage 3.5 t,Teilintegrierter,2015-02-01,72200.0,Schaltung,109.0,Fiat Ducato,49050,52250,4451,87,5-10 Jahre,50.001-100.000 km
+37,2022-05-01,Wohnmobil,Bravia,Swan 3.5 t,Kastenwagen,2018-04-01,37800.0,Schaltung,120.0,Peugeot Boxer,45800,46000,21037,49,2-5 Jahre,20.001-50.000 km
+38,2022-05-01,Wohnmobil,Sunlight,Cliff 640 3.5 t,Kastenwagen,2019-07-01,16965.0,Schaltung,96.0,Fiat Ducato,51400,55000,41468,34,2-5 Jahre,0-20.000 km
+39,2022-05-01,Wohnmobil,Bürstner,Elegance I Aut. 5.5 t,Integrierter,2021-03-01,19500.0,Automatik,125.0,Mercedes Sprinter,172500,189900,16321,14,0-2 Jahre,0-20.000 km
+40,2022-05-01,Wohnmobil,Eura Mobil,Profila 720 RS EB 4.4 t,Teilintegrierter,2017-04-01,33000.0,Schaltung,110.0,Fiat Ducato,60000,66000,59368,61,5-10 Jahre,20.001-50.000 km
+41,2022-05-01,Wohnmobil,Weinsberg,CaraCore 650 MF 3.5 t,Integrierter,2020-02-01,11100.0,Schaltung,103.0,Fiat Ducato,63400,69000,79664,27,2-5 Jahre,0-20.000 km
+42,2022-05-01,Wohnmobil,Laika,Kosmo 6.4 3.5 t,Kastenwagen,2021-02-01,22500.0,Schaltung,118.0,Fiat Ducato,55500,57000,47546,15,0-2 Jahre,20.001-50.000 km
+43,2022-05-01,Wohnmobil,Dethleffs,Globebus GT T007 3.5 t,Teilintegrierter,2019-10-01,37700.0,Schaltung,110.0,Fiat Ducato,58700,62000,82041,31,2-5 Jahre,20.001-50.000 km
+44,2022-05-01,Wohnmobil,Dethleffs,Magic Edition T 7151-4 / 3.5 t,Teilintegrierter,2013-02-01,20500.0,Schaltung,96.0,Fiat Ducato,44000,48000,79639,111,5-10 Jahre,20.001-50.000 km
+45,2022-05-01,Wohnmobil,Hymer,Sydney GT60 9G-Tronic 3.5 t,Kastenwagen,2020-03-01,26000.0,Automatik,118.0,Fiat Ducato,57000,57000,86399,26,2-5 Jahre,20.001-50.000 km
+46,2022-05-01,Wohnmobil,Ahorn,Camp A 680 ECO 2021 3.5 t,Alkoven,2021-05-01,8100.0,Schaltung,107.0,Renault,50900,49400,38118,12,0-2 Jahre,0-20.000 km
+47,2022-05-01,Wohnmobil,Laika,Kosmo 212 3.5 t,Teilintegrierter,2020-05-01,33600.0,Schaltung,110.0,Ducato,53200,60000,81737,24,0-2 Jahre,20.001-50.000 km
+48,2022-05-01,Wohnmobil,Dethleffs,Advantage I 6701 3.85 t,Integrierter,2014-04-01,52115.0,Schaltung,96.0,Fiat Ducato,50500,53500,38518,97,5-10 Jahre,50.001-100.000 km
+49,2022-06-01,Wohnmobil,Eura Mobil,Activa One AO 690 HB 4.25 t,Alkoven,2021-04-01,26918.0,Schaltung,103.0,Fiat Ducato,64200,68900,78073,14,0-2 Jahre,20.001-50.000 km
+50,2022-06-01,Wohnmobil,Bürstner,Delfin IT 660 Harmony Line 3.5 t,Teilintegrierter,2021-09-01,7500.0,Schaltung,121.0,Citroen,62000,63000,50389,9,0-2 Jahre,0-20.000 km
+51,2022-06-01,Wohnmobil,Westfalia,Club Joker City 3.2 t,Kastenwagen,2016-03-01,38900.0,Schaltung,132.0,VW Transporter,45100,52000,48683,75,5-10 Jahre,20.001-50.000 km
+52,2022-06-01,Wohnmobil,Malibu,I 490 LE 4.25 t,Integrierter,2020-06-01,6800.0,Schaltung,118.0,Fiat,85000,95000,38442,24,0-2 Jahre,0-20.000 km
+53,2022-06-01,Wohnmobil,Pilote,P 650 GJ Essential 2020 3.5 t,Teilintegrierter,2020-06-01,57800.0,Schaltung,103.0,Fiat Ducato,52300,54500,33335,24,0-2 Jahre,50.001-100.000 km
+54,2022-06-01,Wohnmobil,Dethleffs,Advantage A5881 3.85 t,Alkoven,2007-02-01,104704.0,Schaltung,96.0,Fiat Ducato,28000,29000,9127,184,Über 10 Jahre,Über 100.000 km
+55,2022-06-01,Wohnmobil,Pössl,Roadcruiser 3.5 t,Kastenwagen,2012-08-01,110400.0,Schaltung,96.0,Citroen Jumper,34400,35000,94036,118,5-10 Jahre,Über 100.000 km
+56,2022-06-01,Wohnmobil,VANTourer,600 Activ 3.5 t,Kastenwagen,2019-05-01,36000.0,Schaltung,96.0,Peugeot Boxer,45600,48000,53557,37,2-5 Jahre,20.001-50.000 km
+57,2022-05-01,Wohnmobil,Rimor,Morgen ARF 54S3 3.5 t,Alkoven,2005-08-01,98500.0,Schaltung,74.0,Ford Transit,15000,15000,28359,201,Über 10 Jahre,50.001-100.000 km
+58,2022-05-01,Wohnmobil,Sunlight,A70 3.85 t,Alkoven,2011-04-01,58000.0,Schaltung,96.0,Fiat Ducato,38500,38500,66740,133,Über 10 Jahre,50.001-100.000 km
+59,2022-06-01,Wohnmobil,Knaus,Sky TI 700 MEG Platinum 9G-Tronic 3.5 t,Teilintegrierter,2020-11-01,3100.0,Automatik,103.0,Fiat Ducato,69000,68800,64625,19,0-2 Jahre,0-20.000 km
+60,2022-06-01,Wohnmobil,Pössl,Roadcruiser 640 3.5 t,Kastenwagen,2019-03-01,23500.0,Schaltung,120.0,Citroen Jumper,50300,51900,48308,39,2-5 Jahre,20.001-50.000 km
+61,2022-06-01,Wohnmobil,Laika,Kosmo 212 / 3.5 t *MwSt. ausw.*,Teilintegrierter,2020-06-01,17831.0,Schaltung,121.0,Citroen,54500,58000,25436,24,0-2 Jahre,0-20.000 km
+62,2022-08-01,Wohnmobil,Orangecamp,K6 3.5 t,Kastenwagen,2016-05-01,57500.0,Schaltung,109.0,Fiat Ducato,43000,45000,50374,75,5-10 Jahre,50.001-100.000 km
+63,2022-06-01,Wohnmobil,Bürstner,Ixeo Time 734 / 3.5 t,Teilintegrierter,2013-05-01,114000.0,Schaltung,96.0,Fiat Ducato,35000,40000,35279,109,5-10 Jahre,Über 100.000 km
+64,2022-06-01,Wohnmobil,Sunlight,T 58 / 3.5 t,Teilintegrierter,2019-05-01,35500.0,Schaltung,96.0,Ducato,46000,48000,46539,37,2-5 Jahre,20.001-50.000 km
+65,2022-06-01,Wohnmobil,Concorde,Charisma 890 mit Smart Garage 7.2 t,Integrierter,2011-05-01,76900.0,Automatik,125.0,Iveco,135050,147250,63150,133,Über 10 Jahre,50.001-100.000 km
+66,2022-06-01,Wohnmobil,Hymer,Tramp CL 654 2 x 2 / 3.85 t,Teilintegrierter,2011-04-01,30230.0,Schaltung,96.0,Fiat Ducato Multijet 130,38300,40000,37136,134,Über 10 Jahre,20.001-50.000 km
+67,2022-06-01,Wohnmobil,Pössl,Summit 540 3.5 t,Kastenwagen,2021-05-01,20350.0,Schaltung,118.0,Fiat,50300,50300,95671,13,0-2 Jahre,20.001-50.000 km
+68,2022-06-01,Wohnmobil,Knaus,Sky TI 700 MEG IC-Line 3.5 t,Teilintegrierter,2019-07-01,15000.0,Schaltung,110.0,Fiat Ducato,60000,60000,36039,35,2-5 Jahre,0-20.000 km
+69,2022-07-01,Wohnmobil,Karmann,Dexter 570 4x4 / 3.5 t,Kastenwagen,2021-02-01,33000.0,Schaltung,125.0,Ford Transit,56000,59000,17375,17,0-2 Jahre,20.001-50.000 km
+70,2022-06-01,Wohnmobil,Miller,Toronto 3.85 t,Teilintegrierter,2020-08-01,19800.0,Schaltung,103.0,Citroën Jumper,55000,62000,31185,22,0-2 Jahre,0-20.000 km
+71,2022-06-01,Wohnmobil,Dethleffs,Trend T 6717 / 3.5 t,Teilintegrierter,2016-02-01,33800.0,Schaltung,96.0,Fiat,48500,50000,78250,76,5-10 Jahre,20.001-50.000 km
+72,2022-08-01,Wohnmobil,Bürstner,Ixeo Edition 55 *fifty five* 3.5 t,Teilintegrierter,2014-04-01,69000.0,Schaltung,96.0,Fiat,38100,41500,21514,100,5-10 Jahre,50.001-100.000 km
+73,2022-06-01,Wohnmobil,Etrusco,T 7400 SB 3.65 t,Teilintegrierter,2019-07-01,21000.0,Automatik,110.0,Fiat Ducato,53000,53000,40789,35,2-5 Jahre,20.001-50.000 km
+74,2022-06-01,Wohnmobil,Globecar,Campscout 4.25 t,Kastenwagen,2014-06-01,71520.0,Schaltung,109.0,Fiat Ducato,37300,41000,59199,96,5-10 Jahre,50.001-100.000 km
+75,2022-06-01,Wohnmobil,Adria,Twin 640 SL 3.5 t,Kastenwagen,2017-11-01,18133.0,Schaltung,96.0,Fiat Ducato,49100,50000,31311,55,2-5 Jahre,0-20.000 km
+76,2022-06-01,Wohnmobil,Knaus,Boxstar 630 / 3.5 t,Kastenwagen,2017-04-01,83000.0,Schaltung,109.0,Fiat,44600,44900,56766,62,5-10 Jahre,50.001-100.000 km
+77,2022-06-01,Wohnmobil,Weinsberg,Carahome 700 DG 3.5 t,Alkoven,2015-03-01,57803.0,Schaltung,96.0,Fiat Ducato,43900,44500,25451,87,5-10 Jahre,50.001-100.000 km
+78,2022-06-01,Wohnmobil,Chausson,Road Line V594 VIP 9G-Tronic 3.5 t,Kastenwagen,2021-06-01,10500.0,Automatik,103.0,Fiat Ducato,58800,64000,71679,12,0-2 Jahre,0-20.000 km
+79,2022-06-01,Wohnmobil,Hymer,Classic Camp 3.5 t,Alkoven,2006-06-01,107350.0,Schaltung,94.0,"Ducato 2,8 JTD",28000,30000,97204,192,Über 10 Jahre,Über 100.000 km
+80,2022-06-01,Wohnmobil,Clever,Celebration 3.5 t,Kastenwagen,2016-08-01,70000.0,Schaltung,110.0,Citroen Jumper,42200,43500,44147,70,5-10 Jahre,50.001-100.000 km
+81,2022-06-01,Wohnmobil,Chausson,Welcome 617 GA 3.5 t,Teilintegrierter,2015-05-01,21000.0,Schaltung,114.0,Ford Transit,41400,45000,14089,85,5-10 Jahre,20.001-50.000 km
+82,2022-06-01,Wohnmobil,Mercedes-Benz,Marco Polo Activity 250d 4MATIC,Bus,2022-01-01,5000.0,Automatik,140.0,,63000,67000,71093,5,0-2 Jahre,0-20.000 km
+83,2022-06-01,Wohnmobil,Mercedes-Benz,Marco Polo 250d 4x4 ACTIVITY,Bus,2021-10-01,10500.0,Automatik,140.0,,64050,62950,70435,8,0-2 Jahre,0-20.000 km
+84,2022-06-01,Wohnmobil,Carthago,c-tourer I 143 3.5t,Integrierter,2015-07-01,35700.0,Schaltung,109.0,Fiat,62100,62000,84524,83,5-10 Jahre,20.001-50.000 km
+85,2022-07-01,Wohnmobil,Hymer,B 508 CL 3.5 t,Integrierter,2008-09-01,102400.0,Schaltung,116.0,Fiat,29900,35000,82362,166,Über 10 Jahre,Über 100.000 km
+86,2022-07-01,Wohnmobil,Mooveo,(Bavaria) V 630 G Aut. 3.5 t,Kastenwagen,2018-09-01,66843.0,Automatik,130.0,Fiat Ducato,50900,52500,14513,46,2-5 Jahre,50.001-100.000 km
+87,2022-06-01,Wohnmobil,Sunlight,T 65 / 3.5 t,Teilintegrierter,2015-12-01,64000.0,Schaltung,96.0,Fiat Ducato,43600,39500,64853,78,5-10 Jahre,50.001-100.000 km
+88,2022-07-01,Wohnmobil,Joint,S 600 Elegance 3.5 t,Teilintegrierter,2007-10-01,110088.0,Schaltung,84.0,Renault,20500,25000,50259,177,Über 10 Jahre,Über 100.000 km
+89,2022-07-01,Wohnmobil,Eura Mobil,Profila RS 725 QB 3.65 t,Teilintegrierter,2018-08-01,23400.0,Schaltung,96.0,Fiat Ducato,58300,58800,99869,47,2-5 Jahre,20.001-50.000 km
+90,2022-07-01,Wohnmobil,Mooveo,VAN 63 DBL 9G-Tronic 3.5 t,Kastenwagen,2022-01-01,9127.0,Automatik,103.0,Fiat,62000,64000,88422,6,0-2 Jahre,0-20.000 km
+91,2022-07-01,Wohnmobil,Chausson,V697 Premium 9G-Tronic 3.5 t,Kastenwagen,2020-10-01,3000.0,Automatik,118.0,Fiat,59900,68000,23948,21,0-2 Jahre,0-20.000 km
+92,2022-07-01,Wohnmobil,Itineo,SB 740 Spirit Edition 9G-Tronic 4.4 t,Integrierter,2020-10-01,9125.0,Automatik,118.0,Fiat Ducato,71500,78000,47443,21,0-2 Jahre,0-20.000 km
+93,2022-07-01,Wohnmobil,Carthago,Chic C-Line TPlus 4.8H 4.25 t,Teilintegrierter,2014-07-01,51500.0,Schaltung,109.0,Fiat Ducato,55355,61655,15806,96,5-10 Jahre,50.001-100.000 km
+94,2022-07-01,Wohnmobil,Rapido,8096 DF 4.4 t,Integrierter,2017-06-01,81000.0,Schaltung,130.0,Fiat,70000,76000,27570,61,5-10 Jahre,50.001-100.000 km
+95,2022-07-01,Wohnmobil,VANTourer,630 Aut. 3.5 t,Kastenwagen,2019-08-01,19000.0,Automatik,110.0,"FIAT 2,3 l Multijet",52360,50360,6667,35,2-5 Jahre,0-20.000 km
+96,2022-07-01,Wohnmobil,Carthago,Chic e-line I 51 Yachting Aut. 4.8 t,Integrierter,2016-07-01,39100.0,Automatik,130.0,Fiat,90000,100000,55597,72,5-10 Jahre,20.001-50.000 km
+97,2022-07-01,Wohnmobil,Weinsberg,MQH 600 / 3.5 t,Kastenwagen,2019-03-01,44800.0,Schaltung,96.0,Fiat Ducato,48999,51999,90431,40,2-5 Jahre,20.001-50.000 km
+98,2022-07-01,Wohnmobil,Forster,I 699 / 3.5 t,Integrierter,2020-06-01,19250.0,Schaltung,96.0,Fiat,60000,64900,41539,25,2-5 Jahre,0-20.000 km
+99,2022-07-01,Wohnmobil,Carado,A132 / 3.5 t,Alkoven,2021-06-01,5530.0,Schaltung,103.0,Citroën,50800,52000,86807,13,0-2 Jahre,0-20.000 km
+100,2022-07-01,Wohnmobil,Volkswagen,VW T6 Multicamper-Ausbau 4Motion,Kastenwagen,2018-07-01,76000.0,Schaltung,110.0,,50600,59500,70806,48,2-5 Jahre,50.001-100.000 km
+101,2022-07-01,Wohnmobil,Hobby,550 AK 3.5 t,Alkoven,2005-04-01,79000.0,Schaltung,92.0,Ford,19100,22000,97688,207,Über 10 Jahre,50.001-100.000 km
+102,2022-07-01,Wohnmobil,Carado,T449 / 3.5 t,Teilintegrierter,2014-06-01,59050.0,Schaltung,96.0,Fiat,43500,42000,54578,97,5-10 Jahre,50.001-100.000 km
+103,2022-07-01,Wohnmobil,Knaus,Van Ti Plus 650 MEG Platinum 3.5 t,Teilintegrierter,2021-09-01,22662.0,Automatik,130.0,MAN,66450,70250,88085,10,0-2 Jahre,20.001-50.000 km
+104,2022-07-01,Wohnmobil,Weinsberg,Imperiale 600 LD 3.5 t,Teilintegrierter,2008-04-01,122500.0,Schaltung,107.0,Renault Master R43,22000,25000,71560,171,Über 10 Jahre,Über 100.000 km
+105,2022-07-01,Wohnmobil,Mooveo,63 EB All In 3.5 t,Kastenwagen,2021-11-01,1300.0,Schaltung,121.0,Citroen,60005,64505,61137,8,0-2 Jahre,0-20.000 km
+106,2022-07-01,Wohnmobil,Weinsberg,CaraBus 630 MEG Outlaw 4.0 t *MwSt.*,Kastenwagen,2020-06-01,35000.0,Schaltung,118.0,Fiat Ducato,57500,63000,16321,25,2-5 Jahre,20.001-50.000 km
+107,2022-07-01,Wohnmobil,Volkswagen,Grand California 680 Aut. 3.5 t,Kastenwagen,2020-02-01,28800.0,Automatik,130.0,VW Crafter,58500,62600,61169,29,2-5 Jahre,20.001-50.000 km
+108,2022-07-01,Wohnmobil,Clever,Celebration 3.5 t,Kastenwagen,2021-08-01,22700.0,Schaltung,103.0,Citroen,50500,53000,76199,11,0-2 Jahre,20.001-50.000 km
+109,2022-07-01,Wohnmobil,Eura Mobil,Profila 720 EB CL Mondial Ed. 3.5 t,Teilintegrierter,2017-04-01,27500.0,Schaltung,110.0,Fiat,62300,54500,1796,63,5-10 Jahre,20.001-50.000 km
+110,2022-07-01,Wohnmobil,Carthago,Chic e-line 51 Aut. 4.5 t,Integrierter,2011-07-01,31390.0,Automatik,116.0,Fiat,61500,70000,87561,132,Über 10 Jahre,20.001-50.000 km
+111,2022-07-01,Wohnmobil,TEC,FreeTec 628 G mit DPF 3.5 t,Alkoven,2006-08-01,97250.0,Schaltung,92.0,Ford FT 300 M,18000,19500,69242,191,Über 10 Jahre,50.001-100.000 km
+112,2022-07-01,Wohnmobil,Bürstner,Travel Van T 620 G IC Line 3.5 t,Teilintegrierter,2015-04-01,74000.0,Schaltung,96.0,Fiat Ducato,42400,46000,51109,87,5-10 Jahre,50.001-100.000 km
+113,2022-07-01,Wohnmobil,Karmann,Dexter Go 3.5 t,Kastenwagen,2015-04-01,62500.0,Schaltung,109.0,Fiat Ducato,41600,45000,24247,87,5-10 Jahre,50.001-100.000 km
+114,2022-07-01,Wohnmobil,Bürstner,Ixeo Time 726 G Aut. 3.5 t,Teilintegrierter,2017-03-01,42200.0,Automatik,109.0,Fiat Ducato,57100,59500,79848,64,5-10 Jahre,20.001-50.000 km
+115,2022-07-01,Wohnmobil,Laika,Ecovip 610 / 4.1 t,Integrierter,2016-08-01,27000.0,Schaltung,109.0,Fiat Ducato,55000,55000,71272,71,5-10 Jahre,20.001-50.000 km
+116,2022-08-01,Wohnmobil,Hymer,B-Klasse 704 SL Aut. 4.5 t,Integrierter,2019-02-01,27500.0,Automatik,130.0,Fiat Ducato,94400,100000,59439,42,2-5 Jahre,20.001-50.000 km
+117,2022-07-01,Wohnmobil,Carthago,Chic C-Line I 4.9 / 4.25 t,Integrierter,2016-04-01,17100.0,Automatik,109.0,Fiat Ducato 250,78350,80750,81245,75,5-10 Jahre,0-20.000 km
+118,2022-07-01,Wohnmobil,Carthago,Chic e-line I 51 QB Aut. 4.8 t,Integrierter,2020-06-01,14500.0,Automatik,130.0,Fiat,105000,120000,64760,25,2-5 Jahre,0-20.000 km
+119,2022-08-01,Wohnmobil,Forster,T 682 SB 3.5 t,Teilintegrierter,2014-02-01,52902.0,Schaltung,96.0,Fiat Ducato,40500,43000,50999,102,5-10 Jahre,50.001-100.000 km
+120,2022-07-01,Wohnmobil,Eura Mobil,Activa One 690 HB 3.5 t,Alkoven,2017-03-01,20400.0,Schaltung,110.0,Fiat Ducato,59100,62500,21769,64,5-10 Jahre,20.001-50.000 km
+121,2022-07-01,Wohnmobil,Eura Mobil,Profila T 675 SB Aut. 3.5 t,Teilintegrierter,2018-04-01,58000.0,Automatik,110.0,Fiat Ducato,58900,65500,52372,51,2-5 Jahre,50.001-100.000 km
+122,2022-07-01,Wohnmobil,GiottiLine,Siena 330 Privilege / 3.5 t,Teilintegrierter,2022-07-01,10.0,Schaltung,103.0,Peugeot,52900,58900,33154,0,0-2 Jahre,0-20.000 km
+123,2022-07-01,Wohnmobil,Carado,T448 Aut. 3.5 t,Teilintegrierter,2020-02-01,8500.0,Automatik,110.0,Fiat,57000,61000,48599,29,2-5 Jahre,0-20.000 km
+124,2022-07-01,Wohnmobil,Carthago,C-Tourer 143 LE 9G-Tronic auf MB 3.5 t,Integrierter,2022-04-01,7500.0,Automatik,125.0,Mercedes Sprinter,120500,130000,21641,3,0-2 Jahre,0-20.000 km
+125,2022-07-01,Wohnmobil,Knaus,L!VE WAVE 650 MX 3.5 t,Teilintegrierter,2020-06-01,38000.0,Schaltung,110.0,Fiat,56800,58900,67067,25,2-5 Jahre,20.001-50.000 km
+126,2022-08-01,Wohnmobil,Hymer,ML-T 580 4x4 Aut. 4.05 t,Teilintegrierter,2017-04-01,75000.0,Automatik,120.0,MB Sprinter 906,98599,114999,53797,64,5-10 Jahre,50.001-100.000 km
+127,2022-07-01,Wohnmobil,Knaus,SKY Ti 650 MEG Plat. Sel. 9G-Tr. 3.5 t,Teilintegrierter,2020-05-01,32850.0,Automatik,103.0,Fiat Ducato,69100,78000,15738,26,2-5 Jahre,20.001-50.000 km
+128,2022-07-01,Wohnmobil,Malibu,Van Charming GT Skyview 640 LE 4.0 t,Kastenwagen,2021-12-01,1185.0,Automatik,130.0,"FIAT Ducato 2,3l Multijet 180",72000,73000,80992,7,0-2 Jahre,0-20.000 km
+129,2022-07-01,Wohnmobil,Ahorn,ACT 690 plus *New Face Ed.* 4.0 t,Teilintegrierter,2020-07-01,22100.0,Schaltung,107.0,Renault Master,50000,56000,64646,24,0-2 Jahre,20.001-50.000 km
+130,2022-07-01,Wohnmobil,Hobby,Optima V 65 GE OnTour 3.5 t,Teilintegrierter,2021-04-01,9249.0,Schaltung,103.0,Citroen,58000,60000,71101,15,0-2 Jahre,0-20.000 km
+131,2022-07-01,Wohnmobil,Etrusco,V 5900 DB 3.5 t,Teilintegrierter,2020-08-01,11000.0,Schaltung,103.0,Citroen Jumper,46300,48000,22119,23,0-2 Jahre,0-20.000 km
+132,2022-08-01,Wohnmobil,Knaus,Sun Traveller mit DPF 3.85 t,Alkoven,2007-08-01,101800.0,Schaltung,107.0,Fiat,23000,25500,94553,180,Über 10 Jahre,Über 100.000 km
+133,2022-07-01,Wohnmobil,LMC,Liberty Breezer 694 G 3.5 t,Alkoven,2011-05-01,77000.0,Schaltung,96.0,Fiat Ducato,34000,37500,78467,134,Über 10 Jahre,50.001-100.000 km
+134,2022-07-01,Wohnmobil,Eura Mobil,Profila RS 660 HB 3.85 t *MwSt*,Teilintegrierter,2017-04-01,48635.0,Schaltung,110.0,Fiat Ducato,51600,51500,53797,63,5-10 Jahre,20.001-50.000 km
+135,2022-07-01,Wohnmobil,Hobby,Toskana Exklusive 69 / 4.25 t,Teilintegrierter,2013-04-01,48000.0,Schaltung,96.0,Fiat Ducato,40000,43900,51688,111,5-10 Jahre,20.001-50.000 km
+136,2022-08-01,Wohnmobil,Pössl,Summit 600 Plus 3.5 t,Kastenwagen,2019-01-01,57000.0,Schaltung,120.0,Citroen,48100,49500,49824,43,2-5 Jahre,50.001-100.000 km
+137,2022-08-01,Wohnmobil,Pössl,Roadcamp D-Line 3.5 t,Kastenwagen,2020-08-01,35000.0,Schaltung,103.0,Citroen,40600,45000,10625,24,0-2 Jahre,20.001-50.000 km
+138,2022-08-01,Wohnmobil,Hymer,B ML-I 780 / 9G-Tronic 4.5 t,Integrierter,2020-10-01,10005.0,Automatik,130.0,Mercedes-Benz,138000,152000,53819,22,0-2 Jahre,0-20.000 km
+139,2022-08-01,Wohnmobil,Ahorn,Kentucky K-Line 3.5 t,Alkoven,2016-05-01,38900.0,Schaltung,92.0,Renault,40200,43000,70439,75,5-10 Jahre,20.001-50.000 km
+140,2022-08-01,Wohnmobil,Carado,T 447 / 3.5 t,Teilintegrierter,2019-04-01,35047.0,Schaltung,96.0,Fiat Ducato,50000,58000,24537,40,2-5 Jahre,20.001-50.000 km
+141,2022-08-01,Wohnmobil,Hymer,CS 684 Swing 3.85 t,Alkoven,2000-04-01,106000.0,Schaltung,90.0,Fiat,15000,16000,77749,268,Über 10 Jahre,Über 100.000 km
+142,2022-08-01,Wohnmobil,Dethleffs,A 6977 / 3.5 t,Alkoven,2015-04-01,79000.0,Schaltung,96.0,Fiat Ducato,41400,43000,23919,88,5-10 Jahre,50.001-100.000 km
+143,2022-08-01,Wohnmobil,Bürstner,Lyseo Time 727 G Harmony Line 3.5 t,Teilintegrierter,2020-08-01,13130.0,Schaltung,120.0,Citroen Jumper,65000,68500,59269,24,0-2 Jahre,0-20.000 km
+144,2022-08-01,Wohnmobil,P.L.A.,H 385 / 3.5 t *MwSt.*,Teilintegrierter,2019-04-01,80000.0,Schaltung,96.0,Citroen Jumper,44000,44500,1189,40,2-5 Jahre,50.001-100.000 km
+145,2022-08-01,Wohnmobil,Ahorn,Canada TE 3.5 t,Teilintegrierter,2018-05-01,27860.0,Schaltung,96.0,Renault Master 3VF1VA,45600,47000,59077,51,2-5 Jahre,20.001-50.000 km
+146,2022-08-01,Wohnmobil,Weinsberg,Cara Compact 600 MG Pepper 3.5 t,Teilintegrierter,2018-06-01,17900.0,Schaltung,96.0,Peugeot,45200,45000,78713,50,2-5 Jahre,0-20.000 km
+147,2022-08-01,Wohnmobil,Bürstner,Nexxo T 728 G Aut. 4.0 t,Teilintegrierter,2017-06-01,26650.0,Automatik,109.0,Fiat,54250,57950,87672,62,5-10 Jahre,20.001-50.000 km
+148,2022-08-01,Wohnmobil,Adria,Twin 640 SL Axess All In 3.5 t,Kastenwagen,2022-03-01,15685.0,Schaltung,121.0,Citroen,53500,57000,88693,5,0-2 Jahre,0-20.000 km
+149,2022-08-01,Wohnmobil,Carado,T334 / 3.5 t,Teilintegrierter,2020-07-01,17776.0,Schaltung,96.0,Fiat Ducato,55000,59000,86685,25,2-5 Jahre,0-20.000 km
+150,2022-08-01,Wohnmobil,Dethleffs,Globebus I6 9G-Tronic 3.5 t,Integrierter,2020-07-01,7800.0,Automatik,118.0,Fiat,86200,100000,70469,25,2-5 Jahre,0-20.000 km
+151,2022-08-01,Wohnmobil,Malibu,600 LE 3.5 t,Kastenwagen,2020-07-01,16000.0,Schaltung,103.0,Ducato,61800,66000,87477,25,2-5 Jahre,0-20.000 km
+152,2022-08-01,Wohnmobil,Phoenix,8300 L G-Liner 7.2 t,Integrierter,2008-08-01,108000.0,Automatik,130.0,IVECO,94250,111150,57555,168,Über 10 Jahre,Über 100.000 km
+153,2022-08-01,Wohnmobil,Hymer,Tramp 578 GL 4.0 t,Teilintegrierter,2017-07-01,29500.0,Schaltung,110.0,Fiat Ducato,67700,69000,24944,61,5-10 Jahre,20.001-50.000 km
+154,2022-08-01,Wohnmobil,Hymer,Tramp 664 SL 4.0 t,Teilintegrierter,2008-08-01,104000.0,Schaltung,116.0,Fiat,31000,39500,21640,168,Über 10 Jahre,Über 100.000 km
+155,2022-08-01,Wohnmobil,Weinsberg,CaraTour 600 MQ 3.5 t,Kastenwagen,2020-08-01,12028.0,Schaltung,88.0,Ducato,51100,58500,58802,24,0-2 Jahre,0-20.000 km
+156,2022-08-01,Wohnmobil,Bürstner,Ixeo T 690 G Riva Loft 3.5 t,Teilintegrierter,2020-03-01,14340.0,Schaltung,110.0,Fiat,57800,57000,89143,29,2-5 Jahre,0-20.000 km
+157,2022-08-01,Wohnmobil,Carado,A 361 / 3.5 t,Alkoven,2018-10-01,65000.0,Schaltung,96.0,Fiat,46900,42000,34560,46,2-5 Jahre,50.001-100.000 km
+158,2022-08-01,Wohnmobil,Carthago,chic e-line I 50 LE DA Aut. 5.4 t,Integrierter,2020-02-01,12900.0,Automatik,130.0,Fiat Ducato,133300,132900,26386,30,2-5 Jahre,0-20.000 km
+159,2022-08-01,Wohnmobil,Bürstner,Lyseo Time A 700 G 3.5 t,Alkoven,2019-02-01,42100.0,Schaltung,96.0,Fiat,52020,54320,23769,42,2-5 Jahre,20.001-50.000 km
+160,2022-08-01,Wohnmobil,Pössl,D-Line Roadstar 600 L All In 3.5 t,Kastenwagen,2018-10-01,35530.0,Schaltung,96.0,Jumper 2.0 L Blue HDI,47500,50000,24796,46,2-5 Jahre,20.001-50.000 km
+161,2022-08-01,Wohnmobil,Dethleffs,Globetrotter Advantage Elegance 3.5 t,Alkoven,2005-10-01,130000.0,Schaltung,107.0,Fiat Ducato,22700,22000,87527,202,Über 10 Jahre,Über 100.000 km
+162,2022-08-01,Wohnmobil,Ahorn,Canada AD Aut. 4.0 t,Alkoven,2019-03-01,26500.0,Automatik,125.0,Renault,47650,55550,68753,41,2-5 Jahre,20.001-50.000 km
+163,2022-08-01,Wohnmobil,Weinsberg,Carabus 601 MQ 3.5 t,Kastenwagen,2016-05-01,42000.0,Schaltung,96.0,Fiat Ducato,43000,46000,47574,75,5-10 Jahre,20.001-50.000 km
+164,2022-08-01,Wohnmobil,Bürstner,Lyseo TD Harmony Line IT 680 G 3.5 t,Teilintegrierter,2021-03-01,10100.0,Schaltung,103.0,Fiat,57500,59000,22159,17,0-2 Jahre,0-20.000 km
+165,2022-08-01,Wohnmobil,Carado,T447 Clever Plus Edition 4.0 t,Teilintegrierter,2021-07-01,8150.0,Schaltung,118.0,Fiat,57600,62400,29690,13,0-2 Jahre,0-20.000 km
+166,2022-08-01,Wohnmobil,Mercedes-Benz,V220d Marco Polo Activity *NEUFAHRZEUG*,Kastenwagen,2022-08-01,150.0,Automatik,120.0,,55900,57000,49661,0,0-2 Jahre,0-20.000 km
+167,2022-08-01,Wohnmobil,Dethleffs,A 5251 Advantage 3.0 t,Alkoven,2001-06-01,190000.0,Schaltung,66.0,Fiat Ducato,5200,5000,20253,254,Über 10 Jahre,Über 100.000 km
+168,2022-08-01,Wohnmobil,Randger,R 602 3.5 t,Kastenwagen,2022-06-01,3400.0,Schaltung,103.0,Fiat,61500,68000,25774,2,0-2 Jahre,0-20.000 km
+169,2022-08-01,Wohnmobil,Eura Mobil,Activia One 690 HB 3.5 t (abgel.),Alkoven,2022-03-01,8600.0,Schaltung,103.0,Fiat Ducato,69000,71000,76135,5,0-2 Jahre,0-20.000 km
+170,2022-08-01,Wohnmobil,Carado,A 132 / 3.5 t,Alkoven,2021-05-01,6000.0,Schaltung,103.0,Fiat,51300,55000,85229,15,0-2 Jahre,0-20.000 km
+171,2022-08-01,Wohnmobil,Rapido,896F 9G-Tronic 4.8 t,Integrierter,2020-04-01,24900.0,Automatik,118.0,Fiat Ducato,90100,100700,35410,28,2-5 Jahre,20.001-50.000 km
+172,2022-08-01,Wohnmobil,Morelo,Palace 88 LB 7.49 t,Integrierter,2022-01-01,7300.0,Automatik,155.0,Iveco,296700,300000,28816,7,0-2 Jahre,0-20.000 km
+173,2022-08-01,Wohnmobil,Hymer,Tramp S 680 9G-Tronic 4.2 t,Teilintegrierter,2022-01-01,8500.0,Automatik,125.0,Mercedes-Benz Sprinter,88100,94800,26125,7,0-2 Jahre,0-20.000 km
+174,2022-08-01,Wohnmobil,Dethleffs,I 6700 Esprit Eighty 80 Jahre 4.25 t,Integrierter,2012-05-01,64000.0,Schaltung,96.0,Fiat,51100,57000,74564,123,Über 10 Jahre,50.001-100.000 km
+175,2022-08-01,Wohnmobil,Hymer,Campus Free 600 / 3.5 t,Kastenwagen,2020-02-01,10200.0,Schaltung,103.0,Fiat,61000,60900,75438,30,2-5 Jahre,0-20.000 km
+176,2022-09-01,Wohnmobil,Carado,V132 / 3.5 t,Teilintegrierter,2022-08-01,600.0,Schaltung,121.0,Citroen,52700,57500,94032,1,0-2 Jahre,0-20.000 km
+177,2022-08-01,Wohnmobil,Bürstner,Travel Van T 571 G 3.5 t,Teilintegrierter,2016-04-01,5000.0,Schaltung,96.0,Fiat,42800,47500,90480,76,5-10 Jahre,0-20.000 km
+178,2022-09-01,Wohnmobil,Carthago,C-Tourer T 143 LE 9G-Tronic 4.25 t,Teilintegrierter,2021-07-01,13900.0,Automatik,118.0,Fiat Ducato,91050,95950,41352,14,0-2 Jahre,0-20.000 km
+179,2022-09-01,Wohnmobil,Malibu,Van 600 DB Charming GT 3.5 t,Kastenwagen,2022-03-01,13000.0,Schaltung,103.0,Fiat Ducato 8,69950,74950,26121,6,0-2 Jahre,0-20.000 km
+180,2022-09-01,Wohnmobil,Hymer,B MC T 680 Aut. 4.5 t,Teilintegrierter,2019-04-01,25400.0,Automatik,130.0,Mercedes Sprinter 418 CDI,98000,109000,40764,41,2-5 Jahre,20.001-50.000 km
+181,2022-09-01,Wohnmobil,Carthago,C-Tourer I 143 / 4.5 t,Integrierter,2014-07-01,71200.0,Schaltung,109.0,Fiat Ducato,57900,60000,25884,98,5-10 Jahre,50.001-100.000 km
+182,2022-09-01,Wohnmobil,Weinsberg,CaraCore 700 MEG 3.65 t,Integrierter,2021-05-01,30400.0,Schaltung,88.0,Fiat Ducato,68800,79000,87700,16,0-2 Jahre,20.001-50.000 km
+183,2022-09-01,Wohnmobil,Chausson,610 Special Edition 3.5 ,Teilintegrierter,2018-05-01,21275.0,Schaltung,125.0,Ford Transit,52400,59000,6231,52,2-5 Jahre,20.001-50.000 km
+184,2022-09-01,Wohnmobil,Roller Team,Granduca 64 / 3.4 t,Alkoven,2004-03-01,105456.0,Schaltung,81.0,Fiat Ducato ,18000,22500,86415,222,Über 10 Jahre,Über 100.000 km
+185,2022-09-01,Wohnmobil,Roller Team,Kronos 291 M 3.5 t,Alkoven,2021-03-01,21000.0,Schaltung,96.0,Ford,51000,51000,69469,18,0-2 Jahre,20.001-50.000 km
+186,2022-09-01,Wohnmobil,Weinsberg,CaraTour 3.5 t,Kastenwagen,2020-01-01,15000.0,Schaltung,103.0,Fiat,53500,58000,93055,32,2-5 Jahre,0-20.000 km
+187,2022-09-01,Wohnmobil,Eura Mobil,Integra Line 720 EB 9G-Tronic 4.4 t,Integrierter,2020-10-01,12740.0,Automatik,130.0,Fiat Ducato,94000,101000,71334,23,0-2 Jahre,0-20.000 km
+188,2022-09-01,Wohnmobil,Sunlight,T 67 / 3.5 t,Teilintegrierter,2018-07-01,16700.0,Schaltung,110.0,Fiat,53700,55000,48268,50,2-5 Jahre,0-20.000 km
+189,2022-09-01,Wohnmobil,Dethleffs,Trend A 7877-2 / 5.4 t,Alkoven,2018-05-01,54000.0,Schaltung,130.0,Ducato MultiJet ,90000,110000,76332,52,2-5 Jahre,50.001-100.000 km
+190,2022-09-01,Wohnmobil,Hymer,Exsis I 678 / 4.5 t,Integrierter,2018-08-01,22000.0,Schaltung,110.0,Fiat,84500,94000,58256,49,2-5 Jahre,20.001-50.000 km
+191,2022-09-01,Wohnmobil,Chausson,Welcome 611 Travel Line 3.5 t,Teilintegrierter,2018-06-01,29000.0,Schaltung,110.0,Fiat,52600,55000,34369,51,2-5 Jahre,20.001-50.000 km
+192,2022-09-01,Wohnmobil,Carado,T 448 / 3.5 t,Teilintegrierter,2019-07-01,18000.0,Schaltung,96.0,Fiat Ducato,53000,57500,86872,38,2-5 Jahre,0-20.000 km
+193,2022-09-01,Wohnmobil,Forster,A741 VB 3.5 t,Alkoven,2020-05-01,27300.0,Schaltung,103.0,Fiat Ducato,50000,58500,75382,28,2-5 Jahre,20.001-50.000 km
+194,2022-09-01,Wohnmobil,Carthago,chic c-line 5.0 Suite 4.5 t *MwSt.*,Integrierter,2018-03-01,9300.0,Automatik,130.0,Fiat,104575,103075,17268,54,2-5 Jahre,0-20.000 km
+195,2022-09-01,Wohnmobil,Volkswagen,Grand California 600 Aut. 3.5 t,Kastenwagen,2021-03-01,8600.0,Automatik,130.0,,64000,65500,31558,18,0-2 Jahre,0-20.000 km
+196,2022-09-01,Wohnmobil,Dethleffs,Trend I 7017 / 4.25 t,Integrierter,2021-09-01,4500.0,Schaltung,118.0,Fiat Ducato,78950,86450,42657,12,0-2 Jahre,0-20.000 km
+197,2022-09-01,Wohnmobil,Mooveo,VAN 63 EB 3.5 t,Kastenwagen,2021-06-01,19520.0,Schaltung,103.0,Citroen,60000,62000,89079,15,0-2 Jahre,0-20.000 km
+198,2022-09-01,Wohnmobil,Carado,Vlow 601 Aut. 3.5 t,Kastenwagen,2018-09-01,46000.0,Automatik,96.0,Fiat Ducato,45000,45000,30952,48,2-5 Jahre,20.001-50.000 km
+199,2022-09-01,Wohnmobil,Challenger,C394 GA VIP 3.5 t,Alkoven,2020-08-01,8500.0,Schaltung,103.0,Fiat Ducato,54500,61000,9112,25,2-5 Jahre,0-20.000 km
+200,2022-09-01,Wohnmobil,Pössl,Summit 600 All-In 3.5 t,Kastenwagen,2018-01-01,28000.0,Schaltung,120.0,Citroen ,51900,57000,35619,56,2-5 Jahre,20.001-50.000 km
+201,2022-09-01,Wohnmobil,Weinsberg,CaraBus 630 MEG Outlaw 3.5 t,Kastenwagen,2020-07-01,19800.0,Schaltung,118.0,Fiat Ducato,55300,55100,44227,26,2-5 Jahre,0-20.000 km
+202,2022-09-01,Wohnmobil,VANTourer,600 L Prime Aut. 3.5 t,Kastenwagen,2018-03-01,19700.0,Automatik,110.0,Fiat,52700,55000,24109,54,2-5 Jahre,0-20.000 km
+203,2022-09-01,Wohnmobil,Knaus,Boxstar Street 3.3 t,Kastenwagen,2013-04-01,98000.0,Schaltung,96.0,Fiat Ducato,32500,38000,72160,113,5-10 Jahre,50.001-100.000 km
+204,2022-09-01,Wohnmobil,Eura Mobil,Profila T 695 HB Aut. 4.4 t,Teilintegrierter,2018-07-01,33400.0,Automatik,110.0,Fiat Ducato,59400,64600,27367,50,2-5 Jahre,20.001-50.000 km
+205,2022-09-01,Wohnmobil,Knaus,Sun Traveller 605 D 3.5 t,Alkoven,2006-08-01,82463.0,Schaltung,95.0,Fiat Ducato,26150,31850,82110,193,Über 10 Jahre,50.001-100.000 km
+206,2022-09-01,Wohnmobil,Carthago,Chic C-Line I 4.8 LE 40 heavy 4.5 t,Integrierter,2019-03-01,17500.0,Automatik,110.0,Fiat,95000,110000,27607,42,2-5 Jahre,0-20.000 km
+207,2022-09-01,Wohnmobil,Sunlight,T 60 / 3.5 t,Teilintegrierter,2018-09-01,19316.0,Schaltung,96.0,Fiat Ducato,45125,45125,44579,48,2-5 Jahre,0-20.000 km
+208,2022-10-01,Wohnmobil,Knaus,BoxStar 600 MQ 3.5 t,Kastenwagen,2022-01-01,24000.0,Schaltung,103.0,Fiat Ducato,52900,53000,40764,9,0-2 Jahre,20.001-50.000 km
+209,2022-09-01,Wohnmobil,Etrusco,CV 540 Ed. Complete Sel. 3.5 t,Kastenwagen,2021-02-01,28300.0,Schaltung,103.0,Fiat Ducato,55300,57900,53913,19,0-2 Jahre,20.001-50.000 km
+210,2022-09-01,Wohnmobil,Carado,T 449 / 3.5 t,Teilintegrierter,2020-10-01,13500.0,Schaltung,103.0,Fiat Ducato,55930,55930,26131,23,0-2 Jahre,0-20.000 km
+211,2022-09-01,Wohnmobil,Sunlight,Cliff 640 Adventure Edition 3.5 t,Kastenwagen,2021-06-01,19863.0,Schaltung,103.0,Fiat,53500,55000,41470,15,0-2 Jahre,0-20.000 km
+212,2022-09-01,Wohnmobil,Dethleffs,Alpa A 6820-2 / 4.8 t,Alkoven,2018-05-01,24500.0,Schaltung,110.0,Fiat,79000,85000,34630,52,2-5 Jahre,20.001-50.000 km
+213,2022-09-01,Wohnmobil,Malibu,Van 640 LE Charming Coupe 9G-Tronic 3.5 t,Kastenwagen,2021-04-01,42000.0,Automatik,118.0,FIAT Ducato ,65000,69500,61479,17,0-2 Jahre,20.001-50.000 km
+214,2022-09-01,Wohnmobil,Weinsberg,CaraTour 600 MQH MAXI 9G-Tronic 3.5 t,Kastenwagen,2021-03-01,31000.0,Automatik,118.0,Fiat Ducato ,63400,68000,28201,18,0-2 Jahre,20.001-50.000 km
+215,2022-09-01,Wohnmobil,Andere,Bavaria V 630 J / 3.5 t,Kastenwagen,2018-04-01,44150.0,Schaltung,96.0,Fiat Ducato ,45000,45000,73655,53,2-5 Jahre,20.001-50.000 km
+216,2022-09-01,Wohnmobil,Weinsberg,CaraCompact Pepper 600 MEG 3.5 t,Teilintegrierter,2022-04-01,10000.0,Schaltung,103.0,Fiat Ducato 8,64100,65000,54612,5,0-2 Jahre,0-20.000 km
+217,2022-09-01,Wohnmobil,Knaus,SKY TI 650 MF Platinum Sel. 9G-Tronic 3.85 t,Teilintegrierter,2021-02-01,14500.0,Automatik,103.0,Fiat Ducato,68600,77500,79713,19,0-2 Jahre,0-20.000 km
+218,2022-09-01,Wohnmobil,Bürstner,Nexxo Time T 690 G 30 Jahre Ed. 3.5 t,Teilintegrierter,2018-12-01,33400.0,Schaltung,120.0,Citroën ,55000,59500,32602,45,2-5 Jahre,20.001-50.000 km
+219,2022-09-01,Wohnmobil,Bravia,Swan 636 / 3.5 t,Kastenwagen,2021-09-01,23100.0,Schaltung,121.0,Peugeot Boxer,55500,59000,49696,12,0-2 Jahre,20.001-50.000 km
+220,2022-09-01,Wohnmobil,Etrusco,T 7400 QB 3.5 t,Teilintegrierter,2017-11-01,36100.0,Schaltung,96.0,Fiat Ducato,50500,53500,73433,58,2-5 Jahre,20.001-50.000 km
+221,2022-09-01,Wohnmobil,Knaus,Sun TI 650 MF 3.5 t,Teilintegrierter,2017-07-01,14200.0,Schaltung,96.0,Fiat Ducato,52000,60000,41366,62,5-10 Jahre,0-20.000 km
+222,2022-09-01,Wohnmobil,Pössl,Roadcamp 540 / 3.5 t,Kastenwagen,2019-12-01,46700.0,Schaltung,121.0,Citroen Jumper,45900,45900,89257,33,2-5 Jahre,20.001-50.000 km
+223,2022-10-01,Wohnmobil,Andere,JOA Camp 63 T 3.5 t,Kastenwagen,2022-04-01,5500.0,Schaltung,121.0,Citröen,52900,56500,83671,6,0-2 Jahre,0-20.000 km
+224,2022-09-01,Wohnmobil,Laika,Kosmo 209 / 3.5 t,Teilintegrierter,2021-06-01,3030.0,Schaltung,103.0,Fiat,57600,58000,79418,15,0-2 Jahre,0-20.000 km
+225,2022-10-01,Wohnmobil,Chausson,Flash 03 / 3.5 t,Alkoven,2006-05-01,153000.0,Schaltung,92.0,Ford,15700,16000,22889,197,Über 10 Jahre,Über 100.000 km
+226,2022-10-01,Wohnmobil,Chausson,6040 PREMIUM Line 3.5 t,Integrierter,2022-01-01,12000.0,Schaltung,103.0,Fiat,68700,78000,50259,9,0-2 Jahre,0-20.000 km
+227,2022-10-01,Wohnmobil,Ahorn,ECO 683 / 3.5 t,Alkoven,2019-01-01,79851.0,Schaltung,96.0,Renault,41900,41900,59192,45,2-5 Jahre,50.001-100.000 km
+228,2022-10-01,Wohnmobil,Hobby,Optima de Luxe T 65 GE 3.5 t,Teilintegrierter,2020-06-01,22500.0,Schaltung,96.0,Fiat Ducato,56100,59800,44357,28,2-5 Jahre,20.001-50.000 km
+229,2022-10-01,Wohnmobil,Roller Team,Kronos 285 TL Mod. 2022 Aut. 3.5 t,Teilintegrierter,2021-12-01,6850.0,Automatik,125.0,Ford Transit,61300,64800,89520,10,0-2 Jahre,0-20.000 km
+230,2022-10-01,Wohnmobil,Knaus,Sport Traveller 600 MKG 3.5 t,Alkoven,2007-12-01,94000.0,Schaltung,88.0,Renault Master,26100,26500,88090,178,Über 10 Jahre,50.001-100.000 km
+231,2022-10-01,Wohnmobil,Roller Team,Zefiro 235 TL 3.5 t,Teilintegrierter,2017-07-01,5700.0,Schaltung,96.0,Fiat,43000,45000,71706,63,5-10 Jahre,0-20.000 km
+232,2022-10-01,Wohnmobil,Dethleffs,I 5841 Advantage mit DPF 3.5 t,Integrierter,2005-04-01,96500.0,Schaltung,94.0,Fiat,25000,25000,22523,210,Über 10 Jahre,50.001-100.000 km
+233,2022-10-01,Wohnmobil,Eura Mobil,Profila RS 720 EB 4.25 t,Teilintegrierter,2015-06-01,39400.0,Schaltung,109.0,Fiat Ducato,52000,56000,21680,88,5-10 Jahre,20.001-50.000 km
+234,2022-10-01,Wohnmobil,Sunlight,T 67 S Active 3.5 t,Teilintegrierter,2020-04-01,19767.0,Schaltung,103.0,Fiat,52950,54750,31789,30,2-5 Jahre,0-20.000 km
+235,2022-10-01,Wohnmobil,Forster,A 741 VB 9G-Tronic 3.85 t,Alkoven,2020-08-01,26000.0,Automatik,130.0,Fiat,68500,67000,38368,26,2-5 Jahre,20.001-50.000 km
+236,2022-10-01,Wohnmobil,Etrusco,V 5900 DB 3.5 t,Teilintegrierter,2021-07-01,5700.0,Schaltung,103.0,Fiat,50800,55000,73271,15,0-2 Jahre,0-20.000 km
+237,2022-10-01,Wohnmobil,Bürstner,Delfin T660 / 3.5 t,Teilintegrierter,2021-11-01,8542.0,Schaltung,103.0,Citroen,56000,60000,53359,11,0-2 Jahre,0-20.000 km
+238,2022-10-01,Wohnmobil,Carthago,Chic E-Line I 50 / 5.25 t,Integrierter,2013-05-01,65310.0,Automatik,130.0,Fiat,85000,100000,53347,113,5-10 Jahre,50.001-100.000 km
+239,2022-10-01,Wohnmobil,Malibu,Van 640 LE Charming 3.5 t,Kastenwagen,2018-03-01,72600.0,Schaltung,110.0,Fiat,52000,55000,39307,55,2-5 Jahre,50.001-100.000 km
+240,2022-10-01,Wohnmobil,Carthago,Chic E-line I 61XL LE Aut. 5.0 t,Integrierter,2020-07-01,20000.0,Automatik,130.0,Fiat,123100,145000,13465,27,2-5 Jahre,0-20.000 km
+241,2022-10-01,Wohnmobil,Laika,X 660 R 3.5 t,Teilintegrierter,2012-11-01,68130.0,Schaltung,109.0,Fiat,40600,40800,71083,119,5-10 Jahre,50.001-100.000 km
+242,2022-10-01,Wohnmobil,Chausson,777 GA Titanium VIP 9G-Tronic 3.85 t,Teilintegrierter,2021-06-01,24000.0,Automatik,103.0,Fiat Ducato,59300,59900,41462,16,0-2 Jahre,20.001-50.000 km
+243,2022-10-01,Wohnmobil,Carado,A 361 / 3.5 t,Alkoven,2017-09-01,15450.0,Schaltung,96.0,Fiat Ducato,40000,43700,90537,61,5-10 Jahre,0-20.000 km
+244,2022-10-01,Wohnmobil,Bürstner,Lyseo TD 744 Harmony Line 3.5 t,Teilintegrierter,2018-05-01,31507.0,Schaltung,96.0,Fiat,62100,62000,31234,53,2-5 Jahre,20.001-50.000 km
+245,2022-10-01,Wohnmobil,Ahorn,Van 550 / 3.5 t,Kastenwagen,2020-11-01,10000.0,Schaltung,100.0,Renault,44500,50000,67475,23,0-2 Jahre,0-20.000 km
+246,2022-10-01,Wohnmobil,Hymer,B MC T 680 / 4.5 t,Teilintegrierter,2019-04-01,45000.0,Schaltung,105.0,MB,68500,75000,69493,42,2-5 Jahre,20.001-50.000 km
+247,2023-03-01,Wohnmobil,Sunlight,Cliff 4x4 Adventure Van 3.5 t,Kastenwagen,2019-02-01,12381.0,Schaltung,96.0,FIAT,82500,500000,88299,49,2-5 Jahre,0-20.000 km
+248,2022-10-01,Wohnmobil,Carado,T448 / 3.5 t,Teilintegrierter,2019-07-01,16100.0,Schaltung,114.0,Fiat Ducato,49200,53500,24241,39,2-5 Jahre,0-20.000 km
+249,2022-10-01,Wohnmobil,Mooveo,VAN 60EB ALL-IN 3.5 t,Kastenwagen,2022-06-01,8000.0,Schaltung,103.0,Citroen,55500,59900,37199,4,0-2 Jahre,0-20.000 km
+250,2022-10-01,Wohnmobil,Carado,T 447 / 3.5 t,Teilintegrierter,2018-04-01,29500.0,Schaltung,96.0,Fiat,48000,50000,63477,54,2-5 Jahre,20.001-50.000 km
+251,2022-10-01,Wohnmobil,Malibu,Van 640 LE 3.5 t,Kastenwagen,2017-03-01,12284.0,Schaltung,110.0,Fiat Ducato,52700,54500,88471,67,5-10 Jahre,0-20.000 km
+252,2022-10-01,Wohnmobil,Hymer,MC T 680 Aut. 4.4 t,Teilintegrierter,2020-11-01,12565.0,Automatik,130.0,MB,104000,120000,25337,23,0-2 Jahre,0-20.000 km
+253,2022-10-01,Wohnmobil,Hymer,T 585 Aut. 3.5 t,Teilintegrierter,2021-09-01,15000.0,Automatik,125.0,Mercedes Benz Sprinter 417 CDI,78500,82000,82054,13,0-2 Jahre,0-20.000 km
+254,2022-10-01,Wohnmobil,Knaus,SUN I 700 Aut. 4.4 t,Integrierter,2018-08-01,34000.0,Automatik,110.0,Fiat,78000,80000,35457,50,2-5 Jahre,20.001-50.000 km
+255,2022-10-01,Wohnmobil,Knaus,VAN TI 650 MEG Platinum Sel. 3.5 t,Teilintegrierter,2018-07-01,4656.0,Schaltung,120.0,Peugeot,51200,57000,64546,51,2-5 Jahre,0-20.000 km
+256,2022-10-01,Wohnmobil,Sunlight,Cliff 600 / 3.5 t,Kastenwagen,2019-07-01,34000.0,Schaltung,96.0,Fiat,45800,49800,79650,39,2-5 Jahre,20.001-50.000 km
+257,2022-10-01,Wohnmobil,Concorde,Charisma 890 FS 7.49 t ,Integrierter,2010-01-01,63500.0,Automatik,162.0,Man,117000,133200,48317,153,Über 10 Jahre,50.001-100.000 km
+258,2022-10-01,Wohnmobil,Carado,T 448 / 3.5 t,Teilintegrierter,2020-05-01,17500.0,Schaltung,103.0,Fiat Ducato,51700,53500,40882,29,2-5 Jahre,0-20.000 km
+259,2022-10-01,Wohnmobil,Sunlight,A 68 / 4.09 t,Alkoven,2021-08-01,5000.0,Schaltung,103.0,Fiat,47000,50000,52538,14,0-2 Jahre,0-20.000 km
+260,2022-10-01,Wohnmobil,Sunlight,V 60 / 3.5 t,Teilintegrierter,2020-05-01,37000.0,Schaltung,88.0,Fiat ,44500,44500,18439,29,2-5 Jahre,20.001-50.000 km
+261,2022-10-01,Wohnmobil,Malibu,T 440 LE 4.25 t,Teilintegrierter,2021-09-01,11000.0,Schaltung,118.0,Fiat,81400,91000,55286,13,0-2 Jahre,0-20.000 km
+262,2022-10-01,Wohnmobil,Pössl,Trenta 640 / 3.5 t,Kastenwagen,2020-07-01,12000.0,Schaltung,121.0,Citroen Jumper,54250,56050,92637,27,2-5 Jahre,0-20.000 km
+263,2022-10-01,Wohnmobil,Hobby,Optima De Luxe T65 GE 50 J. Sondermod. 3.5 t,Teilintegrierter,2017-07-01,76000.0,Schaltung,96.0,Fiat Ducato,47000,48500,86424,63,5-10 Jahre,50.001-100.000 km
+264,2022-10-01,Wohnmobil,Knaus,VAN I 650 MEG 3.5 t,Integrierter,2018-04-01,38200.0,Schaltung,110.0,Fiat Ducato,56500,58000,89551,54,2-5 Jahre,20.001-50.000 km
+265,2022-10-01,Wohnmobil,Hymer,MLT 570 4x4 Aut. 3.5 t,Teilintegrierter,2018-01-01,45000.0,Automatik,140.0,MB,98000,104500,76227,57,2-5 Jahre,20.001-50.000 km
+266,2022-10-01,Wohnmobil,Forster,FV 599 VB 3.5 t,Kastenwagen,2022-05-01,17646.0,Schaltung,103.0,Fiat,51800,50900,89584,5,0-2 Jahre,0-20.000 km
+267,2022-10-01,Wohnmobil,Pössl,2 WIN RS Plus 3.5 t,Kastenwagen,2022-05-01,7400.0,Schaltung,121.0,Citroen,63100,65500,44263,5,0-2 Jahre,0-20.000 km
+268,2022-10-01,Wohnmobil,Eura Mobil,Terrestra A 690 HB 4.4 t,Alkoven,2018-05-01,25000.0,Schaltung,110.0,Fiat,62500,63500,24558,53,2-5 Jahre,20.001-50.000 km
+269,2022-10-01,Wohnmobil,Malibu,600 DB Charming 3.5 t,Kastenwagen,2018-05-01,32391.0,Schaltung,110.0,FIAT Ducato,53700,58500,71720,53,2-5 Jahre,20.001-50.000 km
+270,2022-10-01,Wohnmobil,Hymer,Ayers Rock Aut. 3.5 t,Kastenwagen,2017-06-01,23000.0,Automatik,130.0,Fiat Ducato,56700,54000,6667,64,5-10 Jahre,20.001-50.000 km
+271,2022-10-01,Wohnmobil,Challenger,250 VIP Aut. 3.5 t,Teilintegrierter,2020-08-01,45113.0,Automatik,125.0,Ford,53650,55950,67482,26,2-5 Jahre,20.001-50.000 km
+272,2022-11-01,Wohnmobil,Dethleffs,Magic Edition I 001 DBM 3.5 t,Integrierter,2018-02-01,51000.0,Schaltung,109.0,Fiat Ducato,65100,73000,51789,57,2-5 Jahre,50.001-100.000 km
+273,2022-11-01,Wohnmobil,Roadcar,R 601 / 3.5 t,Kastenwagen,2021-05-01,48700.0,Schaltung,103.0,Citroen Jumper,47400,48800,83533,18,0-2 Jahre,20.001-50.000 km
+274,2022-11-01,Wohnmobil,Carado,V132 Edition 3.5 t,Teilintegrierter,2022-05-01,19000.0,Schaltung,103.0,Citroen,48850,51550,24211,6,0-2 Jahre,0-20.000 km
+275,2022-11-01,Wohnmobil,Volkswagen,California Ocean Edition 4Motion DSG ,Bus,2018-06-01,87000.0,Automatik,110.0,,53600,56900,54675,53,2-5 Jahre,50.001-100.000 km
+276,2022-11-01,Wohnmobil,Malibu,I 460 / 3.5 t,Integrierter,2016-05-01,62000.0,Schaltung,96.0,Fiat,64000,67000,77654,78,5-10 Jahre,50.001-100.000 km
+277,2022-11-01,Wohnmobil,Mercedes-Benz,Marco Polo 250d EMP 4x4 AMG Line,Kastenwagen,2017-04-01,55700.0,Automatik,140.0,,56500,55100,71686,67,5-10 Jahre,50.001-100.000 km
+278,2022-11-01,Wohnmobil,Hymer,Grand Canyon 3.5 t,Kastenwagen,2018-05-01,12300.0,Schaltung,96.0,Fiat,54500,57000,71735,54,2-5 Jahre,0-20.000 km
+279,2022-11-01,Wohnmobil,Carado,T 135 / 3.5 t,Teilintegrierter,2010-03-01,97000.0,Schaltung,103.0,Ford,25000,32000,23689,152,Über 10 Jahre,50.001-100.000 km
+280,2022-11-01,Wohnmobil,Dethleffs,Grand Alpa A 7820-2 Aut. 5.0 t,Alkoven,2016-12-01,49200.0,Automatik,130.0,Fiat,94700,98000,18609,71,5-10 Jahre,20.001-50.000 km
+281,2022-11-01,Wohnmobil,Sunlight,A70 / 3.5 t,Alkoven,2020-01-01,11600.0,Schaltung,103.0,Fiat Ducato,53200,53200,30966,34,2-5 Jahre,0-20.000 km
+282,2022-11-01,Wohnmobil,Knaus,BoxStar 540 Road 60 Years 3.5 t,Kastenwagen,2021-06-01,33610.0,Schaltung,103.0,Fiat Ducato,53000,56000,52152,17,0-2 Jahre,20.001-50.000 km
+283,2022-11-01,Wohnmobil,Carado,I 338 / 3.5 t,Integrierter,2020-08-01,14850.0,Schaltung,103.0,Fiat Ducato ,59000,62000,53474,27,2-5 Jahre,0-20.000 km
+284,2022-11-01,Wohnmobil,Bürstner,Lyseo TD 644 G Harmony Line 9G-Tronic 3.5 t,Teilintegrierter,2021-08-01,14967.0,Automatik,103.0,Ducato,70700,72000,21401,15,0-2 Jahre,0-20.000 km
+285,2022-11-01,Wohnmobil,Bürstner,T 602 mit DPF 3.4 t,Teilintegrierter,2004-03-01,161500.0,Schaltung,94.0,Fiat Ducato,19000,24500,37574,224,Über 10 Jahre,Über 100.000 km
+286,2022-11-01,Wohnmobil,Weinsberg,CaraSuite 650 MF IC-Line Orange 3.5 t,Teilintegrierter,2019-05-01,18500.0,Schaltung,96.0,Fiat,51700,55100,97638,42,2-5 Jahre,0-20.000 km
+287,2022-11-01,Wohnmobil,Etrusco,600 DB TypeX Complete Edition 3.5 t,Kastenwagen,2021-05-01,28500.0,Schaltung,103.0,Fiat Ducato ,53500,54000,1445,18,0-2 Jahre,20.001-50.000 km
+288,2022-11-01,Wohnmobil,Carthago,Chic E-Line I 50 LE DA auf MB 5.0 t,Integrierter,2020-12-01,28250.0,Automatik,130.0,Mercedes,168850,183350,30952,23,0-2 Jahre,20.001-50.000 km
+289,2022-11-01,Wohnmobil,Mercedes-Benz,Marco Polo V 220 D Lang mit Küche 9G-Tronic ,Bus,2022-03-01,31500.0,Automatik,120.0,,57700,57000,22041,8,0-2 Jahre,20.001-50.000 km
+290,2022-11-01,Wohnmobil,Pilote,746 GJ Evidence 9G-Tronic 3.5 t,Teilintegrierter,2020-11-01,10870.0,Automatik,118.0,Fiat,67700,71900,59909,24,0-2 Jahre,0-20.000 km
+291,2022-11-01,Wohnmobil,Dethleffs,I 7010-2 / I 7090-2 Esprit Aut. 4.25 t,Integrierter,2013-02-01,40100.0,Automatik,109.0,Fiat,41800,50000,21357,117,5-10 Jahre,20.001-50.000 km
+292,2022-11-01,Wohnmobil,Malibu,Van Comfort  640 LE 3.5 t,Kastenwagen,2022-08-01,1200.0,Schaltung,103.0,Fiat Ducato,64000,63000,89081,3,0-2 Jahre,0-20.000 km
+293,2022-11-01,Wohnmobil,Malibu,Van 640 LE Aut. 3.5 t,Kastenwagen,2019-04-01,53400.0,Automatik,110.0,Fiat,55500,59900,21218,43,2-5 Jahre,50.001-100.000 km
+294,2022-11-01,Wohnmobil,Etrusco,T 6900 SB 3.5 t,Teilintegrierter,2020-07-01,16500.0,Schaltung,88.0,Fiat,50500,51900,74078,28,2-5 Jahre,0-20.000 km
+295,2022-11-01,Wohnmobil,Weinsberg,Caratour 600 MQ 3.5 t,Kastenwagen,2020-07-01,32769.0,Schaltung,103.0,Fiat,47700,49300,99817,28,2-5 Jahre,20.001-50.000 km
+296,2022-11-01,Wohnmobil,Pössl,Summit 600 Plus 3.5 t,Kastenwagen,2020-03-01,22000.0,Schaltung,103.0,Citroen Jumper,48600,53000,65510,32,2-5 Jahre,20.001-50.000 km
+297,2022-11-01,Wohnmobil,Eura Mobil,Profila RS 675 SB Mondial Ed. 3.85 t,Teilintegrierter,2019-06-01,62000.0,Schaltung,110.0,Fiat Ducato,57000,62000,74564,41,2-5 Jahre,50.001-100.000 km
+298,2022-11-01,Wohnmobil,Globecar,Campscout 3.5 t,Kastenwagen,2019-04-01,25500.0,Schaltung,120.0,Citroen Jumper,50500,52000,28203,43,2-5 Jahre,20.001-50.000 km
+299,2022-11-01,Wohnmobil,Pössl,Summit Prime 640 / 3.5 t,Kastenwagen,2020-08-01,12800.0,Schaltung,118.0,Fiat,56800,60200,83324,27,2-5 Jahre,0-20.000 km
+300,2022-11-01,Wohnmobil,Hobby,Siesta A65 GM 3.65 t,Alkoven,2021-01-01,7000.0,Schaltung,110.0,Fiat Ducato,48700,48000,22844,22,0-2 Jahre,0-20.000 km
+301,2022-11-01,Wohnmobil,Sun Living,V 65 SL 9G-Tronic 3.5 t,Kastenwagen,2021-07-01,7000.0,Automatik,118.0,Fiat Ducato ,60990,64990,24837,16,0-2 Jahre,0-20.000 km
+302,2022-11-01,Wohnmobil,Adria,Compact SLS Aut. 3.5 t,Teilintegrierter,2018-07-01,42000.0,Automatik,110.0,Fiat,54000,55000,74889,52,2-5 Jahre,20.001-50.000 km
+303,2022-11-01,Wohnmobil,Carado,Vlow 600 / 3.5 t,Kastenwagen,2019-04-01,44000.0,Schaltung,110.0,Fiat Ducato,45000,49000,63906,43,2-5 Jahre,20.001-50.000 km
+304,2022-11-01,Wohnmobil,Pössl,Roady 499 / 3.3 t,Kastenwagen,2011-05-01,80100.0,Schaltung,116.0,Citroen Jumper,34600,34500,51381,138,Über 10 Jahre,50.001-100.000 km
+305,2022-11-01,Wohnmobil,Carado,Clever CVE 601 / 3.5 t,Kastenwagen,2020-12-01,55500.0,Schaltung,103.0,Fiat Ducato,45500,48000,56072,23,0-2 Jahre,50.001-100.000 km
+306,2022-11-01,Wohnmobil,Carthago,Chic C-Line I 5.3 QB SL 9G-Tronic 4.5 t,Integrierter,2020-06-01,15300.0,Automatik,130.0,Fiat,112000,130000,83454,29,2-5 Jahre,0-20.000 km
+307,2022-11-01,Wohnmobil,Weinsberg,CaraBus 600 MQ 3.5 t,Kastenwagen,2020-10-01,22000.0,Schaltung,88.0,Fiat,46700,48100,93413,25,2-5 Jahre,20.001-50.000 km
+308,2022-11-01,Wohnmobil,Malibu,640 LE Charming Coupe 9G-Tronic 3.5 t,Kastenwagen,2021-04-01,45000.0,Automatik,118.0,Fiat Ducato,64500,67000,61479,19,0-2 Jahre,20.001-50.000 km
+309,2022-11-01,Wohnmobil,Laika,Eco VIP H 715 mit DPF 3.5 t,Integrierter,2006-04-01,108000.0,Schaltung,94.0,Fiat,23400,29000,21465,199,Über 10 Jahre,Über 100.000 km
+310,2022-11-01,Wohnmobil,Roller Team,Livingstone Duo Sport 3.5 t,Kastenwagen,2021-07-01,10500.0,Schaltung,103.0,Fiat Ducato ,54500,57900,21465,16,0-2 Jahre,0-20.000 km
+311,2022-11-01,Wohnmobil,Concorde,Carver 890 RRL 7.49 t,Integrierter,2017-06-01,35000.0,Automatik,150.0,Iveco,199000,220000,91126,65,5-10 Jahre,20.001-50.000 km
+312,2022-12-01,Wohnmobil,Sunlight,A70 / 3.5 t,Alkoven,2016-06-01,78200.0,Schaltung,96.0,Fiat,41100,46500,15345,78,5-10 Jahre,50.001-100.000 km
+313,2022-11-01,Wohnmobil,Ahorn,Eco 683 / 3.5 t,Alkoven,2022-04-01,18000.0,Schaltung,107.0,Renault,49000,49000,74731,7,0-2 Jahre,0-20.000 km
+314,2022-11-01,Wohnmobil,LMC,TI 712 Comfort 9G-Tronic 4.25 t,Teilintegrierter,2020-05-01,10000.0,Automatik,103.0,Fiat,60000,67000,45529,30,2-5 Jahre,0-20.000 km
+315,2022-11-01,Wohnmobil,Eura Mobil,Profila 675 VB 3.5 t,Alkoven,2006-11-01,56400.0,Schaltung,96.0,Ford,24000,27100,74831,192,Über 10 Jahre,50.001-100.000 km
+316,2022-11-01,Wohnmobil,Dethleffs,Trend I 7057 DBM/EB 9G-Tronic 3.5 t,Integrierter,2020-06-01,16500.0,Automatik,118.0,Fiat,72000,76000,78628,29,2-5 Jahre,0-20.000 km
+317,2022-11-01,Wohnmobil,Westfalia,Columbus  601 D 9G-Tronic 3.5 t,Kastenwagen,2020-09-01,24000.0,Automatik,118.0,Fiat,60050,71750,89233,26,2-5 Jahre,20.001-50.000 km
+318,2022-12-01,Wohnmobil,Malibu,I 460 LE 9G-Tronic 3.5 t,Integrierter,2020-07-01,49640.0,Automatik,118.0,Fiat Ducato,82000,86200,51766,29,2-5 Jahre,20.001-50.000 km
+319,2022-12-01,Wohnmobil,Knaus,Box Star 600 MQ 3.5 t,Kastenwagen,2019-08-01,28300.0,Schaltung,96.0,Fiat,47500,50000,97947,40,2-5 Jahre,20.001-50.000 km
+320,2022-11-01,Wohnmobil,Globecar,Globescout Plus D-Line 9G-Tronic 3.5 t,Kastenwagen,2020-08-01,12000.0,Automatik,118.0,Fiat Ducato,55500,60000,82266,27,2-5 Jahre,0-20.000 km
+321,2022-11-01,Wohnmobil,Knaus,Van I 650 MEG Platinum Sel. 3.5 t,Integrierter,2020-05-01,27840.0,Schaltung,110.0,Fiat Ducato,58100,60000,51766,30,2-5 Jahre,20.001-50.000 km
+322,2022-11-01,Wohnmobil,Pössl,Roadcruiser B 3.5 t,Kastenwagen,2020-09-01,12500.0,Schaltung,103.0,Fiat Ducato,47200,50000,89079,26,2-5 Jahre,0-20.000 km
+323,2022-12-01,Wohnmobil,Pössl,Roadcruiser 3.5 t,Kastenwagen,2011-08-01,98600.0,Schaltung,116.0,Fiat,32000,37000,7778,136,Über 10 Jahre,50.001-100.000 km
+324,2022-12-01,Wohnmobil,Ahorn,ECO 680 / 3.5 t,Alkoven,2021-03-01,50061.0,Schaltung,107.0,Renault,43200,48500,7554,21,0-2 Jahre,50.001-100.000 km
+325,2022-12-01,Wohnmobil,Etrusco,I 7400 QBC 9G-Tronic 3.65 t,Integrierter,2022-07-01,16500.0,Automatik,118.0,Fiat,82500,82500,13595,5,0-2 Jahre,0-20.000 km
+326,2022-12-01,Wohnmobil,Dreamer,D 53 Fun 3.5 t,Kastenwagen,2021-06-01,19541.0,Schaltung,103.0,Fiat,48900,50900,91334,18,0-2 Jahre,0-20.000 km
+327,2022-12-01,Wohnmobil,Hymer,B 880 ML 9G-Tronic 5.5 t,Integrierter,2022-09-01,6000.0,Automatik,125.0,MB,182000,190000,57589,3,0-2 Jahre,0-20.000 km
+328,2022-12-01,Wohnmobil,Hymer,CS 495 / 3.4 t,Alkoven,2001-06-01,180200.0,Schaltung,90.0,Fiat,10500,13000,75417,258,Über 10 Jahre,Über 100.000 km
+329,2022-12-01,Wohnmobil,XGO,Dynamic 20 / 3.5 t,Alkoven,2019-03-01,21500.0,Schaltung,96.0,Fiat,44000,50000,50374,45,2-5 Jahre,20.001-50.000 km
+330,2022-12-01,Wohnmobil,Dethleffs,I 6617 EB 3.85 t,Integrierter,2020-06-01,23000.0,Schaltung,103.0,Fiat,66500,71500,74523,30,2-5 Jahre,20.001-50.000 km
+331,2022-12-01,Wohnmobil,Carado,T 339 / 3.5 t,Teilintegrierter,2019-05-01,24453.0,Schaltung,110.0,Fiat,50700,52900,25554,43,2-5 Jahre,20.001-50.000 km
+332,2022-12-01,Wohnmobil,Dethleffs,Trend A 6977 / 3.5 t,Alkoven,2017-04-01,43700.0,Schaltung,96.0,Fiat Ducato,42000,42000,48249,68,5-10 Jahre,20.001-50.000 km
+333,2022-12-01,Wohnmobil,Sunlight,T60 / 3.5 t,Teilintegrierter,2019-03-01,51600.0,Schaltung,96.0,Fiat,41800,42500,32760,45,2-5 Jahre,50.001-100.000 km
+334,2022-12-01,Wohnmobil,Bürstner,Campeo C 600 Active 9G-Tronic 3.5 t,Kastenwagen,2021-06-01,17200.0,Automatik,103.0,Fiat,54000,56000,78713,18,0-2 Jahre,0-20.000 km
+335,2022-12-01,Wohnwagen,Hobby,Excellent Edition 495 UL,,2021-12-01,,,,,22200,22800,53881,12,0-2 Jahre,Über 100.000 km
+336,2022-12-01,Wohnmobil,Weinsberg,CaraCore 700 MEG 3.5 t,Integrierter,2020-10-01,22500.0,Schaltung,118.0,Fiat,64000,73000,93413,26,2-5 Jahre,20.001-50.000 km
+337,2022-12-01,Wohnmobil,Weinsberg,CaraSuite 650 MF 3.5 t,Teilintegrierter,2020-09-01,28000.0,Schaltung,103.0,Fiat,50200,52000,93413,27,2-5 Jahre,20.001-50.000 km
+338,2022-12-01,Wohnmobil,Ahorn,Van 550 / 3.5 t,Kastenwagen,2022-08-01,3583.0,Schaltung,99.0,Renault Master,50200,58500,45964,4,0-2 Jahre,0-20.000 km
+339,2022-12-01,Wohnwagen,Fendt,Saphir 510,,2010-05-01,,,,,11000,13900,1561,151,Über 10 Jahre,Über 100.000 km
+340,2023-01-01,Wohnmobil,Knaus,VAN TI 550 MF VANSATION Sondermod. 3.5 t,Teilintegrierter,2021-05-01,49000.0,Schaltung,103.0,Fiat Ducato,51600,55100,54439,20,0-2 Jahre,20.001-50.000 km
+341,2023-01-01,Wohnmobil,Chausson,Twist Elegance V594 3.5 t,Kastenwagen,2019-11-01,22000.0,Schaltung,103.0,Fiat,47899,49999,63456,38,2-5 Jahre,20.001-50.000 km
+342,2023-01-01,Wohnmobil,Dethleffs,Globe 4 / 3.5 t,Teilintegrierter,2012-03-01,85110.0,Schaltung,96.0,Fiat,40500,43900,76229,130,Über 10 Jahre,50.001-100.000 km
+343,2023-01-01,Wohnmobil,Chausson,Twist Elegance V594 Anniversary 3.5 t,Kastenwagen,2020-06-01,20067.0,Schaltung,103.0,Fiat Ducato ,50100,51000,85757,31,2-5 Jahre,20.001-50.000 km
+344,2023-01-01,Wohnmobil,Carthago,Chic C-Line 4.9 Aut. 4.5 t,Integrierter,2012-08-01,57200.0,Automatik,109.0,Fiat,57500,60000,46446,125,Über 10 Jahre,50.001-100.000 km
+345,2023-01-01,Wohnmobil,Benimar,Amphitryon 967 / 3.5 t,Integrierter,2021-07-01,7900.0,Schaltung,118.0,Fiat Ducato,72500,77500,53797,18,0-2 Jahre,0-20.000 km
+346,2023-01-01,Wohnmobil,Dethleffs,Trend T 7057 DBM/EB 3.65 t,Teilintegrierter,2019-09-01,34500.0,Schaltung,103.0,Fiat,61500,67500,79379,40,2-5 Jahre,20.001-50.000 km
+347,2023-01-01,Wohnmobil,Forster,A 741 VB Livin'Up 3.5 t,Alkoven,2021-12-01,9200.0,Schaltung,118.0,Fiat,55800,55800,93049,13,0-2 Jahre,0-20.000 km
+348,2023-01-01,Wohnmobil,Challenger,Genesis 278 EB 3.5 t,Teilintegrierter,2018-11-01,29990.0,Schaltung,125.0,Ford,47150,45950,21037,50,2-5 Jahre,20.001-50.000 km
+349,2023-01-01,Wohnwagen,Knaus,Travelino 400 QL,,2021-06-01,,,,,14100,15000,75038,19,0-2 Jahre,Über 100.000 km
+350,2023-01-01,Wohnwagen,Bürstner,Premio 490 TS,,2017-04-01,,,,,16000,19500,21423,69,5-10 Jahre,Über 100.000 km
+351,2023-02-01,Wohnwagen,Chateau,Caratt 450 *behindertengerechter Umbau*,,2006-07-01,,,,,6700,8000,54531,199,Über 10 Jahre,Über 100.000 km
+352,2023-01-01,Wohnmobil,Carado,V132 / 3.5 t,Teilintegrierter,2020-08-01,16754.0,Schaltung,88.0,Fiat,43500,46500,79395,29,2-5 Jahre,0-20.000 km
+353,2023-01-01,Wohnwagen,Bürstner,Plus 500 TS ,,2017-03-01,,,,,19200,20000,92355,70,5-10 Jahre,Über 100.000 km
+354,2023-01-01,Wohnmobil,Weinsberg,CaraLoft 650 MFH 3.5 t,Teilintegrierter,2015-05-01,110900.0,Schaltung,96.0,Fiat Ducato,40500,42000,16866,92,5-10 Jahre,Über 100.000 km
+355,2023-01-01,Wohnwagen,Dethleffs,C´go 415 QL,,2015-05-01,,,,,12550,14250,8056,92,5-10 Jahre,Über 100.000 km
+356,2023-01-01,Wohnmobil,Knaus,Sun Traveller 650 LG Aut. 3.85 t,Alkoven,2008-04-01,83000.0,Automatik,107.0,Renault Master 2,30050,32550,41239,177,Über 10 Jahre,50.001-100.000 km
+357,2023-01-01,Wohnmobil,Volkswagen,T6 California 3.0 t,Kastenwagen,2017-03-01,99978.0,Schaltung,110.0,,45200,47000,84453,70,5-10 Jahre,50.001-100.000 km
+358,2023-01-01,Wohnmobil,Dethleffs,Advantage T 5801 / 3.5 t,Teilintegrierter,2006-03-01,167000.0,Schaltung,81.0,Fiat Ducato,20200,20800,59590,202,Über 10 Jahre,Über 100.000 km
+359,2023-01-01,Wohnmobil,LMC,Liberty TI 652 / 3.5 t,Teilintegrierter,2008-04-01,96200.0,Schaltung,96.0,Fiat,27100,27100,41515,177,Über 10 Jahre,50.001-100.000 km
+360,2023-01-01,Wohnmobil,Carado,T449 / 3.5 t,Teilintegrierter,2020-07-01,28917.0,Schaltung,103.0,Fiat Ducato,55100,58000,31249,30,2-5 Jahre,20.001-50.000 km
+361,2023-01-01,Wohnmobil,Rimor,Katamarano 3.5 t,Teilintegrierter,2011-08-01,43500.0,Schaltung,103.0,Ford Transit ,24500,24500,18528,137,Über 10 Jahre,20.001-50.000 km
+362,2023-01-01,Wohnmobil,Carthago,C-Tourer l 143 LE Heavy 9G-Tronic 3.5 t,Integrierter,2021-09-01,9200.0,Automatik,103.0,Fiat Ducato,101200,104500,88074,16,0-2 Jahre,0-20.000 km
+363,2023-01-01,Wohnwagen,Hobby,Prestige 560 WLU    ,,2020-08-01,,,,,24600,24000,89415,29,2-5 Jahre,Über 100.000 km
+364,2023-01-01,Wohnmobil,Sunlight,Cliff 600 Adventure 3.5 t,Kastenwagen,2022-05-01,10500.0,Schaltung,103.0,Fiat Ducato,53900,57000,25870,8,0-2 Jahre,0-20.000 km
+365,2023-01-01,Wohnmobil,Dethleffs,Just 90 T 6812 EB 3.5 t,Teilintegrierter,2022-03-01,19500.0,Schaltung,103.0,Citroen Jumper,58000,59400,56410,10,0-2 Jahre,0-20.000 km
+366,2023-01-01,Wohnwagen,Bürstner,Averso Plus 510TK,,2015-07-01,,,,,18150,17850,66994,90,5-10 Jahre,Über 100.000 km
+367,2023-01-01,Wohnmobil,Hymer,ML-T 580 7G-Tronic 4.2 t,Teilintegrierter,2018-04-01,59200.0,Automatik,120.0,MB,72050,75850,88400,57,2-5 Jahre,50.001-100.000 km
+368,2023-01-01,Wohnwagen,Fendt,Opal 465 SFH,,2020-07-01,,,,,24000,24500,49596,30,2-5 Jahre,Über 100.000 km
+369,2023-01-01,Wohnmobil,Westfalia,Columbus 601D Aufstelldach 3.5 t,Kastenwagen,2020-01-01,4837.0,Schaltung,110.0,Fiat Ducato 2.3 Multijet,61700,65000,12165,36,2-5 Jahre,0-20.000 km
+370,2023-01-01,Wohnmobil,Concorde,Charisma 850 L 7.49 t,Integrierter,2017-01-01,60200.0,Automatik,150.0,Iveco,215790,227990,65555,72,5-10 Jahre,50.001-100.000 km
+371,2023-01-01,Wohnmobil,Adria,Twin 600 SP All In 3.5 t,Kastenwagen,2020-05-01,18000.0,Schaltung,103.0,Citroen,52000,55100,94505,32,2-5 Jahre,0-20.000 km
+372,2023-01-01,Wohnmobil,Weinsberg,Carahome 700 DG 3.5t,Alkoven,2020-03-01,27492.0,Schaltung,121.0,Peugeot,50000,50000,25365,34,2-5 Jahre,20.001-50.000 km
+373,2023-01-01,Wohnmobil,Sun Living,V 65 SL 3.5 t,Kastenwagen,2022-09-01,1400.0,Schaltung,103.0,Citroen,52800,54000,85305,4,0-2 Jahre,0-20.000 km
+374,2023-01-01,Wohnmobil,Globecar,Globescout Plus 3.5 t,Kastenwagen,2021-05-01,19000.0,Schaltung,121.0,Citroen,51000,54000,72574,20,0-2 Jahre,0-20.000 km
+375,2023-01-01,Wohnmobil,Hymer,Grand Canyon S 7G-Tronic 4x4,Kastenwagen,2020-10-01,25556.0,Automatik,120.0,MB,100000,100000,89075,27,2-5 Jahre,20.001-50.000 km
+376,2023-05-01,Wohnmobil,MegaMobil,Lounge 540 /3.5t,Kastenwagen,2022-04-01,26000.0,Schaltung,103.0,Fiat ,46200,52000,3096,13,0-2 Jahre,20.001-50.000 km
+377,2023-01-01,Wohnmobil,Pössl,2Win Plus mit Aufstelldach 3.5 t,Kastenwagen,2022-08-01,7880.0,Schaltung,121.0,Citroën Jumper,62500,66000,86875,5,0-2 Jahre,0-20.000 km
+378,2023-02-01,Wohnmobil,Carado,CV 600 Ed. 15 Aufstelldach *NEU* 3.5 t ,Kastenwagen,2023-01-01,5.0,Schaltung,103.0,Fiat,63200,64500,44379,1,0-2 Jahre,0-20.000 km
+379,2023-01-01,Wohnmobil,Citroën,Campster mit Küche/Solar,Bus,2019-07-01,39000.0,Schaltung,110.0,,40550,42750,99885,42,2-5 Jahre,20.001-50.000 km
+380,2023-01-01,Wohnmobil,Sunlight,A 60 / 3.5 t,Alkoven,2021-05-01,33554.0,Schaltung,103.0,Fiat,47450,48450,34302,20,0-2 Jahre,20.001-50.000 km
+381,2023-01-01,Wohnmobil,Hymer,B 624 mit DPF 3.9 t,Integrierter,2004-10-01,59000.0,Schaltung,94.0,Fiat,32800,32500,46519,219,Über 10 Jahre,50.001-100.000 km
+382,2023-02-01,Wohnmobil,Pössl,Trenta 600 / 3.5 t,Kastenwagen,2022-07-01,4538.0,Schaltung,103.0,Citroen,60300,64000,76669,7,0-2 Jahre,0-20.000 km
+383,2023-02-01,Wohnmobil,Carado,A 464 / 3.5 t,Alkoven,2021-06-01,14500.0,Schaltung,103.0,Citroen,54750,59850,76669,20,0-2 Jahre,0-20.000 km
+384,2023-02-01,Wohnmobil,Knaus,Boxstar 630 3.5t,Kastenwagen,2017-08-01,72400.0,Schaltung,96.0,Fiat Ducato,46090,52990,75196,66,5-10 Jahre,50.001-100.000 km
+385,2023-02-01,Wohnmobil,Dethleffs,Pulse GT I 7051 EBL 4.25t,Integrierter,2019-08-01,54000.0,Schaltung,110.0,Fiat,80700,87000,69123,42,2-5 Jahre,50.001-100.000 km
+386,2023-02-01,Wohnmobil,Phoenix,Top Alkoven 8800 BML Aut. 7.8t,Alkoven,2022-04-01,29000.0,Automatik,152.0,IVECO EuroCargo,260000,265000,85235,10,0-2 Jahre,20.001-50.000 km
+387,2023-02-01,Wohnmobil,Globecar,Globestar 600 L Aut. 3.5 t,Kastenwagen,2016-07-01,47000.0,Automatik,130.0,Fiat,47700,48000,24943,79,5-10 Jahre,20.001-50.000 km
+388,2023-02-01,Wohnmobil,Hymer,Grand Canyon 9G-Tronic 3.5 t,Kastenwagen,2021-09-01,19900.0,Automatik,130.0,Fiat Ducato,76500,75000,44795,17,0-2 Jahre,0-20.000 km
+389,2023-02-01,Wohnwagen,Adria,Action 391 LH ,,2022-03-01,,,,,19800,21500,45896,11,0-2 Jahre,Über 100.000 km
+390,2023-02-01,Wohnmobil,Challenger,367 GA Mageo Premium 3.5t,Teilintegrierter,2019-04-01,13000.0,Schaltung,125.0,Ford,54900,62500,91541,46,2-5 Jahre,0-20.000 km
+391,2023-02-01,Wohnmobil,Pössl,Summit 600 Plus 3.5 t,Kastenwagen,2018-03-01,64700.0,Schaltung,120.0,Citroen,47100,52000,72793,59,2-5 Jahre,50.001-100.000 km
+392,2023-02-01,Wohnmobil,Carado,I 338 Emotion 3.5 t,Integrierter,2020-11-01,17500.0,Schaltung,103.0,Fiat,66200,70000,48499,27,2-5 Jahre,0-20.000 km
+393,2023-02-01,Wohnwagen,Kabe,Ametist XL,,2008-08-01,,,,,10000,13500,26655,174,Über 10 Jahre,Über 100.000 km
+394,2023-02-01,Wohnmobil,Carthago,C-tourer T143 / 3.85 t,Teilintegrierter,2017-03-01,58000.0,Schaltung,110.0,Fiat Ducato,66600,68000,1920,71,5-10 Jahre,50.001-100.000 km
+395,2023-02-01,Wohnmobil,Forster,FA 699 EB 3.5 t,Alkoven,2021-05-01,9800.0,Schaltung,103.0,Fiat Ducato,55000,56500,69437,21,0-2 Jahre,0-20.000 km
+396,2023-02-01,Wohnmobil,Chausson,Exaltis 6010 / 3.5 t,Integrierter,2017-11-01,67000.0,Schaltung,96.0,Fiat Ducato ,51100,52900,58675,63,5-10 Jahre,50.001-100.000 km
+397,2023-02-01,Wohnmobil,Knaus,Sun Ti 700 Platinum Sel. 4.25 t,Teilintegrierter,2019-05-01,31500.0,Schaltung,96.0,Fiat,61800,65500,66453,45,2-5 Jahre,20.001-50.000 km
+398,2023-02-01,Wohnmobil,Carthago,chic c-line l 5.9 XL LE 9G-Tronic 5.5 t,Integrierter,2021-04-01,20250.0,Automatik,130.0,Fiat,151900,147100,4808,22,0-2 Jahre,20.001-50.000 km
+399,2023-03-01,Wohnmobil,Phoenix,7400 RSL 4x4 / 5.3 t,Alkoven,2015-06-01,90190.0,Automatik,140.0,Sprinter 519 CDI,125000,137000,55595,93,5-10 Jahre,50.001-100.000 km
+400,2023-02-01,Wohnwagen,Hobby,540 Excellent Easy,,2001-05-01,,,,,6700,9000,1662,261,Über 10 Jahre,Über 100.000 km
+401,2023-02-01,Wohnmobil,Malibu,Van 640 LE Comfort 9G-Tronic 4.0 t,Kastenwagen,2022-02-01,6100.0,Automatik,118.0,Fiat,74550,80950,79725,12,0-2 Jahre,0-20.000 km
+402,2023-02-01,Wohnmobil,Citroën,Campster by Pössl ,Bus,2019-11-01,19000.0,Schaltung,110.0,Citroën Spacetourer,39900,39900,58093,39,2-5 Jahre,0-20.000 km
+403,2023-02-01,Wohnmobil,VANTourer,600 D 9G-Tronic 3.5 t,Kastenwagen,2021-11-01,5500.0,Automatik,103.0,Fiat ,63400,64000,71282,15,0-2 Jahre,0-20.000 km
+404,2023-02-01,Wohnmobil,Forster,Van 599 HB Livin‘up 9G-Tronic 3.5 t,Kastenwagen,2021-11-01,9500.0,Automatik,103.0,Fiat Ducato,56000,57000,42899,15,0-2 Jahre,0-20.000 km
+405,2023-02-01,Wohnmobil,Sunlight,T66 / 3.5 t,Teilintegrierter,2016-06-01,53956.0,Schaltung,109.0,Fiat Ducato,47499,50999,57339,80,5-10 Jahre,50.001-100.000 km
+406,2023-06-01,Wohnmobil,Bürstner,Campeo 9G-Tronic mit Hagelschaden,Kastenwagen,2020-03-01,47000.0,Automatik,103.0,Fiat,51700,55000,33619,39,2-5 Jahre,20.001-50.000 km
+407,2023-02-01,Wohnmobil,Adria,Twin 600 SP All In 3.5 t,Kastenwagen,2020-05-01,18000.0,Schaltung,103.0,Citroen,52000,52000,94505,33,2-5 Jahre,0-20.000 km
+408,2023-02-01,Wohnmobil,Sunlight,A 68 / 3.5 t,Alkoven,2017-05-01,43602.0,Schaltung,96.0,Fiat Ducato,43400,45000,97084,69,5-10 Jahre,20.001-50.000 km
+409,2023-02-01,Wohnmobil,Carado,A 461 / 3.5 t,Alkoven,2018-06-01,21800.0,Schaltung,96.0,Citroen,47500,49900,97996,56,2-5 Jahre,20.001-50.000 km
+410,2023-02-01,Wohnmobil,Weinsberg,CaraSuite 650 MF IC-Line 3.5 t,Teilintegrierter,2022-01-01,18500.0,Schaltung,103.0,Fiat,59900,66600,40764,13,0-2 Jahre,0-20.000 km
+411,2023-02-01,Wohnmobil,Hobby,Fiesta Alkoven 60 GF 3.5 t,Alkoven,2021-03-01,29500.0,Schaltung,88.0,Fiat,47000,53500,46499,23,0-2 Jahre,20.001-50.000 km
+412,2023-02-01,Wohnmobil,Carado,T447 / 3.5 t,Teilintegrierter,2021-06-01,53000.0,Schaltung,103.0,Fiat,55150,57950,10719,20,0-2 Jahre,50.001-100.000 km
+413,2023-02-01,Wohnmobil,Carado,T 447 Clever+ Edit. 9G-Tronic 3.5 t,Teilintegrierter,2021-06-01,23400.0,Automatik,118.0,Fiat,69500,77000,32361,20,0-2 Jahre,20.001-50.000 km
+414,2023-02-01,Wohnmobil,Pössl,Summit 600 Plus 3.5 t,Kastenwagen,2019-07-01,11500.0,Schaltung,120.0,Citroen,47800,48000,82237,43,2-5 Jahre,0-20.000 km
+415,2023-02-01,Wohnmobil,Knaus,Sky 3.85 t,Alkoven,2007-09-01,81000.0,Schaltung,107.0,Renault,25950,26150,88279,185,Über 10 Jahre,50.001-100.000 km
+416,2023-02-01,Wohnmobil,Hymer,Tramp S 695 / 9G-Tronic ,Teilintegrierter,2020-11-01,12700.0,Automatik,130.0,Mercedes- Benz,85800,92500,57632,27,2-5 Jahre,0-20.000 km
+417,2023-02-01,Wohnmobil,Knaus,Sun Ti 650 MF 3.5 t,Teilintegrierter,2007-07-01,77940.0,Schaltung,88.0,Renault,23000,29000,64380,187,Über 10 Jahre,50.001-100.000 km
+418,2023-02-01,Wohnmobil,Laika,X 610 R 3.5 t,Teilintegrierter,2012-09-01,69200.0,Schaltung,115.0,Fiat Ducato,38900,40400,75365,125,Über 10 Jahre,50.001-100.000 km
+419,2023-02-01,Wohnmobil,Laika,KREOS 5009 / 4.5 t,Teilintegrierter,2019-07-01,16400.0,Schaltung,110.0,Fiat,82000,95000,82444,43,2-5 Jahre,0-20.000 km
+420,2023-02-01,Wohnmobil,Adria,T 680 SP 3.5t,Teilintegrierter,2006-10-01,84995.0,Schaltung,93.0,Fiat,24500,29500,91154,196,Über 10 Jahre,50.001-100.000 km
+421,2023-02-01,Wohnmobil,Weinsberg,Cara Compact Edition Pepper 3.5 t,Teilintegrierter,2018-08-01,24200.0,Schaltung,120.0,Peugeot Boxer,50400,55000,26127,54,2-5 Jahre,20.001-50.000 km
+422,2023-02-01,Wohnmobil,Chausson,648 Titanium Premium Aut. 3.5 t,Teilintegrierter,2021-05-01,12240.0,Automatik,125.0,Ford,66900,71000,23743,21,0-2 Jahre,0-20.000 km
+423,2023-02-01,Wohnmobil,Eura Mobil,PT 720 EB 4.4 t,Teilintegrierter,2020-12-01,25000.0,Schaltung,110.0,Fiat,64000,66900,89520,26,2-5 Jahre,20.001-50.000 km
+424,2023-02-01,Wohnmobil,Challenger,Van V 217 Einzelbetten 3.5 t,Kastenwagen,2021-07-01,8500.0,Schaltung,103.0,Fiat Ducato,51000,53500,86368,19,0-2 Jahre,0-20.000 km
+425,2023-02-01,Wohnmobil,Challenger,287 GA Graphite Ed. Premium Aut. 3.5 t,Teilintegrierter,2020-11-01,17000.0,Automatik,125.0,Ford,61700,63500,68219,27,2-5 Jahre,0-20.000 km
+426,2023-02-01,Wohnmobil,Itineo,MB 700 / 3.5 t,Integrierter,2017-04-01,39870.0,Schaltung,96.0,Fiat,54600,55000,97475,70,5-10 Jahre,20.001-50.000 km
+427,2023-02-01,Wohnmobil,Knaus,Live WAVE 650 MF 9G-Tronic 3.5 t,Teilintegrierter,2020-06-01,27000.0,Automatik,118.0,Fiat Ducato,62000,62000,1968,32,2-5 Jahre,20.001-50.000 km
+428,2023-02-01,Wohnmobil,P.L.A.,H 430 / 3.5 t,Alkoven,2019-03-01,55647.0,Schaltung,96.0,Citroen,39500,42500,74354,47,2-5 Jahre,50.001-100.000 km
+429,2023-02-01,Wohnwagen,Hymer,Nova 465 GL,,2019-07-01,,,,,20600,22400,98646,43,2-5 Jahre,Über 100.000 km
+430,2023-02-01,Wohnmobil,Challenger,Vany Elegance V114 Max 3.5 t,Kastenwagen,2019-07-01,30000.0,Schaltung,96.0,Fiat,44600,47500,8289,43,2-5 Jahre,20.001-50.000 km
+431,2023-02-01,Wohnmobil,Concorde,Carver 751 HS 5.4 t,Integrierter,2009-04-01,75000.0,Automatik,130.0,Iveco,85000,95000,18147,166,Über 10 Jahre,50.001-100.000 km
+432,2023-02-01,Wohnmobil,Etrusco,A 6600 BB  9G-Tronic 3.5 t,Alkoven,2021-04-01,7725.0,Automatik,103.0,Fiat Ducato,57200,64900,47058,22,0-2 Jahre,0-20.000 km
+433,2023-02-01,Wohnmobil,Chausson,640 Welcome Aut. 3.5 t,Teilintegrierter,2018-08-01,24000.0,Automatik,110.0,Fiat,57700,60000,26384,54,2-5 Jahre,20.001-50.000 km
+434,2023-02-01,Wohnmobil,Pilote,Evidence P 696 GJ 9G-Tronic 3.5 t,Teilintegrierter,2022-09-01,8000.0,Automatik,118.0,Fiat,75000,80500,33129,5,0-2 Jahre,0-20.000 km
+435,2023-02-01,Wohnwagen,LMC,VIVO 520 E,,2021-07-01,,,,,22050,23650,72477,19,0-2 Jahre,Über 100.000 km
+436,2023-02-01,Wohnmobil,Malibu,Van 640 LE 3.5 t,Kastenwagen,2017-09-01,41500.0,Schaltung,110.0,Fiat,52000,55000,29223,65,5-10 Jahre,20.001-50.000 km
+437,2023-02-01,Wohnmobil,Ahorn,Canada TQ Plus 4.0 t,Teilintegrierter,2019-09-01,18105.0,Schaltung,96.0,Renault,46600,50000,14770,41,2-5 Jahre,0-20.000 km
+438,2023-02-01,Wohnmobil,Phoenix,A 7100 RSL 5.8 t,Alkoven,2020-03-01,24950.0,Automatik,155.0,Iveco Daily,170950,199950,57392,35,2-5 Jahre,20.001-50.000 km
+439,2023-03-01,Wohnwagen,Knaus,Südwind 460 E,,2013-09-01,,,,,13000,16000,2991,114,5-10 Jahre,Über 100.000 km
+440,2023-06-01,Wohnmobil,Globecar,Globescout R Plus 3.5 t,Kastenwagen,2019-07-01,35500.0,Schaltung,120.0,Citröen,47600,50000,23970,47,2-5 Jahre,20.001-50.000 km
+441,2023-02-01,Wohnmobil,Dethleffs,Pulse Classic 7051 EBL 3.5 t,Teilintegrierter,2020-08-01,23585.0,Schaltung,118.0,Fiat Ducato,66500,68500,36110,30,2-5 Jahre,20.001-50.000 km
+442,2023-03-01,Wohnmobil,Hymer,Grand Canyon 3.5 t,Kastenwagen,2018-05-01,63500.0,Schaltung,110.0,Fiat ,52900,55000,60438,58,2-5 Jahre,50.001-100.000 km
+443,2023-02-01,Wohnmobil,Knaus,Boxstar 600 Street 3.5t,Kastenwagen,2015-06-01,109600.0,Schaltung,96.0,Fiat,39200,39000,38162,92,5-10 Jahre,Über 100.000 km
+444,2023-03-01,Wohnmobil,Etrusco,CV 600 DB 3.5t,Kastenwagen,2021-08-01,12400.0,Schaltung,103.0,Fiat,52800,51300,67117,19,0-2 Jahre,0-20.000 km
+445,2023-03-01,Wohnwagen,Hobby,Excellent 400,,2011-03-01,,,,,8550,10950,31812,144,Über 10 Jahre,Über 100.000 km
+446,2023-03-01,Wohnmobil,Dethleffs,Trend I 7057 EBL 9G-Tronic 4.5t,Integrierter,2021-07-01,18500.0,Automatik,118.0,Fiat,84400,88900,52134,20,0-2 Jahre,0-20.000 km
+447,2023-03-01,Wohnmobil,Carado,T447 3.5t,Teilintegrierter,2016-04-01,96500.0,Schaltung,96.0,Fiat Ducato,43000,49900,56588,83,5-10 Jahre,50.001-100.000 km
+448,2023-03-01,Wohnmobil,Adria,Coral XL Axess 670 SL 4.0 t,Alkoven,2018-10-01,23890.0,Schaltung,96.0,Citroën,54000,60000,48739,53,2-5 Jahre,20.001-50.000 km
+449,2023-03-01,Wohnmobil,Challenger,V114 S Road Ed. Premium Hubdach *Neu*,Kastenwagen,2023-03-01,10.0,Schaltung,103.0,Fiat ,61800,63000,83737,0,0-2 Jahre,0-20.000 km
+450,2023-03-01,Wohnmobil,Mercedes-Benz,V250d Marco Polo Aut.,Bus,2017-03-01,129000.0,Automatik,140.0,,43500,47000,96050,72,5-10 Jahre,Über 100.000 km
+451,2023-03-01,Wohnwagen,LMC,Musica 560K  ,,2015-10-01,,,,,18400,20000,37213,89,5-10 Jahre,Über 100.000 km
+452,2023-03-01,Wohnwagen,Adria,Alpina 753 HT ,,2017-08-01,,,,,26550,32150,83246,67,5-10 Jahre,Über 100.000 km
+453,2023-03-01,Wohnwagen,Tabbert,Vivaldi 550 DF,,2019-07-01,,,,,22000,25200,48231,44,2-5 Jahre,Über 100.000 km
+454,2023-03-01,Wohnmobil,Malibu,I 490 LE 4.25t,Integrierter,2021-05-01,8400.0,Schaltung,103.0,Fiat,100200,91600,71155,22,0-2 Jahre,0-20.000 km
+455,2023-03-01,Wohnmobil,Sunlight,Cliff 640 3.5t,Kastenwagen,2021-05-01,19950.0,Schaltung,103.0,Fiat,51700,55500,7937,22,0-2 Jahre,0-20.000 km
+456,2023-03-01,Wohnmobil,Carado,T 448 / 3.5 t,Teilintegrierter,2019-06-01,26370.0,Schaltung,96.0,Fiat Ducato,52600,53200,75323,45,2-5 Jahre,20.001-50.000 km
+457,2023-03-01,Wohnmobil,Hymer,Tramp S 695 Aut. 4.2 t,Teilintegrierter,2022-06-01,6658.0,Automatik,125.0,MB,115500,121600,33378,9,0-2 Jahre,0-20.000 km
+458,2023-03-01,Wohnmobil,Clever,Celebration 3.5 t,Kastenwagen,2020-04-01,18000.0,Schaltung,103.0,Fiat,46300,47500,92345,35,2-5 Jahre,0-20.000 km
+459,2023-03-01,Wohnmobil,Hymer,Free 602 mit Aufstelldach 3.5 t,Kastenwagen,2021-07-01,24400.0,Schaltung,103.0,Fiat Ducato,62000,62000,82229,20,0-2 Jahre,20.001-50.000 km
+460,2023-03-01,Wohnmobil,LMC,Cruiser Comfort T 742 Aut. 3.5t,Teilintegrierter,2019-10-01,47600.0,Automatik,110.0,Fiat ,60710,66310,35708,41,2-5 Jahre,20.001-50.000 km
+461,2023-03-01,Wohnmobil,Eura Mobil,Integra Line 655 EB Aut. 4.4 t,Integrierter,2019-04-01,17800.0,Automatik,110.0,Fiat Ducato,76300,80000,24986,47,2-5 Jahre,0-20.000 km
+462,2023-03-01,Wohnwagen,Weinsberg,CaraOne 450 FU,,2021-06-01,,,,,16000,18500,26789,21,0-2 Jahre,Über 100.000 km
+463,2023-03-01,Wohnmobil,Hymer,B 544 mit DPF 3.5t,Integrierter,2004-10-01,148000.0,Schaltung,93.0,Fiat,21100,25000,16727,221,Über 10 Jahre,Über 100.000 km
+464,2023-03-01,Wohnmobil,Morelo,Palace 90 M 7.49 t,Integrierter,2018-02-01,43000.0,Automatik,150.0,Iveco,215000,218500,21647,61,5-10 Jahre,20.001-50.000 km
+465,2023-03-01,Wohnmobil,Hymer,B-DL 534 Duomobil 3.5t,Integrierter,2017-05-01,53800.0,Schaltung,110.0,Fiat Ducato,69000,69000,L7470,70,5-10 Jahre,50.001-100.000 km
+466,2023-03-01,Wohnmobil,Roller Team,Kronos 284 P 4.1t,Teilintegrierter,2022-05-01,4800.0,Schaltung,125.0,Ford,54300,58000,48308,10,0-2 Jahre,0-20.000 km
+467,2023-03-01,Wohnmobil,Forster,A699 DVB Livin' Up 4.4t,Alkoven,2021-05-01,12191.0,Schaltung,118.0,Fiat ,56500,59000,82110,22,0-2 Jahre,0-20.000 km
+468,2023-03-01,Wohnmobil,Carthago,Chic E-line I 47 Aut. 4.5 t,Integrierter,2018-03-01,32880.0,Automatik,130.0,Fiat,97000,110000,82319,60,2-5 Jahre,20.001-50.000 km
+469,2023-03-01,Wohnmobil,Weinsberg,CaraCompact Edition Pepper MEG 3.5t,Teilintegrierter,2019-06-01,20000.0,Schaltung,120.0,Peugeot ,54900,55000,90602,45,2-5 Jahre,0-20.000 km
+470,2023-03-01,Wohnmobil,Benimar,Tessoro 495 UP 3.5t,Teilintegrierter,2021-08-01,22500.0,Schaltung,96.0,Ford ,54500,59900,32108,19,0-2 Jahre,20.001-50.000 km
+471,2023-03-01,Wohnmobil,Mercedes-Benz,Marco Polo Activity Edition Aut. 3.1t,Bus,2021-05-01,38768.0,Automatik,120.0,,50200,51300,40477,22,0-2 Jahre,20.001-50.000 km
+472,2023-03-01,Wohnwagen,Bürstner,Premio 490 TL,,2020-04-01,,,,,18000,18000,99869,35,2-5 Jahre,Über 100.000 km
+473,2023-03-01,Wohnmobil,XGO,i-Move Dynamic 22 P 3.5 t,Teilintegrierter,2019-10-01,11000.0,Schaltung,96.0,Fiat Ducato Multijet,46600,44900,34369,41,2-5 Jahre,0-20.000 km
+474,2023-03-01,Wohnwagen,Knaus,Südwind Silver Selection 500 FDK,,2018-10-01,,,,,18700,21000,76756,53,2-5 Jahre,Über 100.000 km
+475,2023-03-01,Wohnmobil,Forster,T699 HB 3.85 t,Teilintegrierter,2019-04-01,30000.0,Schaltung,96.0,Fiat Ducato,50190,53590,22965,47,2-5 Jahre,20.001-50.000 km
+476,2023-03-01,Wohnmobil,Adria,Coral ALL-IN 670 DL 3.65 t,Teilintegrierter,2021-04-01,49650.0,Schaltung,121.0,Citroen Jumper  ,59800,64000,64572,23,0-2 Jahre,20.001-50.000 km
+477,2023-03-01,Wohnwagen,Fendt,Diamant 650,,2006-04-01,,,,,10150,12750,71336,203,Über 10 Jahre,Über 100.000 km
+478,2023-03-01,Wohnmobil,Adria,Coral 670 XL 3.5t,Alkoven,2019-12-01,88000.0,Schaltung,96.0,Fiat ,54000,63000,83024,39,2-5 Jahre,50.001-100.000 km
+479,2023-03-01,Wohnmobil,Carthago,Chic C-Line I 4.9 LE 4.5 t,Integrierter,2020-05-01,41000.0,Automatik,130.0,Fiat ,113200,115000,85614,34,2-5 Jahre,20.001-50.000 km
+480,2023-03-01,Wohnmobil,Volkswagen,Grand California 600 Aut. 3.5t,Bus,2021-09-01,14239.0,Automatik,130.0,Volkswagen,62200,70000,42653,18,0-2 Jahre,0-20.000 km
+481,2023-03-01,Wohnmobil,Hymer,B-ML-I 880 / 9G-Tronic 5.5 t,Integrierter,2020-04-01,16100.0,Automatik,130.0,Mercedes,172100,185000,88364,35,2-5 Jahre,0-20.000 km
+482,2023-03-01,Wohnmobil,LMC,Liberty A598 G 3.5t,Alkoven,2008-04-01,78000.0,Schaltung,103.0,Ford,29100,34900,59581,179,Über 10 Jahre,50.001-100.000 km
+483,2023-03-01,Wohnmobil,Pössl,2Win R Plus 3.5 t,Kastenwagen,2019-07-01,13442.0,Schaltung,120.0,Citroën Jumper,49400,50000,31860,44,2-5 Jahre,0-20.000 km
+484,2023-03-01,Wohnmobil,Hymer,ML T-580 / 7G-Tronic 3.5 t,Teilintegrierter,2020-03-01,13000.0,Automatik,120.0,Mercedes Sprinter 416 CDI,82000,84000,47906,36,2-5 Jahre,0-20.000 km
+485,2023-03-01,Wohnmobil,XGO,Dynamik 29 G 3.5t,Alkoven,2018-03-01,27023.0,Schaltung,96.0,FIAT ,41500,44900,26203,60,2-5 Jahre,20.001-50.000 km
+486,2023-03-01,Wohnmobil,Volkswagen,T6 California Coast DSG ,Bus,2018-08-01,61000.0,Automatik,150.0,,52000,55100,22297,55,2-5 Jahre,50.001-100.000 km
+487,2023-03-01,Wohnmobil,Pössl,Vario 545 / 3.5 t,Kastenwagen,2013-08-01,47600.0,Schaltung,110.0,Citröen,41800,47900,86650,115,5-10 Jahre,20.001-50.000 km
+488,2023-03-01,Wohnmobil,Carado,I449 / 3.5 t,Integrierter,2018-06-01,20100.0,Schaltung,110.0,Fiat ,61700,61900,24855,57,2-5 Jahre,20.001-50.000 km
+489,2023-03-01,Wohnmobil,Weinsberg,Cara Compact Edition Pepper 3.5,Teilintegrierter,2018-01-01,58800.0,Schaltung,96.0,Peugeot,51300,54000,56566,62,5-10 Jahre,50.001-100.000 km
+490,2023-03-01,Wohnmobil,Pössl,Summit 640 Prime 3.5 t,Kastenwagen,2020-04-01,45000.0,Schaltung,121.0,Citroen,59500,63000,95126,35,2-5 Jahre,20.001-50.000 km
+491,2023-03-01,Wohnmobil,Carado,T 448 / 3.5 t,Teilintegrierter,2020-06-01,10000.0,Schaltung,103.0,Fiat,60000,60000,42655,33,2-5 Jahre,0-20.000 km
+492,2023-03-01,Wohnmobil,Carthago,C-Tourer T 150 QB Heavy 4.5 t,Teilintegrierter,2022-02-01,4500.0,Schaltung,118.0,Fiat Ducato,89050,90250,48268,13,0-2 Jahre,0-20.000 km
+493,2023-03-01,Wohnmobil,Bela,Easy Barbados 3.5 t,Teilintegrierter,2016-02-01,70000.0,Schaltung,96.0,Citroën ,40100,40000,29451,85,5-10 Jahre,50.001-100.000 km
+494,2023-03-01,Wohnmobil,Forster,V599 VB VANTASY 3.3 t,Kastenwagen,2020-10-01,28000.0,Schaltung,103.0,Fiat Ducato,49999,49999,54311,29,2-5 Jahre,20.001-50.000 km
+495,2023-04-01,Wohnmobil,Ahorn,ACT 690 plus 3.5 t,Teilintegrierter,2021-06-01,25000.0,Schaltung,120.0,Renault,50000,50000,97440,22,0-2 Jahre,20.001-50.000 km
+496,2023-03-01,Wohnmobil,Dethleffs,Advantage I 6601 4.0t,Integrierter,2016-07-01,36527.0,Schaltung,96.0,Fiat ,59700,62000,78247,80,5-10 Jahre,20.001-50.000 km
+497,2023-03-01,Wohnmobil,Adria,Matrix M 670SL 3.5t,Teilintegrierter,2015-07-01,63500.0,Schaltung,96.0,Fiat,55250,54950,94491,92,5-10 Jahre,50.001-100.000 km
+498,2023-03-01,Wohnmobil,Sunlight,T65 / 3.5 t,Teilintegrierter,2020-02-01,46763.0,Schaltung,110.0,Fiat Ducato,51700,53200,78462,37,2-5 Jahre,20.001-50.000 km
+499,2023-04-01,Wohnmobil,Weinsberg,CaraSuite 700 ME 9G-Tronic 3.5 t,Teilintegrierter,2021-10-01,5879.0,Automatik,118.0,Fiat,67500,76000,29496,18,0-2 Jahre,0-20.000 km
+500,2023-03-01,Wohnmobil,Adria,Twin 600 SP Axess All-In 3.5 t,Kastenwagen,2022-12-01,3000.0,Schaltung,103.0,Citroen ,55400,60000,32479,3,0-2 Jahre,0-20.000 km
+501,2023-04-01,Wohnmobil,Hymer,Exsis-t 588 / 3.5 t,Teilintegrierter,2015-06-01,63000.0,Schaltung,150.0,Fiat,49500,49500,87466,94,5-10 Jahre,50.001-100.000 km
+502,2023-04-01,Wohnmobil,Chausson,610 Welcome Aut. 3.5t,Teilintegrierter,2018-03-01,15800.0,Automatik,125.0,Ford,52800,55100,71292,61,5-10 Jahre,0-20.000 km
+503,2023-04-01,Wohnmobil,Etrusco,CV 600 DB Complete 3.5 t ,Kastenwagen,2022-08-01,190.0,Schaltung,103.0,Fiat ,57700,65000,67071,8,0-2 Jahre,0-20.000 km
+504,2023-04-01,Wohnmobil,Carthago,Chic C-Line I 5.9 XL LE 5.0 t,Integrierter,2018-12-01,25000.0,Automatik,130.0,Fiat,131400,131000,91126,52,2-5 Jahre,20.001-50.000 km
+505,2023-04-01,Wohnmobil,Dethleffs,Globetrotter II 3.1t,Teilintegrierter,2000-04-01,175600.0,Schaltung,66.0,Fiat,9200,12000,66871,276,Über 10 Jahre,Über 100.000 km
+506,2023-04-01,Wohnmobil,Eura Mobil,S585 LS DPF 3.5t,Alkoven,2003-05-01,189402.0,Schaltung,94.0,FIAT,10100,15000,90768,239,Über 10 Jahre,Über 100.000 km
+507,2023-04-01,Wohnmobil,Hobby,Vantana K65FT 3.5t,Kastenwagen,2018-03-01,37000.0,Schaltung,96.0,Fiat ,44950,52250,51580,61,5-10 Jahre,20.001-50.000 km
+508,2023-04-01,Wohnmobil,LMC,Cruiser T 662 G 9G-Tronic 3.5t,Teilintegrierter,2020-05-01,32000.0,Automatik,118.0,Fiat ,63600,65000,29303,35,2-5 Jahre,20.001-50.000 km
+509,2023-04-01,Wohnmobil,Dethleffs,Trend Edition T 6717 EB / 3.5t,Teilintegrierter,2020-04-01,24870.0,Schaltung,103.0,Fiat ,60100,65000,82061,36,2-5 Jahre,20.001-50.000 km
+510,2023-04-01,Wohnmobil,Carado,T447 / 3.5 t,Teilintegrierter,2019-04-01,28000.0,Schaltung,96.0,Fiat,54900,56900,84140,48,2-5 Jahre,20.001-50.000 km
+511,2023-05-01,Wohnwagen,Hymer,Exiting Familiy 560,,2019-04-01,,,,,19000,21900,31515,49,2-5 Jahre,Über 100.000 km
+512,2023-04-01,Wohnmobil,Frankia,T 72 GD-L / 3.5 t,Teilintegrierter,2018-02-01,19618.0,Schaltung,109.0,Fiat,62000,74500,46446,62,5-10 Jahre,0-20.000 km
+513,2023-04-01,Wohnwagen,Trigano,Silver Mini Freestyle 290,,2021-07-01,,,,,14000,16500,50321,21,0-2 Jahre,Über 100.000 km
+514,2023-04-01,Wohnmobil,Weinsberg,CaraTour 600 ME 3.5t,Kastenwagen,2021-08-01,10500.0,Schaltung,103.0,Fiat,55400,56000,25821,20,0-2 Jahre,0-20.000 km
+515,2023-04-01,Wohnmobil,Malibu,T410 DB 9G-Tronic 3.5 t,Teilintegrierter,2021-07-01,24000.0,Automatik,118.0,Fiat,81600,80000,14532,21,0-2 Jahre,20.001-50.000 km
+516,2023-04-01,Wohnmobil,Knaus,Sky TI 650 MEG Platinum Aut. 3.5 t,Teilintegrierter,2019-11-01,7000.0,Automatik,118.0,,65100,88000,16356,41,2-5 Jahre,0-20.000 km
+517,2023-04-01,Wohnmobil,Ahorn,Camp A 683 Eco 3.5 t,Alkoven,2020-05-01,37810.0,Schaltung,107.0,Renault Master,41700,40500,1067,35,2-5 Jahre,20.001-50.000 km
+518,2023-04-01,Wohnmobil,Chausson,Best of S3 3.5 t,Alkoven,2014-07-01,37278.0,Schaltung,103.0,Ford,28900,30800,7616,105,5-10 Jahre,20.001-50.000 km
+519,2023-04-01,Wohnmobil,Concorde,690 St 3.5t,Alkoven,1992-12-01,225000.0,Schaltung,70.0,Fiat ,5000,8500,29690,364,Über 10 Jahre,Über 100.000 km
+520,2023-04-01,Wohnmobil,Bürstner,Elegance I 810 G Aut. 5.5t,Integrierter,2010-02-01,43612.0,Automatik,116.0,Fiat ,66500,80000,45739,158,Über 10 Jahre,20.001-50.000 km
+521,2023-04-01,Wohnmobil,Pössl,Trenta 600 Light 3.5t,Kastenwagen,2020-10-01,28700.0,Schaltung,121.0,Citrön ,53700,57000,83022,30,2-5 Jahre,20.001-50.000 km
+522,2023-04-01,Wohnmobil,Ahorn,CAMP 690 3.5t,Alkoven,2000-05-01,52000.0,Schaltung,90.0,Fiat ,15000,17000,15345,275,Über 10 Jahre,50.001-100.000 km
+523,2023-04-01,Wohnmobil,Karmann,Davis 620 Maxi 3.5t ,Kastenwagen,2019-03-01,49000.0,Schaltung,96.0,Fiat ,51000,51000,12355,49,2-5 Jahre,20.001-50.000 km
+524,2023-04-01,Wohnmobil,Challenger,V114 Start Edition 3.5 t,Kastenwagen,2022-03-01,8102.0,Schaltung,103.0,Fiat Ducato,50600,57000,38704,13,0-2 Jahre,0-20.000 km
+525,2023-04-01,Wohnmobil,Sunlight,A70 3.5t,Alkoven,2020-06-01,8350.0,Schaltung,103.0,Fiat ,52750,62250,88427,34,2-5 Jahre,0-20.000 km
+526,2023-04-01,Wohnmobil,Westfalia,Kepler One Aut. 3.0 t,Bus,2021-08-01,24500.0,Automatik,110.0,VW T6.1,60450,61150,79312,20,0-2 Jahre,20.001-50.000 km
+527,2023-04-01,Wohnmobil,Carthago,C-Compactline I 143 Aut. 4.25t,Integrierter,2019-01-01,43180.0,Automatik,110.0,Fiat ,70000,70000,28857,51,2-5 Jahre,20.001-50.000 km
+528,2023-04-01,Wohnwagen,LMC,Musica 560 E ,,2018-12-01,,,,,21000,24000,84405,52,2-5 Jahre,Über 100.000 km
+529,2023-04-01,Wohnmobil,Sunlight,T67 / 3.5t,Teilintegrierter,2020-02-01,9665.0,Schaltung,110.0,Fiat ,54200,56900,45721,38,2-5 Jahre,0-20.000 km
+530,2023-04-01,Wohnmobil,Weinsberg,Cosmos 3.3t,Kastenwagen,2005-09-01,138000.0,Schaltung,94.0,Fiat,13000,18000,93055,211,Über 10 Jahre,Über 100.000 km
+531,2023-04-01,Wohnmobil,Carado,CV600 Edition15 9G-Tronic 3.5t,Kastenwagen,2022-03-01,13500.0,Automatik,103.0,Fiat,58500,59000,87642,13,0-2 Jahre,0-20.000 km
+532,2023-05-01,Wohnmobil,Etrusco,T 7400 QBC 9G-Tronic 3.5 t,Teilintegrierter,2020-12-01,8500.0,Automatik,103.0,Fiat,63200,66500,78166,29,2-5 Jahre,0-20.000 km
+533,2023-05-01,Wohnwagen,Dethleffs,c'go 475 EL,,2018-02-01,,,,,13500,15000,71093,63,5-10 Jahre,Über 100.000 km
+534,2023-05-01,Wohnmobil,Weinsberg,Meteor 590 MS mit DPF 3.5 t,Alkoven,2002-07-01,110000.0,Schaltung,94.0,Fiat Ducato ,15000,19500,41372,250,Über 10 Jahre,Über 100.000 km
+535,2023-05-01,Wohnmobil,Hymer,Grand Canyon S 7G-Tronic 4.1 t,Kastenwagen,2022-03-01,5600.0,Automatik,120.0,Mercedes Sprinter,85500,87500,9481,14,0-2 Jahre,0-20.000 km
+536,2023-05-01,Wohnmobil,Knaus,BoxStar 630 Freeway 9G-Tronic 3.85 t,Kastenwagen,2020-02-01,31238.0,Automatik,118.0,Fiat Ducato ,61200,65000,45481,39,2-5 Jahre,20.001-50.000 km
+537,2023-05-01,Wohnmobil,Knaus,Sky Wave IC Line 3.5 t,Teilintegrierter,2017-08-01,30890.0,Schaltung,110.0,Fiat Ducato,50200,58400,36100,69,5-10 Jahre,20.001-50.000 km
+538,2023-05-01,Wohnmobil,Itineo,MJB 740 / 4.0 t,Integrierter,2018-06-01,26000.0,Schaltung,110.0,Fiat Ducato,55050,60750,65205,59,2-5 Jahre,20.001-50.000 km
+539,2023-05-01,Wohnmobil,La Strada,Avanti EB 3.5t,Kastenwagen,2015-03-01,83000.0,Schaltung,109.0,Fiat ,53000,53000,40625,98,5-10 Jahre,50.001-100.000 km
+540,2023-05-01,Wohnmobil,Carthago,C-Tourer T 149 LE 9G-Tronic 4.5 t,Teilintegrierter,2022-03-01,11000.0,Automatik,118.0,"Fiat Ducato, Serie 8",105700,110000,31535,14,0-2 Jahre,0-20.000 km
+541,2023-05-01,Wohnmobil,Chausson,660 Exclusive Line Aut. 3.5 t,Teilintegrierter,2022-03-01,20485.0,Automatik,125.0,Ford Transit,67200,72200,99094,14,0-2 Jahre,20.001-50.000 km
+542,2023-05-01,Wohnmobil,Bürstner,Ixeo IT 640 / 3.5 t,Teilintegrierter,2018-03-01,29000.0,Schaltung,110.0,Fiat Ducato,53100,48000,19230,62,5-10 Jahre,20.001-50.000 km
+543,2023-05-01,Wohnmobil,Hymer,B MC-T 580 / 9G-Tronic 4.5 t,Teilintegrierter,2019-02-01,50500.0,Automatik,130.0,Mercedes Benz Sprinter 418CDI,85000,95000,46395,51,2-5 Jahre,50.001-100.000 km
+544,2023-05-01,Wohnmobil,Sun Living,S 70SL / 3.5t,Teilintegrierter,2021-08-01,3900.0,Schaltung,103.0,Fiat ,52500,56000,87674,21,0-2 Jahre,0-20.000 km
+545,2023-05-01,Wohnmobil,Sunlight,T 65 / 3.5t,Teilintegrierter,2016-05-01,28400.0,Schaltung,96.0,Fiat ,42900,45000,8468,84,5-10 Jahre,20.001-50.000 km
+546,2023-05-01,Wohnmobil,Pilote,G 690 Evidence 9G-Tronic 3.5t,Integrierter,2022-06-01,20000.0,Automatik,118.0,Fiat ,79600,79600,47443,11,0-2 Jahre,0-20.000 km
+547,2023-05-01,Wohnmobil,Carado,T 447 / Aut. 3.5t ,Teilintegrierter,2019-07-01,20972.0,Automatik,96.0,Fiat,54200,57900,6237,46,2-5 Jahre,20.001-50.000 km
+548,2023-05-01,Wohnmobil,Dethleffs,Trend I 7057 / 3.85t,Integrierter,2017-04-01,89700.0,Schaltung,109.0,Fiat,52050,59950,23611,73,5-10 Jahre,50.001-100.000 km
+549,2023-05-01,Wohnmobil,Volkswagen,T6.1 California Ocean DSG,Bus,2022-06-01,12800.0,Automatik,110.0,,62100,62000,23774,11,0-2 Jahre,0-20.000 km
+550,2023-05-01,Wohnmobil,Chausson,Titanium 640 / 9G-Tronic 3.5 t,Teilintegrierter,2020-12-01,1955.0,Automatik,103.0,Fiat,65000,72000,56355,29,2-5 Jahre,0-20.000 km
+551,2023-05-01,Wohnmobil,Volkswagen,T6.1 California Coast 4Motion DSG,Bus,2020-11-01,44345.0,Automatik,110.0,Volkswagen,57500,60000,8058,30,2-5 Jahre,20.001-50.000 km
+552,2023-05-01,Wohnmobil,Clever,Celebration 3.5t,Kastenwagen,2018-08-01,39950.0,Schaltung,120.0,Citroën ,44900,48500,75382,57,2-5 Jahre,20.001-50.000 km
+553,2023-05-01,Wohnmobil,Dethleffs,Trend I 7057 DBM/EB 3.85 t,Integrierter,2019-05-01,40500.0,Schaltung,96.0,Fiat Ducato,64000,72000,22851,48,2-5 Jahre,20.001-50.000 km
+554,2023-05-01,Wohnmobil,Knaus,Van TI Plus 650 MEG 4x4 Platinum Aut. 4.0 t,Teilintegrierter,2022-06-01,12000.0,Automatik,130.0,MAN,80850,92150,86415,11,0-2 Jahre,0-20.000 km
+555,2023-05-01,Wohnmobil,Chausson,Twist Elegance V584,Kastenwagen,2019-07-01,14300.0,Schaltung,96.0,Fiat Ducato ,47250,48450,37327,46,2-5 Jahre,0-20.000 km
+556,2023-05-01,Wohnmobil,VANTourer,540 D 9G-Tronic 3.5 t,Kastenwagen,2021-04-01,69500.0,Automatik,103.0,Ducato 7,52800,55000,71720,25,2-5 Jahre,50.001-100.000 km
+557,2023-05-01,Wohnmobil,Hymer,B508CL / 3.5t,Integrierter,2009-07-01,58286.0,Schaltung,116.0,Fiat,35590,33990,85716,166,Über 10 Jahre,50.001-100.000 km
+558,2023-05-01,Wohnwagen,Hymer,Feeling 470,,2013-03-01,,,,,12600,14000,18273,122,Über 10 Jahre,Über 100.000 km
+559,2023-05-01,Wohnmobil,Hymer,B ML I 880 / 9G-TRONIC 5.5t,Integrierter,2022-04-01,12950.0,Automatik,125.0,Mercedes ,170000,170000,39638,13,0-2 Jahre,0-20.000 km
+560,2023-05-01,Wohnmobil,Carado,T 338 / 9G-Tronic 3.5t,Teilintegrierter,2022-03-01,30384.0,Automatik,103.0,Fiat ,62300,64600,58313,14,0-2 Jahre,20.001-50.000 km
+561,2023-05-01,Wohnmobil,Hymer,Grand Canyon S 7G-Tronic 3.5 t,Kastenwagen,2018-07-01,140750.0,Automatik,140.0,Mercedes Sprinter 319 CDI,49000,49000,7973,58,2-5 Jahre,Über 100.000 km
+562,2023-05-01,Wohnmobil,Eura Mobil,Contura 700EB 4.25t,Teilintegrierter,2008-06-01,118000.0,Schaltung,96.0,Fiat,31000,33900,91220,179,Über 10 Jahre,Über 100.000 km
+563,2023-05-01,Wohnmobil,Rimor,Seal 9 / 3.5t,Alkoven,2016-09-01,77510.0,Schaltung,96.0,Fiat ,36100,38000,42651,80,5-10 Jahre,50.001-100.000 km
+564,2023-05-01,Wohnwagen,Tabbert,Da Vinci 550 DM ,,2017-07-01,,,,,19500,22600,73655,70,5-10 Jahre,Über 100.000 km
+565,2023-05-01,Wohnmobil,Challenger,287 GA Special Edition Aut. 3.5t,Teilintegrierter,2018-06-01,43350.0,Automatik,125.0,Ford,50300,51000,25541,59,2-5 Jahre,20.001-50.000 km
+566,2023-05-01,Wohnmobil,Karmann,Davis JUMP 620 3.5t,Kastenwagen,2016-08-01,115000.0,Schaltung,96.0,Fiat ,41000,41000,34519,81,5-10 Jahre,Über 100.000 km
+567,2023-05-01,Wohnmobil,Bürstner,Ixeo time 726G / 3.5t,Teilintegrierter,2021-06-01,13000.0,Schaltung,103.0,Citroen ,62050,66050,85405,23,0-2 Jahre,0-20.000 km
+568,2023-05-01,Wohnmobil,Bürstner,Travel Van T 590 G 9G-Tronic 3.5t,Teilintegrierter,2021-06-01,16000.0,Automatik,130.0,Fiat,62500,71500,83364,23,0-2 Jahre,0-20.000 km
+569,2023-05-01,Wohnmobil,Niesmann + Bischoff,Flair 880 LE Aut. 7.5t,Integrierter,2016-07-01,42841.0,Automatik,150.0,Iveco Daily,155400,155000,74821,82,5-10 Jahre,20.001-50.000 km
+570,2023-05-01,Wohnwagen,Bürstner,Premio Life 480 TL,,2019-04-01,,,,,14050,15950,75438,49,2-5 Jahre,Über 100.000 km
+571,2023-05-01,Wohnmobil,Carthago,Chic C line I 4.9 Aut. 4.5t,Integrierter,2017-08-01,25000.0,Automatik,110.0,Fiat,84100,80000,53937,69,5-10 Jahre,20.001-50.000 km
+572,2023-06-01,Wohnmobil,Dreamer,D42 9G-Tronic 3.5t,Kastenwagen,2022-03-01,1800.0,Automatik,103.0,Fiat,56100,55000,38100,15,0-2 Jahre,0-20.000 km
+573,2023-07-01,Wohnmobil,Bürstner,Nexxo 660,Teilintegrierter,2015-04-01,85584.0,Schaltung,96.0,Fiat,44900,53500,25337,99,5-10 Jahre,50.001-100.000 km
+574,2023-05-01,Wohnmobil,Globecar,Roadscout R 9G-Tronic,Kastenwagen,2021-08-01,16700.0,Automatik,118.0,Fiat Ducato,55500,62000,46325,21,0-2 Jahre,0-20.000 km
+575,2023-06-01,Wohnmobil,Concorde,Charisma 890 L mit DPF 6.7 t,Integrierter,2006-10-01,134000.0,Automatik,122.0,Iveco,72300,72000,59581,200,Über 10 Jahre,Über 100.000 km
+576,2023-05-01,Wohnwagen,Knaus,Sport Silver Selection 500 FU,,2019-08-01,,,,,17900,20900,41334,45,2-5 Jahre,Über 100.000 km
+577,2023-05-01,Wohnmobil,Dethleffs,Globetrotter XL-I 7850 Aut. 5.2t,Integrierter,2015-05-01,90000.0,Automatik,130.0,Fiat ,78100,87000,41379,96,5-10 Jahre,50.001-100.000 km
+578,2023-05-01,Wohnmobil,Dethleffs,I 6601 Advantage 3.5t,Integrierter,2015-04-01,95000.0,Schaltung,109.0,Fiat,45000,52000,79713,97,5-10 Jahre,50.001-100.000 km
+579,2023-05-01,Wohnmobil,Bürstner,Viseo i 737 G / 3.85t,Integrierter,2013-06-01,92433.0,Schaltung,109.0,Fiat,40000,49000,7607,119,5-10 Jahre,50.001-100.000 km
+580,2023-05-01,Wohnmobil,Carado,T448 / 3.5 t,Teilintegrierter,2013-07-01,67000.0,Schaltung,96.0,Fiat ,35650,44550,89567,118,5-10 Jahre,50.001-100.000 km
+581,2023-05-01,Wohnmobil,Challenger,270 Premium 9G-Tronic 3.5 t,Teilintegrierter,2020-05-01,37800.0,Automatik,103.0,Fiat,60100,53000,65843,36,2-5 Jahre,20.001-50.000 km
+582,2023-05-01,Wohnmobil,Phoenix,Liner 8300 G 6.5 t,Integrierter,2007-08-01,112500.0,Automatik,130.0,Iveco Daily ,64900,76500,23812,189,Über 10 Jahre,Über 100.000 km
+583,2023-05-01,Wohnmobil,Dethleffs,Trend I 7057 Aut. 3.5t,Integrierter,2018-05-01,30100.0,Automatik,110.0,Fiat,63300,69500,23942,60,2-5 Jahre,20.001-50.000 km
+584,2023-05-01,Wohnmobil,Karmann,Dexter 595 / 3.5t,Kastenwagen,2013-03-01,117900.0,Schaltung,109.0,Fiat ,36000,38000,24582,122,Über 10 Jahre,Über 100.000 km
+585,2023-05-01,Wohnmobil,Sunlight,T68 Adventure Edition 3.65 t,Teilintegrierter,2021-10-01,20000.0,Schaltung,118.0,Fiat Ducato,59000,66500,88348,19,0-2 Jahre,0-20.000 km
+586,2023-05-01,Wohnmobil,Volkswagen,T5 California 3.0t,Bus,2012-10-01,171000.0,Schaltung,103.0,Volkswagen,33200,35000,47198,127,Über 10 Jahre,Über 100.000 km
+587,2023-05-01,Wohnwagen,Bürstner,Averso 465TS Harmony Line ,,2020-07-01,,,,,23300,25500,45659,34,2-5 Jahre,Über 100.000 km
+588,2023-05-01,Wohnmobil,Adria,Sonic I 600 SL 3.5 t,Integrierter,2015-04-01,78000.0,Schaltung,96.0,Fiat,37500,37500,37077,97,5-10 Jahre,50.001-100.000 km
+589,2023-05-01,Wohnmobil,Morelo,Palace 90 G 7.49 t,Integrierter,2020-02-01,15700.0,Automatik,155.0,Iveco,273200,305000,68789,39,2-5 Jahre,0-20.000 km
+590,2023-05-01,Wohnmobil,Challenger,250 Graphite Premium Edition Aut. 3.5t,Teilintegrierter,2021-05-01,19700.0,Automatik,125.0,Ford,64050,65050,50170,24,0-2 Jahre,0-20.000 km
+591,2023-05-01,Wohnmobil,Carado,T 447 / 3.5 t,Teilintegrierter,2013-03-01,74500.0,Schaltung,109.0,Fiat,40000,40000,59075,122,Über 10 Jahre,50.001-100.000 km
+592,2023-06-01,Wohnmobil,Dethleffs,T 7090,Teilintegrierter,2010-10-01,68458.0,Schaltung,96.0,Fiat Ducato ,36000,42000,47608,152,Über 10 Jahre,50.001-100.000 km
+593,2023-06-01,Wohnwagen,Hymer,Puck GT120 Touring,,2006-06-01,,,,,10000,11500,85283,204,Über 10 Jahre,Über 100.000 km
+594,2023-06-01,Wohnmobil,GiottiLine,Therry T37s / 4.0t,Teilintegrierter,2020-06-01,32000.0,Schaltung,120.0,Citroen ,54700,61000,35110,36,2-5 Jahre,20.001-50.000 km
+595,2023-06-01,Wohnmobil,Carado,A464 / 3.5t,Alkoven,2021-04-01,24200.0,Schaltung,103.0,Fiat ,54050,57950,29559,26,2-5 Jahre,20.001-50.000 km
+596,2023-06-01,Wohnmobil,Mooveo,Van 63 EB 3.5 t,Kastenwagen,2020-08-01,18570.0,Schaltung,118.0,Fiat Ducato,54500,56900,71069,34,2-5 Jahre,0-20.000 km
+597,2023-06-01,Wohnmobil,Bela,Easy Hawaii 3.5 t,Teilintegrierter,2018-08-01,34000.0,Schaltung,96.0,Citroen,40600,45000,87653,58,2-5 Jahre,20.001-50.000 km
+598,2023-06-01,Wohnmobil,Mobilvetta,K-Yacht 85 Tekno Aut. 4.4t,Integrierter,2019-04-01,50000.0,Automatik,110.0,Fiat ,78500,90000,88142,50,2-5 Jahre,20.001-50.000 km
+599,2023-06-01,Wohnmobil,Carthago,C-Tourer T143 / 3.5t,Teilintegrierter,2017-04-01,15895.0,Schaltung,110.0,Fiat,68000,75000,53343,74,5-10 Jahre,0-20.000 km
+600,2023-06-01,Wohnmobil,Carado,CV 600 Edition 15 / 9G-Tronic,Kastenwagen,2021-03-01,42800.0,Automatik,118.0,Fiat Ducato,52000,52000,33100,27,2-5 Jahre,20.001-50.000 km
+601,2023-06-01,Wohnmobil,Frankia,I 650 ,Integrierter,1998-07-01,111032.0,Schaltung,85.0,Fiat,15000,21000,17094,299,Über 10 Jahre,Über 100.000 km
+602,2023-06-01,Wohnmobil,Niesmann + Bischoff,Arto 76 L 4.8 t,Integrierter,2018-10-01,29000.0,Automatik,130.0,,109000,112500,Heiligenhafen,56,2-5 Jahre,20.001-50.000 km
+603,2023-06-01,Wohnmobil,Pössl,2 Win R Plus 3.5 t,Kastenwagen,2019-06-01,37800.0,Schaltung,120.0,Citroen,47200,52000,18609,48,2-5 Jahre,20.001-50.000 km
+604,2023-06-01,Wohnmobil,Pössl,Summit 600 plus mit Hagelschaden,Kastenwagen,2019-04-01,31000.0,Schaltung,120.0,Citroen,40100,45000,83131,50,2-5 Jahre,20.001-50.000 km
+605,2023-08-01,Wohnmobil,Karmann,Davis 600 / 9G-Tronic,Kastenwagen,2020-09-01,37800.0,Automatik,103.0,Fiat Ducato ,53800,58900,83026,35,2-5 Jahre,20.001-50.000 km
+606,2023-06-01,Wohnmobil,Crosscamp,Flex,Bus,2021-01-01,71200.0,Schaltung,110.0,Toyota,36450,44150,54668,29,2-5 Jahre,50.001-100.000 km
+607,2023-06-01,Wohnmobil,Laika,Kreos 4012 / 4.25t,Teilintegrierter,2021-08-01,14290.0,Schaltung,118.0,Fiat ,70200,80000,41352,22,0-2 Jahre,0-20.000 km
+608,2023-06-01,Wohnmobil,Weinsberg,CaraCompact 600 MEG Edition Pepper 3.5t,Teilintegrierter,2021-04-01,2500.0,Schaltung,103.0,Fiat Ducato,55700,54900,75438,26,2-5 Jahre,0-20.000 km
+609,2023-06-01,,Weinsberg,Kastenwagen 3.3 t,Kastenwagen,2012-05-01,106000.0,Schaltung,85.0,Fiat ,29900,29900,86956,133,Über 10 Jahre,Über 100.000 km
+610,2023-06-01,Wohnmobil,Weinsberg,CaraCompact 600 MEG Pepper 9G-Tronic,Teilintegrierter,2021-10-01,11800.0,Automatik,103.0,Fiat ,62500,62500,42897,20,0-2 Jahre,0-20.000 km
+611,2023-06-01,Wohnmobil,Bürstner,Ixeo Time IT 726 G - 30er Edition 3.85t,Teilintegrierter,2017-03-01,33500.0,Schaltung,110.0,Fiat ,49800,56000,42119,75,5-10 Jahre,20.001-50.000 km
+612,2023-06-01,Wohnmobil,Knaus,Sky Silver Edition 3.85t,Teilintegrierter,2016-04-01,39600.0,Schaltung,130.0,Fiat,57500,58700,53567,86,5-10 Jahre,20.001-50.000 km
+613,2023-06-01,Wohnmobil,McLouis,Glen 362 3.4t,Teilintegrierter,2002-10-01,64700.0,Schaltung,94.0,Fiat,13600,13800,33818,248,Über 10 Jahre,50.001-100.000 km
+614,2023-06-01,Wohnmobil,Etrusco,T 7400 QBC type-X 3.85 t,Teilintegrierter,2020-05-01,24000.0,Schaltung,103.0,Fiat,54500,60000,82544,37,2-5 Jahre,20.001-50.000 km
+615,2023-06-01,Wohnmobil,Hymer,B Classic 664 mit DPF 4.0 t,Integrierter,2006-01-01,112000.0,Schaltung,94.0,Fiat ,29150,35150,72654,209,Über 10 Jahre,Über 100.000 km
+616,2023-06-01,Wohnmobil,Knaus,VAN I 600 MEG Aut. 3.5t,Integrierter,2016-03-01,15650.0,Automatik,109.0,Fiat ,55150,69950,72760,87,5-10 Jahre,0-20.000 km
+617,2023-06-01,Wohnmobil,Campster,Aut. ,Bus,2021-04-01,22500.0,Automatik,130.0,Citroen,35000,39000,71364,26,2-5 Jahre,20.001-50.000 km
+618,2023-06-01,Wohnmobil,Carthago,C Tourer 141 I LE 9G-Tronic 4.25t,Integrierter,2020-03-01,5700.0,Automatik,118.0,Fiat,94000,109000,23564,39,2-5 Jahre,0-20.000 km
+619,2023-06-01,Wohnmobil,Weinsberg,Cara Compact 600 MEG ,Teilintegrierter,2021-10-01,7902.0,Schaltung,103.0, Fiat Ducato8 ,56000,56000,41462,20,0-2 Jahre,0-20.000 km
+620,2023-06-01,Wohnmobil,Sunlight,T57,Teilintegrierter,2011-07-01,60000.0,Schaltung,96.0,Fiat Ducato 250,32800,32500,76863,143,Über 10 Jahre,50.001-100.000 km
+621,2023-06-01,Wohnmobil,Bürstner,NEXXO Time IC-Line T 569,Teilintegrierter,2020-07-01,23000.0,Schaltung,120.0,Citroen,47500,48000,26160,35,2-5 Jahre,20.001-50.000 km
+622,2023-06-01,Wohnmobil,Sunlight,T68 Adventure Edition 3.5t,Teilintegrierter,2021-10-01,4600.0,Schaltung,103.0,Fiat ,60300,60000,73571,20,0-2 Jahre,0-20.000 km
+623,2023-06-01,Wohnmobil,Carado,A 464 / 3.5t,Alkoven,2019-10-01,25000.0,Schaltung,96.0,Fiat,49000,55000,63739,44,2-5 Jahre,20.001-50.000 km
+624,2023-06-01,Wohnmobil,Tourne,Mobil 640 Silver Edition 3.5t,Kastenwagen,2022-02-01,7250.0,Schaltung,121.0,Peugeot,67000,67000,83134,16,0-2 Jahre,0-20.000 km
+625,2023-06-01,Wohnmobil,Carthago,Liner 65 DB 7.0 t,Integrierter,2011-02-01,112000.0,Schaltung,125.0,Iveco,70800,70000,87474,148,Über 10 Jahre,Über 100.000 km
+626,2023-06-01,Wohnmobil,LMC,Innovan 600,Kastenwagen,2022-03-01,9500.0,Schaltung,103.0,Fiat Ducato 7,54900,52500,75328,15,0-2 Jahre,0-20.000 km
+627,2023-06-01,Wohnmobil,Adria,Twin SP Git Orange Sound Aut.,Kastenwagen,2012-02-01,41000.0,Automatik,130.0,Fiat Ducato ,40000,40000,41179,136,Über 10 Jahre,20.001-50.000 km
+628,2023-07-01,Wohnmobil,Sunlight,T 65,Teilintegrierter,2017-09-01,27600.0,Schaltung,96.0,Fiat Ducation 2.3 Multijet,46500,43500,71157,70,5-10 Jahre,20.001-50.000 km
+629,2023-06-01,Wohnwagen,Dethleffs,Camper C 500 TK,,2010-05-01,,,,,8300,10500,82547,157,Über 10 Jahre,Über 100.000 km
+630,2023-06-01,Wohnmobil,Etrusco,I 6900 SB 3.5 t,Integrierter,2021-08-01,16000.0,Schaltung,103.0,Fiat,63500,70000,90587,22,0-2 Jahre,0-20.000 km
+631,2023-06-01,Wohnwagen,Knaus,Südwind 500 EU 60 YEARS,,2023-06-01,,,,,23350,24350,83109,0,0-2 Jahre,Über 100.000 km
+632,2023-06-01,Wohnmobil,Forster,T 699 EB,Teilintegrierter,2022-01-01,5200.0,Schaltung,103.0,Citroen,56500,68500,6231,17,0-2 Jahre,0-20.000 km
+633,2023-07-01,Wohnmobil,GiottiLine,Therry T 37 S / 4.0t,Teilintegrierter,2018-06-01,31500.0,Schaltung,120.0,Citroen ,48500,57000,89346,61,5-10 Jahre,20.001-50.000 km
+634,2023-06-01,Wohnmobil,Ilusion,XMK 590 FF 3.85 t,Teilintegrierter,2021-12-01,1000.0,Schaltung,103.0,Fiat,56000,59500,41466,18,0-2 Jahre,0-20.000 km
+635,2023-06-01,Wohnwagen,Dethleffs,C`go 495 QSK,,2018-07-01,,,,,13050,16250,69151,59,2-5 Jahre,Über 100.000 km
+636,2023-06-01,Wohnmobil,Carado,T 449 ,Teilintegrierter,2014-02-01,52900.0,Schaltung,96.0,Fiat Ducato ,38300,42000,94094,112,5-10 Jahre,50.001-100.000 km
+637,2023-06-01,Wohnmobil,Pössl,640,Kastenwagen,2017-05-01,109275.0,Schaltung,96.0,Fiat Ducato ,39700,38000,22045,73,5-10 Jahre,Über 100.000 km
+638,2023-06-01,Wohnmobil,Hymer,B 690 MC 4.4 t,Integrierter,2020-06-01,20400.0,Automatik,130.0,Mercedes,115700,112500,49525,36,2-5 Jahre,20.001-50.000 km
+639,2023-06-01,Wohnmobil,Pössl,Trenta 640 / 4.25 t,Kastenwagen,2020-05-01,40200.0,Schaltung,118.0,Fiat Ducato,50500,56000,72124,37,2-5 Jahre,20.001-50.000 km
+640,2023-06-01,Wohnmobil,Carthago,C-Compactline I 143,Integrierter,2014-05-01,107000.0,Schaltung,109.0,Fiat Ducato,50000,61000,23701,109,5-10 Jahre,Über 100.000 km
+641,2023-06-01,Wohnmobil,Hymer,B 778 Premium Line Aut. 5.5 t,Integrierter,2018-02-01,25000.0,Automatik,130.0,"Fiat Ducato Maxi 3,0 M-Jet",94700,80000,50931,64,5-10 Jahre,20.001-50.000 km
+642,2023-06-01,Wohnwagen,Hobby,Exklusive 495 FUe Modell 99,,1999-01-01,,,,,4100,6000,45481,293,Über 10 Jahre,Über 100.000 km
+643,2023-06-01,Wohnmobil,Clever,Move 600 Aufstelldach,Kastenwagen,2021-03-01,41000.0,Schaltung,103.0,Citroen,51300,48000,40893,27,2-5 Jahre,20.001-50.000 km
+644,2023-06-01,Wohnmobil,Mobilvetta,K-Yacht 79 Tekno Design 9G-Tronic 4.4 t,Integrierter,2021-08-01,7500.0,Automatik,118.0,Ducato,92300,95000,51674,22,0-2 Jahre,0-20.000 km
+645,2023-06-01,Wohnmobil,Carthago,C-Line XL 5.5 LE / DA 5.5 t,Integrierter,2019-08-01,21500.0,Automatik,130.0,Fiat,121200,125000,88175,46,2-5 Jahre,20.001-50.000 km
+646,2023-06-01,Wohnmobil,Malibu,640 LE GT Charming,Kastenwagen,2019-09-01,26000.0,Schaltung,110.0,Fiat,51000,60000,77740,45,2-5 Jahre,20.001-50.000 km
+647,2023-06-01,Wohnmobil,Carado,T 337,Teilintegrierter,2016-05-01,56561.0,Schaltung,96.0,Fiat Ducato,42850,43750,26316,85,5-10 Jahre,50.001-100.000 km
+648,2023-06-01,Wohnmobil,Chausson,Titanium Premium 788 Aut. 3.5 t,Teilintegrierter,2022-07-01,12000.0,Automatik,125.0,Ford,63900,69100,86444,11,0-2 Jahre,0-20.000 km
+649,2023-06-01,Wohnmobil,Hymer,B 584,Integrierter,2003-02-01,141926.0,Schaltung,94.0,Fiat,19199,18999,88677,244,Über 10 Jahre,Über 100.000 km
+650,2023-06-01,Wohnmobil,Weinsberg,CaraBus 600 MQ IC-Line,Kastenwagen,2016-05-01,25658.0,Schaltung,96.0,Fiat Ducato,42000,45000,26409,85,5-10 Jahre,20.001-50.000 km
+651,2023-06-01,Wohnmobil,Bürstner,Lyseo Privilege 736,Teilintegrierter,2019-10-01,3980.0,Schaltung,110.0,Fiat Ducato,56700,58500,54668,44,2-5 Jahre,0-20.000 km
+652,2023-06-01,Wohnmobil,Adria,Twin 640 SL All-In 3.5 t,Kastenwagen,2022-02-01,28000.0,Schaltung,121.0,Citröen,54650,56550,44319,16,0-2 Jahre,20.001-50.000 km
+653,2023-06-01,Wohnmobil,Karmann,Davis 590 / 9G-Tronic,Kastenwagen,2022-01-01,12800.0,Automatik,103.0,Fiat Ducato,58100,57800,69151,17,0-2 Jahre,0-20.000 km
+654,2023-06-01,Wohnmobil,Morelo,Home 79 L,Integrierter,2016-08-01,65000.0,Automatik,130.0,Fiat,102600,110000,45721,82,5-10 Jahre,50.001-100.000 km
+655,2023-06-01,Wohnmobil,Forster, Vantasy 636 HB 3.5 t,Kastenwagen,2022-04-01,31700.0,Schaltung,103.0,Fiat Ducato,52250,52250,67454,14,0-2 Jahre,20.001-50.000 km
+656,2023-06-01,Wohnwagen,Kabe,Smaragd GLE,,2007-03-01,,,,,7600,7600,58239,195,Über 10 Jahre,Über 100.000 km
+657,2023-06-01,Wohnmobil,Hobby,Ontour V 65 GE,Teilintegrierter,2020-07-01,10762.0,Schaltung,103.0,Citroen Jumper,50500,55000,44534,35,2-5 Jahre,0-20.000 km
+658,2023-07-01,Wohnmobil,Pössl,Summit 540,Kastenwagen,2021-05-01,17000.0,Schaltung,103.0,Citroen Jumper,45300,48000,63773,26,2-5 Jahre,0-20.000 km
+659,2023-07-01,Wohnmobil,Sunlight,T68 XV 15 9G-Tronic 4.0 t,Teilintegrierter,2020-05-01,23929.0,Automatik,103.0,Fiat Ducato,59800,61200,18258,38,2-5 Jahre,20.001-50.000 km
+660,2023-07-01,Wohnmobil,Dethleffs,A 7871-2 / 5.0 t ,Alkoven,2008-01-01,121227.0,Schaltung,116.0,Fiat Ducato ,40000,44100,30659,186,Über 10 Jahre,Über 100.000 km
+661,2023-07-01,Wohnwagen,Fendt,495 SF,,2014-09-01,,,,,13900,17500,73488,106,5-10 Jahre,Über 100.000 km
+662,2023-07-01,Wohnmobil,Bürstner,Lyseo M Harmony Line 660 Aut.,Teilintegrierter,2020-02-01,9000.0,Automatik,120.0,Mercedes Sprinter 416CDI,73000,74100,67433,41,2-5 Jahre,0-20.000 km
+663,2023-07-01,Wohnmobil,Carado,T447,Teilintegrierter,2017-03-01,13500.0,Schaltung,110.0,Fiat ,48900,52500,19067,76,5-10 Jahre,0-20.000 km
+664,2023-07-01,Wohnmobil,LMC,Liberty T 674 G /3.85t,Teilintegrierter,2014-01-01,47000.0,Schaltung,96.0,Fiat ,42500,52000,52477,114,5-10 Jahre,20.001-50.000 km
+665,2023-07-01,Wohnmobil,Rimor,Dynamic 25,Alkoven,2012-09-01,32900.0,Schaltung,92.0,Renault Master,33690,39990,49214,130,Über 10 Jahre,20.001-50.000 km
+666,2023-07-01,Wohnmobil,Chausson,Welcome 748 EB 4.4 t,Teilintegrierter,2018-11-01,18700.0,Schaltung,110.0,Fiat,50300,54500,86836,56,2-5 Jahre,0-20.000 km
+667,2023-07-01,Wohnwagen,Dethleffs,Exclusiv Professional 780 KQR,,2019-06-01,,,,,35490,41990,50374,49,2-5 Jahre,Über 100.000 km
+668,2023-07-01,Wohnmobil,Chausson,Flash 26 auf Fiat,Teilintegrierter,2010-08-01,97900.0,Schaltung,96.0,Fiat,25500,29500,58095,155,Über 10 Jahre,50.001-100.000 km
+669,2023-07-01,Wohnmobil,Etrusco,T 7400 SB 9G-Tronic,Teilintegrierter,2022-03-01,12000.0,Automatik,103.0,Fiat Ducato,63900,69000,81245,16,0-2 Jahre,0-20.000 km
+670,2023-07-01,Wohnmobil,Mooveo,VAN 63EB 9G-Tronic ,Kastenwagen,2020-02-01,21000.0,Automatik,118.0,Fiat,62000,62700,66763,41,2-5 Jahre,20.001-50.000 km
+671,2023-07-01,Wohnmobil,Eura Mobil,Profila T 720 EB 4.4 t,Teilintegrierter,2019-03-01,12000.0,Schaltung,110.0,Fiat Ducato,67500,76000,34628,52,2-5 Jahre,0-20.000 km
+672,2023-07-01,Wohnmobil,Clever,Tour 540 / 3.5 t,Kastenwagen,2017-03-01,99544.0,Schaltung,120.0,Citroen,37500,42500,29367,76,5-10 Jahre,50.001-100.000 km
+673,2023-07-01,,Carado,T 138,Teilintegrierter,2014-04-01,27400.0,Schaltung,96.0,Fiat Ducato,35000,37900,94330,111,5-10 Jahre,20.001-50.000 km
+674,2023-07-01,Wohnmobil,Pilote,C 690 G Essentiell,Alkoven,2020-06-01,35000.0,Schaltung,103.0,Fiat Ducato,47000,49000,45889,37,2-5 Jahre,20.001-50.000 km
+675,2023-07-01,Wohnmobil,Dethleffs,Globebus I6 GT-Paket 9G-Tronic,Integrierter,2020-02-01,20485.0,Automatik,118.0,Fiat Ducato,74700,82000,18439,41,2-5 Jahre,20.001-50.000 km
+676,2023-07-01,Wohnmobil,Pössl,2Win ,Kastenwagen,2009-10-01,98529.0,Schaltung,116.0,Citroën Jumper,27850,29950,55128,165,Über 10 Jahre,50.001-100.000 km
+677,2023-07-01,Wohnmobil,Rapido,9094 DF Aut. 4.4 t,Integrierter,2019-03-01,12500.0,Automatik,110.0,Fiat,57300,63500,79761,52,2-5 Jahre,0-20.000 km
+678,2023-07-01,Wohnmobil,Carado,V132 Edition 15,Teilintegrierter,2022-07-01,11500.0,Schaltung,103.0,Citroen Jumper ,53600,54000,16259,12,0-2 Jahre,0-20.000 km
+679,2023-07-01,,Chausson,Titanium Premium 630 Aut.,Teilintegrierter,2022-03-01,31032.0,Automatik,125.0,Ford,65200,65000,42781,16,0-2 Jahre,20.001-50.000 km
+680,2023-07-01,Wohnmobil,Bürstner,Aviano I 650 / 3.5 t,Integrierter,2008-04-01,140000.0,Schaltung,96.0,Fiat,32000,39000,41515,183,Über 10 Jahre,Über 100.000 km
+681,2023-07-01,Wohnmobil,Miller,Toronto,Teilintegrierter,2017-07-01,32500.0,Schaltung,96.0,Fiat Ducato,41200,44500,21031,72,5-10 Jahre,20.001-50.000 km
+682,2023-07-01,Wohnmobil,Globecar,Campscout 6.3m / 4.25 t,Kastenwagen,2011-07-01,140000.0,Schaltung,88.0,Fiat Ducato,30200,34000,54472,144,Über 10 Jahre,Über 100.000 km
+683,2023-07-01,Wohnmobil,Bürstner,I 624 Elegance mit Motorschaden,Integrierter,2001-01-01,111000.0,Schaltung,90.0,Fiat Ducato,8000,15000,56727,270,Über 10 Jahre,Über 100.000 km
+684,2023-07-01,Wohnmobil,Carthago,C Tourer T 143 LE Aut. 4.5 t,Teilintegrierter,2022-04-01,25000.0,Automatik,125.0,Mercedes,104100,103800,41748,15,0-2 Jahre,20.001-50.000 km
+685,2023-07-01,Wohnmobil,Pössl,2Win Plus Aufstelldach *CH-Zulassung*,Kastenwagen,2018-03-01,36500.0,Schaltung,120.0,Citroen Jumper Heavy,43200,48500,88045,64,5-10 Jahre,20.001-50.000 km
+686,2023-07-01,Wohnmobil,Knaus,Boxlife 540 MQ 3.5t,Kastenwagen,2022-12-01,3300.0,Schaltung,121.0,Peugeot ,56200,55700,59494,7,0-2 Jahre,0-20.000 km
+687,2023-07-01,Wohnmobil,Weinsberg,Cara Home 700 DG,Alkoven,2020-06-01,35000.0,Schaltung,103.0,Peugeot,46400,50500,24988,37,2-5 Jahre,20.001-50.000 km
+688,2023-07-01,Wohnmobil,Hymer,ML-T 580 / 4x4,Teilintegrierter,2019-07-01,34550.0,Schaltung,140.0,Mercedes,98000,100000,85254,48,2-5 Jahre,20.001-50.000 km
+689,2023-07-01,Wohnmobil,Rapido,V 22 Aut.,Kastenwagen,2018-04-01,60000.0,Automatik,110.0,Fiat,45300,45000,10119,63,5-10 Jahre,50.001-100.000 km
+690,2023-07-01,,Mobilvetta,Krosser P90 /9G-Tronic 4.4t,Teilintegrierter,2022-06-01,11000.0,Automatik,118.0,Fiat,79600,87000,23879,13,0-2 Jahre,0-20.000 km
+691,2023-07-01,Wohnmobil,Bürstner,Lyseo T 728 G Aut.,Teilintegrierter,2017-04-01,61400.0,Automatik,110.0,Fiat ,53200,54000,79312,75,5-10 Jahre,50.001-100.000 km
+692,2023-07-01,Wohnmobil,Ahorn,Canada TE Plus 4.0t,Teilintegrierter,2021-06-01,33900.0,Schaltung,107.0,Renault,53400,54000,3226,25,2-5 Jahre,20.001-50.000 km
+693,2023-07-01,Wohnmobil,Karmann,Colorado 655 TI ,Teilintegrierter,2007-12-01,75000.0,Schaltung,128.0,VW T5,33000,32500,92706,187,Über 10 Jahre,50.001-100.000 km
+694,2023-07-01,Wohnmobil,Hobby,670 AK FM 4.0t,Alkoven,2006-07-01,36250.0,Schaltung,107.0,Fiat,29000,35000,80637,204,Über 10 Jahre,20.001-50.000 km
+695,2023-07-01,Wohnmobil,Sunlight,Cliff 540 3.3t,Kastenwagen,2018-08-01,9500.0,Schaltung,85.0,Fiat ,42800,40000,78052,59,2-5 Jahre,0-20.000 km
+696,2023-07-01,Wohnmobil,Pilote,P 696 Expression 9G-Tronic 3.5t,Teilintegrierter,2022-08-01,25324.0,Automatik,118.0,Fiat,68900,74600,52372,11,0-2 Jahre,20.001-50.000 km
+697,2023-07-01,Wohnmobil,Eura Mobil,Integra Style 670SB / 4.0t,Integrierter,2011-10-01,107087.0,Schaltung,96.0,Fiat,37000,44000,27356,141,Über 10 Jahre,Über 100.000 km
+698,2023-07-01,Wohnmobil,Knaus,Van Ti 650 MEG Platinum Selection 3.5t,Teilintegrierter,2020-07-01,25000.0,Schaltung,103.0,Fiat ,56000,57700,87437,36,2-5 Jahre,20.001-50.000 km
+699,2023-07-01,Wohnmobil,Carado,T 135,Teilintegrierter,2016-04-01,48650.0,Schaltung,96.0,Fiat ,39400,40000,48231,87,5-10 Jahre,20.001-50.000 km
+700,2023-07-01,Wohnmobil,Concorde,Carver 791 Aut. 6.5t,Integrierter,2019-10-01,17000.0,Automatik,150.0,Iveco,178000,185000,93138,45,2-5 Jahre,0-20.000 km
+701,2023-07-01,Wohnmobil,Ahorn,Alaska TE Plus 4.0t,Teilintegrierter,2021-06-01,12500.0,Schaltung,107.0,Renault ,52000,52000,3130,25,2-5 Jahre,0-20.000 km
+702,2023-07-01,Wohnmobil,Weinsberg,CaraLoft 650,Teilintegrierter,2019-03-01,19000.0,Schaltung,96.0,Fiat Ducato,50300,57000,88662,52,2-5 Jahre,0-20.000 km
+703,2023-07-01,,Pössl,Vario 499 / 3.5t,Kastenwagen,2015-05-01,58888.0,Schaltung,109.0,Fiat,38500,38500,24340,98,5-10 Jahre,50.001-100.000 km
+704,2023-07-01,Wohnmobil,Weinsberg,CaraCompact 600 MG Edition Pepper 3.5t,Teilintegrierter,2019-05-01,32000.0,Schaltung,120.0,Peugeot,47000,52500,42555,50,2-5 Jahre,20.001-50.000 km
+705,2023-07-01,Wohnwagen,Fendt,OPAL 560SG,,2019-07-01,,,,,23000,27500,52134,48,2-5 Jahre,Über 100.000 km
+706,2023-07-01,Wohnmobil,Sunlight,T 60,Teilintegrierter,2019-04-01,13000.0,Schaltung,96.0,Fiat Ducato,44700,48000,97215,51,2-5 Jahre,0-20.000 km
+707,2023-07-01,Wohnmobil,Weinsberg,Cara Compact MEG Pepper,Teilintegrierter,2019-05-01,44500.0,Schaltung,120.0,Peugeot,45000,45000,35469,50,2-5 Jahre,20.001-50.000 km
+708,2023-07-01,Wohnmobil,Bürstner,Campeo C600 3.5t,Kastenwagen,2020-07-01,24800.0,Schaltung,103.0,Fiat ,49000,55100,9474,36,2-5 Jahre,20.001-50.000 km
+709,2023-07-01,Wohnmobil,VANTourer,630 / 3.5t,Kastenwagen,2019-02-01,76000.0,Schaltung,120.0,Peugeot,46400,58500,70499,53,2-5 Jahre,50.001-100.000 km
+710,2023-07-01,Wohnmobil,Hymer,Exsis-t 588 / 3.5t,Teilintegrierter,2014-06-01,49493.0,Schaltung,96.0,Fiat,43300,46000,1109,109,5-10 Jahre,20.001-50.000 km
+711,2023-07-01,Wohnmobil,Knaus,Sky Ti Aut. 3.5t,Teilintegrierter,2008-07-01,94500.0,Automatik,107.0,Renault ,23500,28500,26180,180,Über 10 Jahre,50.001-100.000 km
+712,2023-07-01,Wohnmobil,Bürstner,Ixeo TL 680 G / 3.5t,Teilintegrierter,2018-03-01,36920.0,Schaltung,96.0,Fiat ,48800,55500,14469,64,5-10 Jahre,20.001-50.000 km
+713,2023-07-01,Wohnmobil,Ford,Nugget ,Bus,2018-07-01,17600.0,Schaltung,125.0,Ford,39900,40500,1328,60,2-5 Jahre,0-20.000 km
+714,2023-07-01,Wohnmobil,Carado,T 449,Teilintegrierter,2017-03-01,44400.0,Schaltung,110.0,Fiat Ducato,47900,48000,27432,76,5-10 Jahre,20.001-50.000 km
+715,2023-07-01,Wohnmobil,Concorde,Carver 790 L / 7.49t,Integrierter,2022-09-01,11000.0,Automatik,155.0,Iveco ,269700,269100,26389,10,0-2 Jahre,0-20.000 km
+716,2023-07-01,Wohnmobil,Dethleffs,Just 90 T 6812 EB 9G-Tronic,Teilintegrierter,2021-06-01,11000.0,Automatik,103.0,Fiat Ducato,67700,66000,49525,25,2-5 Jahre,0-20.000 km
+717,2023-07-01,Wohnmobil,Carado,T 448 (Inserat aktualisiert 20.07. 09:28),Teilintegrierter,2016-02-01,57000.0,Schaltung,96.0,,45800,49000,53797,89,5-10 Jahre,50.001-100.000 km
+718,2023-07-01,Wohnwagen,Weinsberg,Caracito  450 FU,,2023-06-01,,,,,14950,15750,86865,1,0-2 Jahre,Über 100.000 km
+719,2023-07-01,Wohnmobil,Weinsberg,CaraHome 700 DG,Alkoven,2019-03-01,29000.0,Schaltung,96.0,Peugeot ,48350,52250,58579,52,2-5 Jahre,20.001-50.000 km
+720,2023-07-01,Wohnmobil,Bela,Easy Macau,Alkoven,2018-10-01,120000.0,Schaltung,96.0,Citroen Jumper,31700,26000,9306,57,2-5 Jahre,Über 100.000 km
+721,2023-07-01,Wohnmobil,Hymer,T 588 SL Automatik,Teilintegrierter,2019-06-01,9471.0,Automatik,110.0,Fiat Ducato,60300,62000,24321,49,2-5 Jahre,0-20.000 km
+722,2023-07-01,Wohnmobil,Knaus,Sun Traveller 600 D 4.0 t,Alkoven,2009-04-01,27867.0,Schaltung,96.0,Fiat Ducato,30300,35000,52388,171,Über 10 Jahre,20.001-50.000 km
+723,2023-07-01,Wohnwagen,Dethleffs,Camper 510 V,,2001-06-01,,,,,4900,7500,68753,265,Über 10 Jahre,Über 100.000 km
+724,2023-07-01,Wohnwagen,Hymer,Nova GL 530,,2017-05-01,,,,,19500,19500,64665,74,5-10 Jahre,Über 100.000 km
+725,2023-07-01,Wohnmobil,Adria,Twin mit DPF ,Kastenwagen,2005-08-01,129000.0,Schaltung,94.0,Fiat,17800,19000,65191,215,Über 10 Jahre,Über 100.000 km
+726,2023-08-01,Wohnmobil,Bürstner,Ixeo IT 645 ,Teilintegrierter,2012-03-01,62000.0,Schaltung,96.0,Fiat ,34500,39000,50933,137,Über 10 Jahre,50.001-100.000 km
+727,2023-07-01,Wohnmobil,Knaus,Van TI 650 MEG Platinum Selection ,Teilintegrierter,2018-06-01,33500.0,Schaltung,96.0,Peugeot,54700,57000,12349,61,5-10 Jahre,20.001-50.000 km
+728,2023-07-01,Wohnmobil,Hymer,MLT 580 / 4x4 / 4.4 t,Teilintegrierter,2021-07-01,12523.0,Automatik,140.0,Mercedes W907,132100,139000,27404,24,0-2 Jahre,0-20.000 km
+729,2023-08-01,Wohnmobil,Adria,Twin 640 SL ,Kastenwagen,2022-01-01,41500.0,Schaltung,121.0,Citröen ,53000,57000,26386,19,0-2 Jahre,20.001-50.000 km
+730,2023-07-01,Wohnmobil,Pössl,2Win S Plus Light,Kastenwagen,2021-01-01,38000.0,Schaltung,103.0,Citroen,45300,45000,30926,30,2-5 Jahre,20.001-50.000 km
+731,2023-07-01,Wohnmobil,Hymer,Yellowstone Aufstelldach,Kastenwagen,2018-07-01,24376.0,Schaltung,110.0,Fiat,56000,59000,85254,60,2-5 Jahre,20.001-50.000 km
+732,2023-07-01,Wohnmobil,Adria,Twin Supreme 640 SLB 9G-Tronic,Kastenwagen,2020-07-01,28600.0,Automatik,118.0,Fiat,60000,59500,34253,36,2-5 Jahre,20.001-50.000 km
+733,2023-08-01,Wohnmobil,Dethleffs,Fortero,Teilintegrierter,2006-03-01,53600.0,Schaltung,85.0,Ford ,23900,29500,47198,209,Über 10 Jahre,50.001-100.000 km
+734,2023-07-01,Wohnmobil,Pössl,Summit 600 Plus 9G-Tronic,Kastenwagen,2021-04-01,25840.0,Automatik,118.0,Fiat,59200,60000,85254,27,2-5 Jahre,20.001-50.000 km
+735,2023-07-01,Wohnmobil,XGO,i-move Dynamic 69 P,Teilintegrierter,2019-10-01,28707.0,Schaltung,96.0,Fiat ,42000,49500,32339,45,2-5 Jahre,20.001-50.000 km
+736,2023-07-01,Wohnmobil,Weinsberg,CaraLoft 650 MEG,Teilintegrierter,2014-10-01,65750.0,Schaltung,96.0,Fiat Ducato,41000,38900,78083,105,5-10 Jahre,50.001-100.000 km
+737,2023-08-01,Wohnmobil,Adria,Twin 640 SL ,Kastenwagen,2012-04-01,122098.0,Schaltung,88.0,Fiat ,32000,39900,4347,136,Über 10 Jahre,Über 100.000 km
+738,2023-07-01,Wohnmobil,Hymer,Free Blue Evolution 9G-Tronic,Kastenwagen,2021-03-01,37000.0,Automatik,103.0,Fiat,62500,63000,40233,28,2-5 Jahre,20.001-50.000 km
+739,2023-07-01,Wohnwagen,Fendt,Saphir 470,,2011-07-01,,,,,12100,13500,35398,144,Über 10 Jahre,Über 100.000 km
+740,2023-07-01,Wohnmobil,Phoenix,8300 G Aut. 6.0t,Alkoven,2003-11-01,75755.0,Automatik,115.0,Mercedes S,45000,55000,72138,236,Über 10 Jahre,50.001-100.000 km
+741,2023-07-01,Wohnmobil,Dethleffs,Globetrotter XXL A 9050 DBM 7.2 t,Alkoven,2022-02-01,13000.0,Automatik,155.0,Iveco,175000,199000,94491,17,0-2 Jahre,0-20.000 km
+742,2023-07-01,Wohnmobil,Hymer,B 680 Starline S 5.3t,Integrierter,2014-04-01,74782.0,Automatik,140.0,Mercedes,64900,64900,23774,111,5-10 Jahre,50.001-100.000 km
+743,2023-08-01,Wohnmobil,Eura Mobil,Activa One 570 HS 4.4t,Alkoven,2020-08-01,20300.0,Schaltung,118.0,Fiat ,59700,67900,59519,36,2-5 Jahre,20.001-50.000 km
+744,2023-07-01,Wohnmobil,Malibu,600 DB Charming Aut.,Kastenwagen,2017-07-01,31000.0,Automatik,110.0,Fiat Ducato,46000,46000,60435,72,5-10 Jahre,20.001-50.000 km
+745,2023-08-01,Wohnmobil,Pössl,2 Win Plus,Kastenwagen,2019-11-01,23000.0,Schaltung,103.0,Citroen Jumper ,40150,40150,22846,45,2-5 Jahre,20.001-50.000 km
+746,2023-08-01,Wohnmobil,Knaus,Van I 650 MEG Platinum Edition,Integrierter,2020-01-01,36000.0,Schaltung,103.0,Fiat ,60700,66000,47800,43,2-5 Jahre,20.001-50.000 km
+747,2023-08-01,,Globecar,Summit 600 Plus,Kastenwagen,2019-11-01,47500.0,Schaltung,120.0,Citröen,43400,43000,65191,45,2-5 Jahre,20.001-50.000 km
+748,2023-08-01,Wohnmobil,Hymer,MC T600 Aut. 4.5t,Teilintegrierter,2021-09-01,12000.0,Automatik,125.0,Mercedes ,95000,107000,74629,23,0-2 Jahre,0-20.000 km
+749,2023-08-01,Wohnmobil,Hymer,644 / 3.1t,Integrierter,1988-07-01,210000.0,Schaltung,68.0,Fiat,6000,7200,59427,421,Über 10 Jahre,Über 100.000 km
+750,2023-08-01,Wohnmobil,Carado,T 448,Teilintegrierter,2019-07-01,13000.0,Schaltung,96.0,Fiat Ducato,49900,53000,85570,49,2-5 Jahre,0-20.000 km
+751,2023-08-01,Wohnmobil,Forster,VB 699 / 9G-Tronic / 4.4 t,Alkoven,2021-09-01,12000.0,Automatik,130.0,Fiat Ducato,58500,63000,61279,23,0-2 Jahre,0-20.000 km
+752,2023-08-01,Wohnmobil,Knaus,SUN TI 700 MEG Aut. 4.0t,Teilintegrierter,2017-06-01,40150.0,Automatik,130.0,Fiat,58000,65000,39171,74,5-10 Jahre,20.001-50.000 km
+753,2023-08-01,Wohnmobil,Hymer,Eriba Swing 494 / 3.2t,Alkoven,1998-04-01,158600.0,Schaltung,60.0,Fiat ,7100,7900,87527,304,Über 10 Jahre,Über 100.000 km
+754,2023-08-01,Wohnwagen,Hymer,Nova 620 SL,,2017-03-01,,,,,19200,24000,46399,77,5-10 Jahre,Über 100.000 km
+755,2023-08-01,Wohnmobil,Hymer,ML-T 580 / 4x4 / 4.1 t,Teilintegrierter,2019-11-01,34713.0,Automatik,120.0,Mercedes Benz Sprinter,104000,117000,38470,45,2-5 Jahre,20.001-50.000 km
+756,2023-08-01,Wohnmobil,Dethleffs,Globebus T 11,Teilintegrierter,2011-06-01,55700.0,Schaltung,96.0,Fiat Ducato,31700,33500,34613,146,Über 10 Jahre,50.001-100.000 km
+757,2023-08-01,Wohnmobil,Ahorn,Van 620,Bus,2022-05-01,16700.0,Schaltung,100.0,Renault ,49100,50000,98617,15,0-2 Jahre,0-20.000 km
+758,2023-08-01,Wohnmobil,Bürstner,A 530 active DPF,Alkoven,2003-05-01,140000.0,Schaltung,81.0,Fiat ,13650,15950,44789,243,Über 10 Jahre,Über 100.000 km
+759,2023-08-01,Wohnmobil,Dethleffs,Trend A 6977,Alkoven,2018-05-01,85000.0,Schaltung,96.0,Fiat,34400,38700,50739,63,5-10 Jahre,50.001-100.000 km
+760,2023-08-01,Wohnmobil,Chausson,Welcome 55 DPF,Teilintegrierter,2004-10-01,170000.0,Schaltung,94.0,Fiat ,15000,13000,45133,226,Über 10 Jahre,Über 100.000 km
+761,2023-08-01,Wohnmobil,Sun Living,Flexo SP,Kastenwagen,2015-05-01,125000.0,Schaltung,96.0,Fiat Ducato,32500,34200,97447,99,5-10 Jahre,Über 100.000 km
+762,2023-08-01,Wohnmobil,Bürstner,Lyseo TD 745 Harmony Line 4.25 t,Teilintegrierter,2020-09-01,20000.0,Schaltung,118.0,Ducato,63000,65000,86511,35,2-5 Jahre,0-20.000 km
+763,2023-08-01,Wohnmobil,Knaus,Boxlife 630 ME aut.,Kastenwagen,2016-02-01,97000.0,Automatik,109.0,Fiat,47000,52000,44577,90,5-10 Jahre,50.001-100.000 km
+764,2023-08-01,Wohnmobil,Pilote,P 716 P / 4.4t,Teilintegrierter,2017-02-01,35000.0,Schaltung,110.0,Fiat ,48000,56000,74547,78,5-10 Jahre,20.001-50.000 km
+765,2023-08-01,Wohnmobil,Knaus,Van Ti Vansation 640 MEG Aut.,Teilintegrierter,2022-09-01,20800.0,Automatik,130.0,MAN ,69600,63000,79400,11,0-2 Jahre,20.001-50.000 km
+766,2023-08-01,Wohnwagen,Fendt,Diamant 510 TG,,2009-08-01,,,,,8900,11900,70794,168,Über 10 Jahre,Über 100.000 km
+767,2023-08-01,Wohnmobil,Dethleffs,Trend Edition T7057 EB 9G-Tronic 3.65t,Teilintegrierter,2020-09-01,33200.0,Automatik,103.0,Fiat ,60900,72500,91074,35,2-5 Jahre,20.001-50.000 km
+768,2023-08-01,Wohnmobil,Carthago,C-Compactline 144 LE Aut. 4.25 t,Integrierter,2018-06-01,29500.0,Automatik,110.0,Fiat Ducato,65300,70000,86929,62,5-10 Jahre,20.001-50.000 km
+769,2023-08-01,Wohnmobil,Dethleffs,Trend A 5887,Alkoven,2020-05-01,42042.0,Schaltung,103.0,Fiat Ducato,45050,47450,86356,39,2-5 Jahre,20.001-50.000 km
+770,2023-08-01,Wohnmobil,Challenger,Combo X150 Open Edition 9G-Tronic,Kastenwagen,2023-08-01,200.0,Automatik,118.0,Fiat,71200,70000,94032,0,0-2 Jahre,0-20.000 km
+771,2023-08-01,Wohnmobil,Carado,T 459 Edition 15 / 9G-Tronic,Teilintegrierter,2021-09-01,12251.0,Automatik,103.0,Fiat ,64600,63000,67697,23,0-2 Jahre,0-20.000 km
+772,2023-08-01,Wohnmobil,Knaus,Van Ti 650 MEG Platinum Selection,Teilintegrierter,2020-10-01,27000.0,Schaltung,121.0,Peugeot ,51500,59000,86753,34,2-5 Jahre,20.001-50.000 km
+773,2023-08-01,Wohnmobil,Clever,Jumper Cleverly,Kastenwagen,2019-07-01,36000.0,Schaltung,96.0,Citroen Jumper,41500,41500,84186,49,2-5 Jahre,20.001-50.000 km
+774,2023-08-01,Wohnmobil,Hymer,B ML 890 Aut. 5.5t,Integrierter,2021-07-01,20500.0,Automatik,125.0,Mercedes ,140000,165000,70567,25,2-5 Jahre,20.001-50.000 km
+775,2023-08-01,Wohnmobil,Knaus,BoxLife 600 ME,Kastenwagen,2021-07-01,26400.0,Schaltung,103.0,Fiat,47000,51000,18442,25,2-5 Jahre,20.001-50.000 km
+776,2023-08-01,Wohnmobil,Pössl,2Win DPF 3.3t,Kastenwagen,2006-06-01,147000.0,Schaltung,74.0,Citroen,14000,18000,23923,206,Über 10 Jahre,Über 100.000 km
+777,2023-08-01,Wohnmobil,Hymer,Exsis-T 588,Teilintegrierter,2017-04-01,35000.0,Schaltung,110.0,Fiat,49900,55000,83727,76,5-10 Jahre,20.001-50.000 km
+778,2023-08-01,Wohnwagen,Tabbert,"490 TD Booster 2,3 ",,2019-12-01,,,,,20250,20250,25337,44,2-5 Jahre,Über 100.000 km
+779,2023-08-01,Wohnmobil,Laika,Kosmo 512 / 9G-Tronic,Teilintegrierter,2022-02-01,8700.0,Automatik,103.0,Fiat,70000,70000,21224,18,0-2 Jahre,0-20.000 km
+780,2023-09-01,Wohnmobil,Pössl,Roadstar 600 L 9G-Tronic,Kastenwagen,2020-07-01,16100.0,Automatik,103.0,Fiat ,53900,55000,74172,38,2-5 Jahre,0-20.000 km
+781,2023-08-01,Wohnmobil,Pössl,2 Win Style Automatik,Kastenwagen,2012-09-01,101000.0,Automatik,109.0,Fiat Ducato,31000,36000,79379,131,Über 10 Jahre,Über 100.000 km
+782,2023-09-01,Wohnmobil,Carthago,Chic C Line 3.8,Integrierter,2010-07-01,88215.0,Schaltung,96.0,Fiat Ducato,38999,39999,66484,158,Über 10 Jahre,50.001-100.000 km
+783,2023-08-01,Wohnmobil,Bavaria,P 706 GJ ,Teilintegrierter,2018-04-01,30500.0,Schaltung,96.0,Fiat ,46600,50000,89079,64,5-10 Jahre,20.001-50.000 km
+784,2023-08-01,Wohnmobil,Chausson,V594 Premium 9G-Tronic,Kastenwagen,2021-10-01,11300.0,Automatik,103.0,Fiat Ducato ,50300,49900,96117,22,0-2 Jahre,0-20.000 km
+785,2023-08-01,Wohnmobil,LMC,Element T668G,Teilintegrierter,2021-10-01,15000.0,Schaltung,103.0,Fiat ,61750,67550,41849,22,0-2 Jahre,0-20.000 km
+786,2023-08-01,Wohnmobil,Eura Mobil,PT 695 EB Arcadia Sondered. 9G-Tronic,Teilintegrierter,2020-11-01,9550.0,Automatik,103.0,Fiat Ducato,64000,66900,26725,33,2-5 Jahre,0-20.000 km
+787,2023-08-01,Wohnwagen,Hymer,Troll 555 GT,,2004-01-01,,,,,9000,10200,97836,235,Über 10 Jahre,Über 100.000 km
+788,2023-08-01,Wohnmobil,Eura Mobil,Profila 720 EB 9G-Tronic 4.4t,Teilintegrierter,2021-09-01,15246.0,Automatik,118.0,Fiat ,82000,88400,36043,23,0-2 Jahre,0-20.000 km
+789,2023-08-01,Wohnmobil,Weinsberg,Cara Core 650 ,Integrierter,2021-06-01,7200.0,Schaltung,103.0,Weinsberg,63250,64350,56218,26,2-5 Jahre,0-20.000 km
+790,2023-08-01,Wohnmobil,Ahorn,ACT 640 plus 3.5t,Teilintegrierter,2022-05-01,7800.0,Schaltung,120.0,Renault ,51050,52350,36208,15,0-2 Jahre,0-20.000 km
+791,2023-08-01,Wohnmobil,Clever,Celebration H3,Kastenwagen,2018-05-01,73600.0,Schaltung,120.0,Citroen,39600,42600,78147,63,5-10 Jahre,50.001-100.000 km
+792,2023-08-01,Wohnmobil,Hobby,V65 GE Optima OnTour Edition,Teilintegrierter,2019-03-01,30000.0,Schaltung,96.0,Citroen Jumper,48700,42000,21706,53,2-5 Jahre,20.001-50.000 km
+793,2023-08-01,Wohnmobil,Carthago,Malibu 32.2 / auf VW T4 ,Bus,1994-02-01,275000.0,Schaltung,57.0,Volkswagen ,6200,5000,16321,354,Über 10 Jahre,Über 100.000 km
+794,2023-08-01,Wohnmobil,Ahorn,Canada TE Plus Automatik,Teilintegrierter,2020-04-01,11010.0,Automatik,125.0,Renault Master 3,48300,49100,90579,40,2-5 Jahre,0-20.000 km
+795,2023-08-01,Wohnmobil,Westfalia,Nugget Hochdach Automatik,Bus,2021-07-01,34300.0,Automatik,136.0,,47000,47000,13156,25,2-5 Jahre,20.001-50.000 km
+796,2023-08-01,Wohnmobil,Bürstner,Viseo I 595,Integrierter,2009-06-01,38000.0,Schaltung,96.0,Fiat,27000,27000,70806,170,Über 10 Jahre,20.001-50.000 km
+797,2023-08-01,Wohnmobil,LMC,Breezer V 646 G Sportline,Teilintegrierter,2015-06-01,52000.0,Schaltung,109.0,Fiat,45600,45600,38448,98,5-10 Jahre,50.001-100.000 km
+798,2023-08-01,Wohnmobil,Sunlight,A60,Teilintegrierter,2021-02-01,14500.0,Schaltung,103.0,Fiat,45500,48600,82772,30,2-5 Jahre,0-20.000 km
+799,2023-08-01,Wohnmobil,Knaus,Sport Traveller 500 D mit DPF,Alkoven,2005-05-01,92600.0,Schaltung,81.0,Fiat Ducato,15200,20000,41564,219,Über 10 Jahre,50.001-100.000 km
+800,2023-08-01,Wohnmobil,Carado,Vlow 640,Kastenwagen,2019-07-01,23000.0,Schaltung,96.0,Fiat ,45000,45000,95689,49,2-5 Jahre,20.001-50.000 km
+801,2023-08-01,Wohnmobil,Weinsberg,CaraCompact Suite 640 MEG Pepper Aut.,Teilintegrierter,2022-10-01,11222.0,Automatik,125.0,Mercedes ,76000,88000,94060,10,0-2 Jahre,0-20.000 km
+802,2023-08-01,Wohnmobil,Knaus,Boxstar 540 Road 60 Years Ed. Aufstelldach ,Kastenwagen,2022-05-01,3400.0,Schaltung,103.0,Fiat ,55900,61600,31707,15,0-2 Jahre,0-20.000 km
+803,2023-08-01,Wohnmobil,Karmann,Davis 600 / 9G-Tronic *Neu*,Kastenwagen,2023-08-01,3.0,Automatik,103.0,Fiat ,56500,62300,66606,0,0-2 Jahre,0-20.000 km
+804,2023-08-01,Wohnwagen,Hymer,Troll 530 Touring GT,,2015-03-01,,,,,19400,21500,52072,101,5-10 Jahre,Über 100.000 km
+805,2023-08-01,Wohnmobil,P.L.A.,Plasy HP 63,Teilintegrierter,2014-07-01,33000.0,Schaltung,96.0,Fiat ,34200,34200,93080,109,5-10 Jahre,20.001-50.000 km
+806,2023-08-01,Wohnmobil,GiottiLine,Therry T36 Evolution,Teilintegrierter,2012-06-01,112000.0,Schaltung,96.0,Citroen ,22100,22000,27612,134,Über 10 Jahre,Über 100.000 km
+807,2023-08-01,Wohnmobil,Bürstner,Lyseo 744 Harmony Line 3.85 t,Teilintegrierter,2019-12-01,20600.0,Schaltung,110.0,Fiat,57000,62000,91729,44,2-5 Jahre,20.001-50.000 km
+808,2023-08-01,Wohnmobil,Etrusco,T 7400 SB ,Teilintegrierter,2022-03-01,29750.0,Schaltung,103.0,Fiat,56900,56900,31789,17,0-2 Jahre,20.001-50.000 km
+809,2023-08-01,Wohnmobil,Knaus,Sky TI 650 MF Platinum Selection,Teilintegrierter,2020-06-01,24000.0,Schaltung,103.0,Fiat,55000,62500,63801,38,2-5 Jahre,20.001-50.000 km
+810,2023-09-01,Wohnmobil,Weinsberg,CaraCore 9G-Tronic 4.0t,Integrierter,2021-10-01,4500.0,Automatik,130.0,Fiat,73000,80000,38446,23,0-2 Jahre,0-20.000 km
+811,2023-09-01,Wohnmobil,Glücksmobil,T59,Teilintegrierter,2014-05-01,83600.0,Schaltung,85.0,Fiat ,28000,32000,91729,112,5-10 Jahre,50.001-100.000 km
+812,2023-08-01,Wohnmobil,Challenger,380 Graphite Aut. 4.0 t,Teilintegrierter,2021-01-01,36000.0,Automatik,125.0,Ford,53900,59500,77833,31,2-5 Jahre,20.001-50.000 km
+813,2023-08-01,Wohnmobil,Sunlight,Cliff 600 / 9G-Tronic,Kastenwagen,2020-11-01,20000.0,Automatik,103.0,Fiat Ducato,49200,52000,76287,33,2-5 Jahre,0-20.000 km
+814,2023-08-01,Wohnmobil,Knaus,Sky ti 700 MEG 4.0t,Teilintegrierter,2012-05-01,101000.0,Schaltung,130.0,Fiat ,40100,46000,41517,135,Über 10 Jahre,Über 100.000 km
+815,2023-08-01,Wohnmobil,Miller,SEA,Alkoven,2009-03-01,91300.0,Schaltung,96.0,Fiat Ducato,25900,25900,85301,173,Über 10 Jahre,50.001-100.000 km
+816,2023-08-01,Wohnmobil,Sunlight,Cliff Adventure Edition 4x4 ,Kastenwagen,2023-06-01,4000.0,Schaltung,125.0,Ford ,63000,75900,23611,2,0-2 Jahre,0-20.000 km
+817,2023-09-01,Wohnmobil,Weinsberg,Carahome 550,Alkoven,2019-10-01,27000.0,Schaltung,96.0,Peugeot ,40000,45000,99869,47,2-5 Jahre,20.001-50.000 km
+818,2023-08-01,Wohnmobil,Pössl,Duett  L,Kastenwagen,2003-04-01,140000.0,Schaltung,94.0,Fiat  ,12000,12000,63128,244,Über 10 Jahre,Über 100.000 km
+819,2023-08-01,Wohnmobil,Bürstner,Delphin 690 G Harmony Line ,Teilintegrierter,2020-09-01,32500.0,Schaltung,103.0,Citroën ,51350,53550,70567,35,2-5 Jahre,20.001-50.000 km
+820,2023-08-01,Wohnmobil,Hobby,TL 500 GESC 3.5t,Teilintegrierter,2012-02-01,71800.0,Schaltung,103.0,Ford ,32000,32000,42897,138,Über 10 Jahre,50.001-100.000 km
+821,2023-08-01,Wohnmobil,Niesmann + Bischoff,Arto 66L Aut. 4.0t,Integrierter,2016-07-01,49000.0,Automatik,130.0,Fiat,80000,89500,75417,85,5-10 Jahre,20.001-50.000 km
+822,2023-08-01,Wohnmobil,Sunlight,T 66,Teilintegrierter,2015-04-01,27096.0,Schaltung,96.0,Fiat Ducato,42000,44500,76228,100,5-10 Jahre,20.001-50.000 km
+823,2023-09-01,Wohnmobil,Hymer,Free 600 / 9G-Tronic,Kastenwagen,2020-08-01,15500.0,Automatik,118.0,Fiat Ducato,56500,61500,72275,37,2-5 Jahre,0-20.000 km
+824,2023-08-01,Wohnmobil,Roller Team,Granduca xlp ,Teilintegrierter,2009-07-01,70000.0,Schaltung,96.0,Fiat ,25000,25000,49477,169,Über 10 Jahre,50.001-100.000 km
+825,2023-08-01,Wohnmobil,Clever,Tour 540,Kastenwagen,2020-05-01,10500.0,Schaltung,121.0,Citroen ,44800,52000,70437,39,2-5 Jahre,0-20.000 km
+826,2023-08-01,Wohnmobil,Ahorn,Canada TF Plus 4.0 t,Teilintegrierter,2021-03-01,36450.0,Schaltung,107.0,Renault ,51000,56000,14778,29,2-5 Jahre,20.001-50.000 km
+827,2023-08-01,Wohnmobil,Adria,Coral 670 SL 4.09 t,Teilintegrierter,2020-05-01,21500.0,Schaltung,103.0,Citroen Jumper,57400,62000,46286,39,2-5 Jahre,20.001-50.000 km
+828,2023-08-01,Wohnmobil,Sunlight,T 66,Teilintegrierter,2021-01-01,21200.0,Schaltung,96.0,Fiat Ducato,47000,49900,53894,31,2-5 Jahre,20.001-50.000 km
+829,2023-08-01,Wohnmobil,Phoenix,7400 RSL,Alkoven,2016-12-01,25409.0,Automatik,125.0,IVECO Daily 50C15,119500,135000,47918,80,5-10 Jahre,20.001-50.000 km
+830,2023-08-01,Wohnmobil,Sunlight,T 69 L,Teilintegrierter,2019-02-01,30000.0,Schaltung,96.0,Fiat,51000,57000,90461,54,2-5 Jahre,20.001-50.000 km
+831,2023-08-01,Wohnmobil,Knaus,"BoxStar 630 Freeway ""60 Years Edition""",Kastenwagen,2020-12-01,7650.0,Schaltung,103.0,Fiat Ducato,56200,54800,85716,32,2-5 Jahre,0-20.000 km
+832,2023-08-01,Wohnmobil,Dethleffs,Wohnmobil *Oldtimer*,Teilintegrierter,1992-04-01,171200.0,Schaltung,55.0,Fiat,7100,9000,27753,376,Über 10 Jahre,Über 100.000 km
+833,2023-08-01,Wohnmobil,Sunlight,I69L Adventure 9G-Tronic,Integrierter,2022-01-01,13000.0,Automatik,118.0,Fiat ,76000,80500,34471,19,0-2 Jahre,0-20.000 km
+834,2023-08-01,Wohnmobil,Pössl,Road Star 600L,Kastenwagen,2020-06-01,3500.0,Schaltung,121.0,Citroen ,48000,52000,55758,38,2-5 Jahre,0-20.000 km
+835,2023-08-01,Wohnmobil,Malibu,640 LE,Kastenwagen,2017-01-01,51000.0,Schaltung,110.0,Fiat ,51900,55000,26689,79,5-10 Jahre,50.001-100.000 km
+836,2023-08-01,Wohnmobil,Pilote,P 600P Essentiell,Teilintegrierter,2020-01-01,19500.0,Schaltung,103.0,Fiat,54500,62300,40235,43,2-5 Jahre,0-20.000 km
+837,2023-08-01,Wohnmobil,Orangecamp,K6,Kastenwagen,2015-07-01,25000.0,Schaltung,96.0,Fiat Ducato,36050,44650,82487,97,5-10 Jahre,20.001-50.000 km
+838,2023-08-01,Wohnmobil,Ford,Nugget mit Aufstelldach,Bus,2019-07-01,62500.0,Schaltung,125.0,Ford,38000,46000,53797,49,2-5 Jahre,50.001-100.000 km
+839,2023-08-01,Wohnmobil,Andere,Volkner Mobil 830 HG,Integrierter,1993-12-01,156000.0,Schaltung,177.0,Mercedes 1324 LS,70000,70000,34289,356,Über 10 Jahre,Über 100.000 km
+840,2023-08-01,Wohnmobil,Knaus,Sky Wave 650 MG,Teilintegrierter,2014-10-01,38189.0,Schaltung,96.0,Fiat Ducato,37700,39900,51519,106,5-10 Jahre,20.001-50.000 km
+841,2023-08-01,Wohnmobil,Eura Mobil,Activa One 630 LS 3.85t,Alkoven,2019-06-01,47000.0,Schaltung,110.0,Fiat ,45000,45000,22083,50,2-5 Jahre,20.001-50.000 km
+842,2023-09-01,Wohnmobil,Challenger,Vany 217 Aut.,Kastenwagen,2019-06-01,63000.0,Automatik,110.0,Fiat Ducato ,45000,45000,86165,51,2-5 Jahre,50.001-100.000 km
+843,2023-09-01,Wohnmobil,Forster,A 734 VB 4.4 t,Alkoven,2019-04-01,19200.0,Schaltung,110.0,Fiat Ducato,46000,51000,51647,53,2-5 Jahre,0-20.000 km
+844,2023-09-01,Wohnwagen,Knaus,Silver Selection Sport 500FU,,2019-02-01,,,,,18000,21000,46519,55,2-5 Jahre,Über 100.000 km
+845,2023-09-01,Wohnmobil,Hymer,Swing,Alkoven,2000-09-01,177000.0,Schaltung,90.0,Fiat ,12100,14000,31785,276,Über 10 Jahre,Über 100.000 km
+846,2023-09-01,Wohnmobil,Eura Mobil,Profila T 650,Teilintegrierter,2015-03-01,45000.0,Schaltung,109.0,Fiat Ducato,38900,45600,98716,102,5-10 Jahre,20.001-50.000 km
+847,2023-09-01,Wohnmobil,LMC,Breezer V 643 / 65 Years Edition,Teilintegrierter,2021-05-01,6883.0,Schaltung,103.0,Fiat ,56000,62500,48336,28,2-5 Jahre,0-20.000 km
+848,2023-09-01,Wohnmobil,Dethleffs,Globetrotter Esprit A5880 mit DPF,Alkoven,2002-05-01,192114.0,Schaltung,94.0,Fiat ,7300,9400,28876,256,Über 10 Jahre,Über 100.000 km
+849,2023-09-01,Wohnmobil,Knaus,Van Ti 650 MEG Platinum Selection,Teilintegrierter,2020-07-01,18000.0,Schaltung,121.0,Peugeot,56000,56000,34582,38,2-5 Jahre,0-20.000 km
+850,2023-09-01,Wohnmobil,Etrusco,A 7300 DB 3.5t,Alkoven,2021-05-01,34500.0,Schaltung,103.0,Fiat,49000,55400,4924,28,2-5 Jahre,20.001-50.000 km
+851,2023-09-01,Wohnmobil,Volkswagen,Grand California 680 Aut.,Kastenwagen,2021-07-01,750.0,Automatik,130.0,Volkswagen,56950,61750,69493,26,2-5 Jahre,0-20.000 km
+852,2023-09-01,Wohnmobil,Rapido,8096 DF,Integrierter,2019-05-01,20500.0,Schaltung,110.0,Fiat,70100,82000,96179,52,2-5 Jahre,20.001-50.000 km
+853,2023-09-01,Wohnmobil,Eura Mobil,Profila RS 695 QB 4.4 t,Teilintegrierter,2017-06-01,58100.0,Schaltung,110.0,Fiat Ducato,48000,53500,51519,75,5-10 Jahre,50.001-100.000 km
+854,2023-09-01,Wohnmobil,Carado,T 337 Aut.,Teilintegrierter,2017-12-01,32000.0,Automatik,110.0,Fiat Ducato ,50000,54900,52379,69,5-10 Jahre,20.001-50.000 km
+855,2023-09-01,Wohnmobil,Weinsberg,CaraCompact Pepper 600 MEG,Teilintegrierter,2018-08-01,43000.0,Schaltung,96.0,Peugeot ,49500,52000,75175,61,5-10 Jahre,20.001-50.000 km
+856,2023-09-01,Wohnmobil,Dethleffs,Trend 7057 EB,Integrierter,2018-10-01,3400.0,Schaltung,110.0,Fiat,60700,68000,97711,59,2-5 Jahre,0-20.000 km
+857,2023-09-01,Wohnmobil,Tourne,Black Edition 6.0,Kastenwagen,2020-10-01,23000.0,Schaltung,121.0,Peugeot,59500,63000,92369,35,2-5 Jahre,20.001-50.000 km
+858,2023-09-01,Wohnmobil,Hymer,Free 540 Blue Evolution mit Aufstelldach,Kastenwagen,2021-07-01,12925.0,Schaltung,103.0,Fiat ,58000,70000,22941,26,2-5 Jahre,0-20.000 km
+859,2023-09-01,Wohnmobil,Carthago,Chic C-Line XL 5.5 LE Aut. 5.0 t,Integrierter,2017-09-01,35800.0,Automatik,130.0,Fiat,92600,92500,1589,72,5-10 Jahre,20.001-50.000 km
+860,2023-09-01,Wohnmobil,VANTourer,600 L 9G-Tronic,Kastenwagen,2020-08-01,25000.0,Automatik,130.0,Fiat Ducato,52000,52000,64331,37,2-5 Jahre,20.001-50.000 km
+861,2023-09-01,Wohnmobil,Weinsberg,CaraBus Edition Fire,Kastenwagen,2018-04-01,36000.0,Schaltung,96.0,Ducato ,42600,42600,42369,65,5-10 Jahre,20.001-50.000 km
+862,2023-09-01,Wohnmobil,Bürstner,"Nexxo Time T 690 G ""Edition 30"" Aut.",Teilintegrierter,2017-06-01,35748.0,Automatik,110.0,FIAT,49500,52000,15741,75,5-10 Jahre,20.001-50.000 km
+863,2023-09-01,Wohnmobil,Knaus,Sunliner mit DPF,Integrierter,2004-10-01,117000.0,Schaltung,94.0,Fiat,22400,25000,59929,227,Über 10 Jahre,Über 100.000 km
+864,2023-09-01,Wohnmobil,Hymer,Camp 51,Alkoven,1991-07-01,99950.0,Schaltung,54.0,Citroen C 25,6600,5000,1844,386,Über 10 Jahre,50.001-100.000 km
+865,2023-09-01,Wohnmobil,Eura Mobil,Activa One 630 LS Aut. 3.5t,Alkoven,2019-05-01,26500.0,Automatik,110.0,Fiat,43050,46050,76863,52,2-5 Jahre,20.001-50.000 km
+866,2023-09-01,Wohnwagen,Hymer,Touring Familia 310 60 Jahre,,2018-09-01,,,,,17900,19500,88214,60,2-5 Jahre,Über 100.000 km
+867,2023-09-01,Wohnmobil,Sunlight,T69 S 9G-Tronic,Teilintegrierter,2021-01-01,16300.0,Automatik,103.0,Fiat,57900,59500,23812,32,2-5 Jahre,0-20.000 km
+868,2023-09-01,Wohnmobil,Weinsberg,Carabus 600 MQH,Kastenwagen,2020-05-01,41000.0,Schaltung,103.0,Fiat,52000,54000,64297,40,2-5 Jahre,20.001-50.000 km
+869,2023-09-01,Wohnmobil,Knaus,Van TI 550 / 9G-Tronic,Teilintegrierter,2021-07-01,23900.0,Automatik,103.0,Fiat Ducato ,58799,62999,8315,26,2-5 Jahre,20.001-50.000 km
+870,2023-09-01,Wohnmobil,Ford,Alkoven 2.81t,Alkoven,1998-05-01,165000.0,Schaltung,56.0,Ford,5050,6950,87733,304,Über 10 Jahre,Über 100.000 km
+871,2023-09-01,Wohnmobil,Knaus,Sky Traveller 500 D,Alkoven,2014-05-01,86500.0,Schaltung,96.0,Fiat Ducato,30500,34000,79183,112,5-10 Jahre,50.001-100.000 km
+872,2023-09-01,Wohnmobil,Adria,TWIN 540 SPT,Kastenwagen,2015-04-01,27800.0,Schaltung,109.0,Fiat,38500,43000,26419,101,5-10 Jahre,20.001-50.000 km
+873,2023-09-01,Wohnmobil,Ahorn,Canada AD,Alkoven,2021-10-01,8800.0,Schaltung,107.0,Renault Master,49500,53700,56370,23,0-2 Jahre,0-20.000 km
+874,2023-09-01,Wohnmobil,TEC,Rotec I 640,Integrierter,2014-04-01,64052.0,Schaltung,96.0,Fiat,39100,41000,24220,113,5-10 Jahre,50.001-100.000 km
+875,2023-09-01,Wohnwagen,Fendt,Joker,,1992-04-01,,,,,200,1000,98527,377,Über 10 Jahre,Über 100.000 km
+876,2023-09-01,Wohnmobil,Challenger,260 Graphite Aut. 4.0 t,Teilintegrierter,2021-07-01,7200.0,Automatik,125.0,Ford,57100,62000,76698,26,2-5 Jahre,0-20.000 km
+877,2023-09-01,Wohnmobil,Sunlight,Adventure Cliff 600 / 9G-Tronic *NEU*,Kastenwagen,2023-09-01,1.0,Automatik,103.0,Fiat ,58000,62500,26121,0,0-2 Jahre,0-20.000 km
+878,2023-09-01,Wohnmobil,LMC,Liberty,Teilintegrierter,2011-08-01,51000.0,Schaltung,96.0,Fiat ,33800,36000,83646,145,Über 10 Jahre,50.001-100.000 km
+879,2023-09-01,Wohnmobil,Rimor,Europeo NG 88 mit DPF,Alkoven,2006-03-01,65335.0,Schaltung,100.0,Ford,19800,22500,35091,210,Über 10 Jahre,50.001-100.000 km
+880,2023-09-01,Wohnmobil,Bavaria-Camp,Marino,Kastenwagen,2011-02-01,97225.0,Schaltung,88.0,Citroen Jumper,29500,31000,26441,151,Über 10 Jahre,50.001-100.000 km
+881,2023-09-01,Wohnmobil,Dethleffs,Globetrotter A 5830,Alkoven,1996-05-01,168706.0,Schaltung,85.0,Fiat,7300,9500,76437,328,Über 10 Jahre,Über 100.000 km
+882,2023-09-01,Wohnmobil,Bürstner,Argos Time A 660,Alkoven,2015-07-01,69624.0,Schaltung,109.0,Fiat Ducato,35900,39900,16562,98,5-10 Jahre,50.001-100.000 km
+883,2023-09-01,Wohnmobil,TEC,Rotec 540,Alkoven,2000-05-01,76299.0,Schaltung,90.0,Fiat,12000,14400,54552,280,Über 10 Jahre,50.001-100.000 km
+884,2023-09-01,Wohnmobil,Westfalia,Jules Verne,Kastenwagen,2017-05-01,103782.0,Schaltung,100.0,Mercedes Vito,41700,50000,28279,76,5-10 Jahre,Über 100.000 km
+885,2023-09-01,Wohnmobil,Roller Team,Auto Roller 265 TL,Teilintegrierter,2018-07-01,23000.0,Schaltung,125.0,Ford,44000,49000,51491,62,5-10 Jahre,20.001-50.000 km
+886,2023-09-01,Wohnmobil,Volkswagen,Grand California 600 Aut.,Bus,2020-02-01,17748.0,Automatik,130.0,Volkswagen,52500,55000,17139,43,2-5 Jahre,0-20.000 km
+887,2023-09-01,Wohnmobil,Knaus,Sky Wave 700 MEG Celebration 25 years,Teilintegrierter,2014-01-01,44400.0,Schaltung,109.0,Fiat,44200,51500,85283,116,5-10 Jahre,20.001-50.000 km
+888,2023-09-01,Wohnmobil,Dethleffs,A 5881 HG,Alkoven,2003-05-01,196000.0,Schaltung,81.0,Fiat Ducato,13500,13500,23560,244,Über 10 Jahre,Über 100.000 km
+889,2023-09-01,Wohnmobil,Weinsberg,X-Cursion 500 MQ Pepper Aut.,Teilintegrierter,2023-02-01,12000.0,Automatik,110.0,VW T6.1,58050,60950,31737,7,0-2 Jahre,0-20.000 km
+890,2023-09-01,Wohnwagen,Hymer,Troll 550 Touring ,,2003-08-01,,,,,11100,11000,49844,241,Über 10 Jahre,Über 100.000 km
+891,2023-09-01,Wohnmobil,Clever,Celebration 3.85t,Kastenwagen,2019-02-01,41700.0,Schaltung,96.0,Citroen,41900,49500,30559,55,2-5 Jahre,20.001-50.000 km
+892,2023-09-01,Wohnmobil,Hymer,C 534,Alkoven,2009-03-01,97000.0,Schaltung,96.0,Fiat,25200,27000,67707,174,Über 10 Jahre,50.001-100.000 km
+893,2023-09-01,Wohnmobil,Globecar,Campscout 640,Kastenwagen,2019-07-01,35000.0,Schaltung,110.0,Fiat,47100,50000,27580,50,2-5 Jahre,20.001-50.000 km
+894,2023-09-01,Wohnmobil,Frankia,I 740 mit DPF,Integrierter,2006-04-01,101000.0,Schaltung,107.0,Fiat ,30150,32850,14715,209,Über 10 Jahre,Über 100.000 km
+895,2023-09-01,Wohnmobil,GiottiLine,Therry T33 ,Teilintegrierter,2008-11-01,164633.0,Schaltung,96.0,Fiat ,26000,26000,25992,178,Über 10 Jahre,Über 100.000 km
+896,2023-09-01,Wohnmobil,Eura Mobil,Profila T 695 EB,Teilintegrierter,2020-07-01,25600.0,Schaltung,103.0,Fiat Ducato,56950,61750,90556,38,2-5 Jahre,20.001-50.000 km
+897,2023-09-01,Wohnmobil,Ahorn,Kentucky K-Line,Alkoven,2016-02-01,65000.0,Schaltung,92.0,Renault ,32900,37800,8062,91,5-10 Jahre,50.001-100.000 km
+898,2023-09-01,Wohnmobil,Ahorn,Camp T 690 Plus,Teilintegrierter,2019-05-01,32000.0,Schaltung,96.0,Renault ,40000,47000,89269,52,2-5 Jahre,20.001-50.000 km
+899,2023-09-01,Wohnmobil,Chausson,V594S,Kastenwagen,2022-04-01,17500.0,Schaltung,103.0,Fiat,44600,47000,66125,17,0-2 Jahre,0-20.000 km
+900,2023-09-01,Wohnmobil,Dethleffs,Advantage T 6401 Ti,Teilintegrierter,2006-12-01,99560.0,Schaltung,96.0,Fiat Ducato,26500,28900,68766,201,Über 10 Jahre,50.001-100.000 km
+901,2023-09-01,Wohnmobil,Adria,Matrix 670 SL 4.0 t,Teilintegrierter,2019-05-01,62300.0,Schaltung,120.0,Citroen,52500,56000,47574,52,2-5 Jahre,50.001-100.000 km
+902,2023-09-01,Wohnmobil,Dethleffs,T 6700 Esprit,Teilintegrierter,2012-04-01,57000.0,Schaltung,96.0,Fiat Ducato,38200,30000,69226,137,Über 10 Jahre,50.001-100.000 km
+903,2023-09-01,Wohnmobil,Mercedes-Benz,Marco Polo V250d lang 7G-TRONIC PLUS mit Küche,Bus,2017-12-01,51000.0,Automatik,140.0,,47000,55000,44267,69,5-10 Jahre,50.001-100.000 km
+904,2023-09-01,Wohnmobil,Roller Team,Zefiro 284 Integral 4.4 t,Integrierter,2018-06-01,59090.0,Schaltung,110.0,Fiat Ducato ,60000,68500,59514,63,5-10 Jahre,50.001-100.000 km
+905,2023-09-01,Wohnmobil,Sun Living,S70 DF,Teilintegrierter,2018-12-01,15000.0,Schaltung,110.0,Fiat Ducato ,44750,46050,3172,57,2-5 Jahre,0-20.000 km
+906,2023-09-01,Wohnwagen,LMC,Sassino 390 K,,2023-06-01,,,,,11550,14950,25451,3,0-2 Jahre,Über 100.000 km
+907,2023-09-01,Wohnmobil,Sunlight,T 66 / 9G-Tronic,Teilintegrierter,2022-07-01,8900.0,Automatik,103.0,Fiat Ducato,62500,65000,7381,14,0-2 Jahre,0-20.000 km
+908,2023-09-01,Wohnmobil,Carthago,Liner for two 9G-Tronic 4.8t,Integrierter,2021-12-01,3700.0,Automatik,130.0,Fiat,146000,162000,37133,21,0-2 Jahre,0-20.000 km
+909,2023-09-01,Wohnmobil,Carthago,S Plus I 51 Aut. 5.2 t,Integrierter,2009-08-01,82200.0,Automatik,130.0,Iveco Daily Chassis 50C18,50550,52650,91625,169,Über 10 Jahre,50.001-100.000 km
+910,2023-09-01,Wohnmobil,Knaus,Sky Traveller 650 DG,Alkoven,2015-07-01,69200.0,Schaltung,96.0,Fiat Ducato,38500,42500,22047,98,5-10 Jahre,50.001-100.000 km
+911,2023-09-01,Wohnmobil,Malibu,Van 640 Comfort 9G-Tronic,Kastenwagen,2022-03-01,17000.0,Automatik,118.0,Fiat,66600,75000,76646,18,0-2 Jahre,0-20.000 km
+912,2023-09-01,Wohnmobil,Karmann,Dexter Go ,Kastenwagen,2017-08-01,23033.0,Schaltung,96.0,Fiat ,41300,42000,55595,73,5-10 Jahre,20.001-50.000 km
+913,2023-09-01,Wohnmobil,Knaus,Van TI Plus 650 MEG Platinum 4x4 Aut. 4.0t,Teilintegrierter,2021-05-01,30000.0,Automatik,130.0,MAN,71200,74600,25335,28,2-5 Jahre,20.001-50.000 km
+914,2023-09-01,Wohnmobil,Carado,A 361,Alkoven,2020-08-01,17250.0,Schaltung,103.0,Fiat ,43050,50250,77833,37,2-5 Jahre,0-20.000 km
+915,2023-09-01,Wohnmobil,Eura Mobil,Activa One 690 HB,Alkoven,2017-03-01,85600.0,Schaltung,110.0,Fiat,43900,48500,81929,78,5-10 Jahre,50.001-100.000 km
+916,2023-09-01,Wohnmobil,Carthago,C-Tourer T 142,Teilintegrierter,2017-07-01,74612.0,Schaltung,110.0,Fiat ,53100,56800,72793,74,5-10 Jahre,50.001-100.000 km
+917,2023-09-01,Wohnmobil,Niesmann + Bischoff,Arto 76L,Integrierter,2018-06-01,29000.0,Automatik,130.0,Ducato,104500,104500,78224,63,5-10 Jahre,20.001-50.000 km
+918,2023-09-01,Wohnmobil,Bürstner,RM A 747-2 mit DPF,Alkoven,2001-09-01,193000.0,Schaltung,94.0,Fiat Ducato,17000,10000,78224,264,Über 10 Jahre,Über 100.000 km
+919,2023-09-01,Wohnmobil,Pössl,2 Win Revolution,Kastenwagen,2013-04-01,118000.0,Schaltung,110.0,Citroen Jumper,31500,30000,82110,125,Über 10 Jahre,Über 100.000 km
+920,2023-09-01,Wohnmobil,Chausson,720 Titanium Premium Aut.,Teilintegrierter,2021-01-01,11000.0,Automatik,125.0,Ford Transit,63500,66500,51519,32,2-5 Jahre,0-20.000 km
+921,2023-09-01,Wohnmobil,Weinsberg,Cara Compact Pepper,Teilintegrierter,2020-09-01,35000.0,Schaltung,118.0,Fiat Ducato 2.3,51200,55000,50389,36,2-5 Jahre,20.001-50.000 km
+922,2023-09-01,Wohnmobil,Carado,T 334,Teilintegrierter,2020-02-01,21000.0,Schaltung,103.0,Fiat,45000,45000,86836,43,2-5 Jahre,20.001-50.000 km
+923,2023-09-01,Wohnmobil,Adria,Twin 640 SLB Supreme,Kastenwagen,2020-11-01,29000.0,Schaltung,118.0,Fiat ,55500,58000,50935,34,2-5 Jahre,20.001-50.000 km
+924,2023-09-01,Wohnmobil,Sun Living,S 75 SL X-tra 3.85 t,Teilintegrierter,2021-09-01,12000.0,Schaltung,121.0,Citroen,57000,62000,86853,24,0-2 Jahre,0-20.000 km
+925,2023-09-01,Wohnmobil,Hymer,B 574 mit DPF,Integrierter,2002-02-01,85300.0,Schaltung,94.0,Fiat Ducato 18 JTW,15000,17100,45239,259,Über 10 Jahre,50.001-100.000 km
+926,2023-09-01,Wohnmobil,Challenger,380 Aut. 4.0t,Teilintegrierter,2022-02-01,12899.0,Automatik,125.0,Ford,64000,67000,21698,19,0-2 Jahre,0-20.000 km
+927,2023-09-01,Wohnmobil,Dethleffs,Trend 90 T 7057,Teilintegrierter,2022-04-01,50000.0,Schaltung,121.0,Citroën ,52200,61600,52457,17,0-2 Jahre,20.001-50.000 km
+928,2023-09-01,Wohnmobil,Clever,Celebration 600 + Kit Evo Umbau,Kastenwagen,2022-03-01,15.0,Schaltung,103.0,Peugeot ,54000,58900,38889,18,0-2 Jahre,0-20.000 km
+929,2023-09-01,Wohnmobil,Adria,Twin Axess 600 SPT Family ,Kastenwagen,2019-01-01,15000.0,Schaltung,120.0,Citroen,44700,46000,89423,56,2-5 Jahre,0-20.000 km
+930,2023-09-01,Wohnmobil,Adria,Twin Supreme 640 SLB,Kastenwagen,2021-03-01,23923.0,Schaltung,118.0,Fiat,57700,60000,32756,30,2-5 Jahre,20.001-50.000 km
+931,2023-09-01,Wohnmobil,Bürstner,Grand Panorama 920 Aut. 5.0 t,Integrierter,2013-04-01,66000.0,Automatik,130.0,Fiat Ducato,69500,72000,77866,125,Über 10 Jahre,50.001-100.000 km
+932,2023-09-01,Wohnmobil,Knaus,Sky Ti 700 MEG,Teilintegrierter,2015-05-01,50160.0,Schaltung,96.0,Fiat Ducato,47000,54000,84427,100,5-10 Jahre,50.001-100.000 km
+933,2023-09-01,Wohnmobil,Carthago,Chic S Plus I 51 LE,Integrierter,2010-09-01,115000.0,Automatik,140.0,Mercedes ,52000,65900,85570,156,Über 10 Jahre,Über 100.000 km
+934,2023-09-01,Wohnmobil,Weinsberg,Carabus 630 Edition Fire Aut.,Kastenwagen,2018-07-01,38478.0,Automatik,110.0,Fiat Ducato ,47500,48000,41065,62,5-10 Jahre,20.001-50.000 km
+935,2023-09-01,Wohnmobil,Niesmann + Bischoff,Arto 77 E ,Integrierter,2019-03-01,41000.0,Automatik,130.0,Fiat,120100,117200,23881,54,2-5 Jahre,20.001-50.000 km
+936,2023-09-01,Wohnmobil,Hymer,Duomobil B SL 634 / 4.8t,Integrierter,2016-02-01,56000.0,Schaltung,130.0,Fiat ,78050,89250,42699,91,5-10 Jahre,50.001-100.000 km
+937,2023-09-01,Wohnmobil,Dethleffs,Just 90 T 7052 EB,Teilintegrierter,2021-09-01,23700.0,Schaltung,121.0,Citroen jumper ,55090,60990,58256,24,0-2 Jahre,20.001-50.000 km
+938,2023-09-01,Wohnmobil,Carthago,C-Tourer I 142,Integrierter,2014-03-01,70000.0,Schaltung,109.0,Fiat Ducato,49900,58800,24537,114,5-10 Jahre,50.001-100.000 km
+939,2023-09-01,Wohnmobil,Hymer,MLT 580 Aut.,Teilintegrierter,2014-06-01,57000.0,Automatik,120.0,,52500,60300,75233,111,5-10 Jahre,50.001-100.000 km
+940,2023-09-01,Wohnmobil,Carado,T 447 ,Teilintegrierter,2014-04-01,41218.0,Schaltung,96.0,Ducato,39500,39500,86874,113,5-10 Jahre,20.001-50.000 km
+941,2023-09-01,Wohnmobil,Carado,T 338 Clever+ Edition,Teilintegrierter,2020-11-01,5700.0,Schaltung,103.0,Fiat Ducato,55500,55500,66578,34,2-5 Jahre,0-20.000 km
+942,2023-09-01,Wohnmobil,Bürstner,Lyseo Time A 660,Alkoven,2020-07-01,20900.0,Schaltung,103.0,Fiat,44000,47000,54343,38,2-5 Jahre,20.001-50.000 km
+943,2023-09-01,Wohnmobil,Karmann,Davis Jump 540,Kastenwagen,2015-09-01,77200.0,Schaltung,85.0,Fiat Ducato,36200,29500,31582,96,5-10 Jahre,50.001-100.000 km
+944,2023-09-01,Wohnmobil,Mooveo,TEI 74 EBH All-In-One Sondered.,Teilintegrierter,2021-01-01,14000.0,Schaltung,103.0,Fiat,55500,61200,6686,32,2-5 Jahre,0-20.000 km
+945,2023-09-01,Wohnmobil,Volkswagen,T5 California Comfortline,Bus,2014-01-01,209000.0,Automatik,103.0,Volkswagen,30000,30000,15518,116,5-10 Jahre,Über 100.000 km
+946,2023-09-01,Wohnmobil,Roadcar,R 540,Kastenwagen,2022-06-01,9000.0,Schaltung,121.0,Citroen,45000,45000,66780,15,0-2 Jahre,0-20.000 km
+947,2023-10-01,Wohnmobil,Bürstner,Lyseo TD HL 644 G / 3.65t,Teilintegrierter,2020-11-01,21000.0,Schaltung,103.0,Fiat,59300,62300,,35,2-5 Jahre,20.001-50.000 km
+948,2023-10-01,Wohnmobil,Pilote,P 726 FGJ 9G-Tronic 3.5t,Teilintegrierter,2022-05-01,11000.0,Automatik,118.0,Fiat ,62500,71800,,17,0-2 Jahre,0-20.000 km
+949,2023-10-01,Wohnmobil,Glücksmobil,T67,Teilintegrierter,2012-01-01,103000.0,Schaltung,96.0,Ducato,35000,40000,,141,Über 10 Jahre,Über 100.000 km
+950,2023-10-01,Wohnmobil,LMC,Cruiser T 662 G / 3.85 t,Teilintegrierter,2015-07-01,52000.0,Schaltung,109.0,Fiat,44800,38000,,99,5-10 Jahre,50.001-100.000 km
+951,2023-10-01,Wohnmobil,Chausson,Titanium 627 GA Aut.,Teilintegrierter,2019-07-01,30000.0,Automatik,125.0,Ford,46800,49000,,51,2-5 Jahre,20.001-50.000 km
+952,2023-10-01,Wohnmobil,Frankia,F-Line I 790 QD Aut.,Integrierter,2019-04-01,40000.0,Automatik,130.0,Fiat ,100000,125000,,54,2-5 Jahre,20.001-50.000 km
+953,2023-10-01,Wohnmobil,Pössl,2 Win Plus,Kastenwagen,2021-06-01,14703.0,Schaltung,121.0,Citroen ,48300,57000,,28,2-5 Jahre,0-20.000 km
+954,2023-10-01,Wohnmobil,Pössl,Roadstar 600 L,Kastenwagen,2017-03-01,78000.0,Schaltung,110.0,Citroen,40200,39500,,79,5-10 Jahre,50.001-100.000 km
+955,2023-10-01,Wohnmobil,Adria,Sloop 1 mit DPF,Kastenwagen,2005-04-01,142256.0,Schaltung,107.0,Fiat Ducato,15000,20000,,222,Über 10 Jahre,Über 100.000 km
+956,2023-10-01,Wohnmobil,Hymer,Swing,Alkoven,2000-09-01,177000.0,Schaltung,90.0,Fiat ,8500,12000,,277,Über 10 Jahre,Über 100.000 km
+957,2023-10-01,Wohnmobil,Adria,Matrix 670 SP 3.85t,Teilintegrierter,2017-01-01,31000.0,Schaltung,120.0,Citroen ,50300,55000,,81,5-10 Jahre,20.001-50.000 km
+958,2023-10-01,Wohnmobil,Knaus,VAN i 580 MK,Integrierter,2016-09-01,20000.0,Schaltung,96.0,Fiat ,44700,49500,,85,5-10 Jahre,0-20.000 km
+959,2023-10-01,Wohnmobil,Hymer,B 544 Classic mit DPF,Integrierter,2003-04-01,174000.0,Schaltung,81.0,Fiat,18050,21850,,246,Über 10 Jahre,Über 100.000 km
+960,2023-10-01,Wohnmobil,Globecar,Roadscout 540,Kastenwagen,2012-02-01,43300.0,Schaltung,96.0,"Citroën Jumper HDI 2,2",31000,38000,,140,Über 10 Jahre,20.001-50.000 km
+961,2023-10-01,Wohnmobil,Bürstner,City Car C 600,Kastenwagen,2020-10-01,18500.0,Schaltung,110.0,Fiat ,48190,54990,,36,2-5 Jahre,0-20.000 km
+962,2023-10-01,Wohnmobil,Knaus,BoxStar Lifetime XL 9G-Tronic,Kastenwagen,2022-08-01,2900.0,Automatik,118.0,Fiat,69500,74000,,14,0-2 Jahre,0-20.000 km
+963,2023-10-01,Wohnmobil,GiottiLine,T60,Kastenwagen,2022-07-01,11000.0,Schaltung,121.0,Citroen,47900,47900,,15,0-2 Jahre,0-20.000 km
+964,2023-10-01,Wohnmobil,Carthago,Chic C-Line XL 5.8 Q,Integrierter,2016-04-01,46000.0,Automatik,130.0,Fiat,79000,79000,,90,5-10 Jahre,20.001-50.000 km
+965,2023-10-01,Wohnmobil,Ahorn,Van 550,Kastenwagen,2020-11-01,11100.0,Schaltung,100.0,Renault Master,40600,43700,,35,2-5 Jahre,0-20.000 km
+966,2023-10-01,Wohnmobil,Bürstner,Solano T 700,Teilintegrierter,2007-05-01,77000.0,Schaltung,94.0,Ducato 244,22000,22000,,197,Über 10 Jahre,50.001-100.000 km
+967,2023-10-01,Wohnmobil,VANTourer,VT 600,Kastenwagen,2015-01-01,104500.0,Schaltung,109.0,Fiat,33300,36000,,105,5-10 Jahre,Über 100.000 km
+968,2023-10-01,Wohnmobil,Volkswagen,Grand California 680 4Motion,Kastenwagen,2021-08-01,15000.0,Automatik,130.0,,61000,65000,,26,2-5 Jahre,0-20.000 km
+969,2023-10-01,Wohnmobil,Clever,Celebration 600,Kastenwagen,2019-06-01,39000.0,Schaltung,120.0,Citroen Jumper,41000,42500,,52,2-5 Jahre,20.001-50.000 km
+970,2023-10-01,Wohnmobil,LMC,Liberty 645 GA mit DPF,Alkoven,2003-01-01,109000.0,Schaltung,94.0,Ducato 244,15300,18500,,249,Über 10 Jahre,Über 100.000 km
+971,2023-10-01,Wohnmobil,Phoenix,Top Liner 9000 BMLX,Integrierter,2021-08-01,27000.0,Automatik,155.0,Iveco,205000,228000,,26,2-5 Jahre,20.001-50.000 km
+972,2023-10-01,Wohnmobil,Hymer,Grand Canyon S CrossOver 4x4,Kastenwagen,2022-06-01,18000.0,Automatik,140.0,MB Sprinter 907,95000,100800,,16,0-2 Jahre,0-20.000 km
+973,2023-10-01,Wohnmobil,Malibu,640 GT Charming Family-for-4 / 9G-Tronic,Kastenwagen,2021-08-01,29900.0,Automatik,118.0,Fiat,70000,75000,,26,2-5 Jahre,20.001-50.000 km
+974,2023-10-01,Wohnmobil,Chausson,V697 Elegance,Kastenwagen,2019-06-01,10050.0,Schaltung,96.0,Fiat,44600,45900,,52,2-5 Jahre,0-20.000 km
+975,2023-10-01,Wohnmobil,Dethleffs,Advantage Elegance Globetrotter mit DPF,Alkoven,2005-06-01,67000.0,Schaltung,94.0,Fiat,20000,20000,,220,Über 10 Jahre,50.001-100.000 km
+976,2023-10-01,Wohnwagen,Tabbert,Da Vinci 450 TD,Wohnwagen,2013-05-01,,,,,11990,14990,,125,Über 10 Jahre,Über 100.000 km
+977,2023-10-01,Wohnmobil,Ahorn,Camp 690 T Plus,Teilintegrierter,2019-07-01,27400.0,Schaltung,96.0,Renault,40500,44000,,51,2-5 Jahre,20.001-50.000 km
+978,2023-10-01,Wohnmobil,Frankia,BD I 680,Integrierter,2014-12-01,92000.0,Schaltung,130.0,Fiat,48950,56050,,106,5-10 Jahre,50.001-100.000 km
+979,2023-10-01,Wohnmobil,Bürstner,Nexxo 25 T 728 Sondered.,Teilintegrierter,2012-03-01,151645.0,Schaltung,96.0,Fiat,33600,43800,,139,Über 10 Jahre,Über 100.000 km
+980,2023-10-01,Wohnmobil,Bürstner,Lyseo TD 727 G Harmony Line 4.0 t,Teilintegrierter,2021-04-01,13205.0,Schaltung,103.0,Fiat Ducato,61000,65000,,30,2-5 Jahre,0-20.000 km
+981,2023-10-01,Wohnmobil,NobelART,A 620,Alkoven,2009-10-01,110000.0,Schaltung,81.0,Ford,18000,19000,,168,Über 10 Jahre,Über 100.000 km
+982,2023-10-01,Wohnwagen,Hobby,Beachy 420,Wohnwagen,2022-12-01,,,,,10500,11300,,10,0-2 Jahre,Über 100.000 km
+983,2023-10-01,Wohnmobil,Knaus,Van TI 550 Vansation Aut.,Teilintegrierter,2015-07-01,99031.0,Automatik,109.0,Fiat Ducato,40800,42900,,99,5-10 Jahre,50.001-100.000 km
+984,2023-10-01,Wohnmobil,Bürstner,A572,Alkoven,1996-04-01,161000.0,Schaltung,80.0,Fiat Ducato,11000,14000,,330,Über 10 Jahre,Über 100.000 km
+985,2023-10-01,Wohnmobil,Volkswagen,Grand California,Kastenwagen,2021-01-01,28700.0,Automatik,130.0,,50000,56500,,33,2-5 Jahre,20.001-50.000 km
+986,2023-10-01,Wohnmobil,Sun Living,V 65 SL Aut.,Kastenwagen,2019-01-01,6100.0,Automatik,110.0,Fiat,45000,45000,,57,2-5 Jahre,0-20.000 km
+987,2023-10-01,Wohnmobil,Sunlight,T 63,Teilintegrierter,2014-08-01,17300.0,Schaltung,96.0,Fiat,37500,40500,,110,5-10 Jahre,0-20.000 km
+988,2023-10-01,Wohnwagen,Hobby,Excellent 560 CFe,Wohnwagen,2013-05-01,,,,,13800,16000,,125,Über 10 Jahre,Über 100.000 km
+989,2023-10-01,Wohnmobil,Dethleffs,Trend I 7017,Integrierter,2017-07-01,36000.0,Schaltung,110.0,Fiat,50500,57000,,75,5-10 Jahre,20.001-50.000 km
+990,2023-10-01,Wohnmobil,Hymer,Ayers Rock ,Kastenwagen,2019-09-01,42000.0,Schaltung,118.0,Fiat,44500,49500,,49,2-5 Jahre,20.001-50.000 km
+991,2023-10-01,Wohnmobil,Knaus,VAN TI 650 MEG Vansation,Teilintegrierter,2021-06-01,33000.0,Schaltung,103.0,Fiat ,54000,58500,,28,2-5 Jahre,20.001-50.000 km
+992,2023-10-01,Wohnmobil,Niesmann + Bischoff,Arto 64 L,Integrierter,2011-03-01,55000.0,Schaltung,116.0,Fiat,47600,55000,,151,Über 10 Jahre,50.001-100.000 km
+993,2023-10-01,Wohnmobil,Carado,T 348,Teilintegrierter,2016-04-01,71600.0,Schaltung,96.0,Fiat Ducato,40700,45000,,90,5-10 Jahre,50.001-100.000 km
+994,2023-10-01,Wohnmobil,Adria,Twin 640 SL Axess ,Kastenwagen,2022-07-01,3950.0,Schaltung,121.0,Citroën ,52500,57500,,15,0-2 Jahre,0-20.000 km
+995,2023-10-01,Wohnmobil,Bürstner,Lyseo M Harmony Line 7G-Tronic 3.88 t,Teilintegrierter,2020-02-01,38800.0,Automatik,120.0,Mercedes,66500,73000,,44,2-5 Jahre,20.001-50.000 km
+996,2023-10-01,Wohnmobil,Hobby,Optima T65 FL,Teilintegrierter,2015-03-01,61500.0,Schaltung,109.0,Fiat,45500,52000,,103,5-10 Jahre,50.001-100.000 km
+997,2023-10-01,Wohnmobil,Carado,T 448,Teilintegrierter,2021-07-01,5500.0,Schaltung,103.0,Fiat Ducato,57600,57500,,27,2-5 Jahre,0-20.000 km
+998,2023-10-01,Wohnwagen,Hobby,495 WFB,Wohnwagen,2023-04-01,,,,,24600,24500,,6,0-2 Jahre,Über 100.000 km
+999,2023-10-01,Wohnmobil,Weinsberg,Caracompact 600 MEG Pepper,Teilintegrierter,2019-07-01,51500.0,Schaltung,120.0,Peugeot  ,40500,41500,,51,2-5 Jahre,50.001-100.000 km
+1000,2023-10-01,Wohnmobil,Westfalia,Columbus,Kastenwagen,2012-06-01,21000.0,Schaltung,96.0,Fiat,33100,23000,,136,Über 10 Jahre,20.001-50.000 km
+1001,2023-10-01,Wohnmobil,Niesmann + Bischoff,Arto 77 E 9G-Tronic 4.8t,Integrierter,2023-03-01,2851.0,Automatik,132.0,Fiat Ducato,154000,174800,,7,0-2 Jahre,0-20.000 km
+1002,2023-10-01,Wohnmobil,Westfalia,Nugget Plus Hochdach,Bus,2018-07-01,62000.0,Schaltung,96.0,Ford Transit Custom,35500,41000,,63,5-10 Jahre,50.001-100.000 km
+1003,2023-10-01,Wohnmobil,Knaus,Boxstar Freeway 630 / 9G-Tronic,Kastenwagen,2021-06-01,21500.0,Automatik,118.0,Fiat Ducato,61000,67000,,28,2-5 Jahre,20.001-50.000 km
+1004,2023-10-01,Wohnmobil,Hymer,B524,Integrierter,2004-09-01,50200.0,Schaltung,,Fiat,23000,28500,,229,Über 10 Jahre,50.001-100.000 km
+1005,2023-10-01,Wohnmobil,Challenger,Genesis 194,Teilintegrierter,2019-03-01,35300.0,Automatik,125.0,Ford Transit,45050,50350,,55,2-5 Jahre,20.001-50.000 km
+1006,2023-10-01,Wohnmobil,Carado,CV 640 Clever+ Ed. 9G-Tronic,Kastenwagen,2021-12-01,16300.0,Automatik,130.0,Fiat,58000,58000,,22,0-2 Jahre,0-20.000 km
+1007,2023-10-01,Wohnmobil,Weinsberg,Cara Loft 700 MEH,Teilintegrierter,2016-08-01,37000.0,Schaltung,96.0,Fiat,43900,46000,,86,5-10 Jahre,20.001-50.000 km
+1008,2023-10-01,Wohnmobil,Niesmann + Bischoff,Flair 4.3t,Integrierter,2000-04-01,175000.0,Schaltung,90.0,Fiat ,15650,17450,,282,Über 10 Jahre,Über 100.000 km
+1009,2023-10-01,Wohnmobil,Bürstner,Lyseo T 744,Teilintegrierter,2017-04-01,47511.0,Schaltung,110.0,Fiat,47800,49400,,78,5-10 Jahre,20.001-50.000 km
+1010,2023-10-01,Wohnmobil,Sunlight,I 69 L Active,Integrierter,2019-09-01,30000.0,Schaltung,103.0,Fiat,59000,65000,,49,2-5 Jahre,20.001-50.000 km
+1011,2023-10-01,Wohnmobil,Knaus,Sky Ti 650 MEG,Teilintegrierter,2015-04-01,118600.0,Schaltung,109.0,Fiat Ducato,39500,45000,,102,5-10 Jahre,Über 100.000 km
+1012,2023-10-01,Wohnmobil,Karmann,Davis 620,Kastenwagen,2019-05-01,30580.0,Schaltung,110.0,Fiat,47900,48000,,53,2-5 Jahre,20.001-50.000 km
+1013,2023-10-01,Wohnmobil,Mooveo,TEI 70,Teilintegrierter,2021-08-01,8000.0,Schaltung,103.0,Citroen,58000,60500,,26,2-5 Jahre,0-20.000 km
+1014,2023-10-01,Wohnmobil,Mobilvetta,Kea P 86 / 9G-Tronic 4.4 t,Teilintegrierter,2020-12-01,34000.0,Automatik,118.0,Fiat,75000,78500,,34,2-5 Jahre,20.001-50.000 km
+1015,2023-10-01,Wohnmobil,Roller Team,Kronos 294 TL,Teilintegrierter,2021-04-01,52000.0,Schaltung,125.0,Ford,47300,48000,,30,2-5 Jahre,50.001-100.000 km
+1016,2023-10-01,Wohnmobil,Knaus,Tourer Van 500LT Vansation Aut.,Teilintegrierter,2023-06-01,6500.0,Automatik,110.0,Volkswagen,58500,64900,,4,0-2 Jahre,0-20.000 km
+1017,2023-10-01,Wohnmobil,Hobby,Optima Deluxe T65 HFL Aut.,Teilintegrierter,2018-07-01,20157.0,Automatik,110.0,Fiat ,49000,55000,,63,5-10 Jahre,20.001-50.000 km
+1018,2023-10-01,Wohnmobil,LMC,Liberty Cruiser II 643 G Aut.,Teilintegrierter,2013-06-01,60105.0,Automatik,96.0,Fiat ,38000,38000,,124,Über 10 Jahre,50.001-100.000 km
+1019,2023-10-01,Wohnwagen,Hobby,De Luxe 515 UHL,Wohnwagen,2020-12-01,,,,,21700,24700,,34,2-5 Jahre,Über 100.000 km
+1020,2023-10-01,Wohnmobil,Etrusco,T 7300 SB / 3.85t,Teilintegrierter,2019-05-01,27950.0,Schaltung,96.0,Fiat,48900,54900,,53,2-5 Jahre,20.001-50.000 km
+1021,2023-10-01,Wohnmobil,La Strada,Avanti EB Aut.,Kastenwagen,2016-05-01,80000.0,Automatik,130.0,Fiat ,47900,55000,,89,5-10 Jahre,50.001-100.000 km
+1022,2023-10-01,Wohnmobil,Knaus,VAN I Vansation 600 Aut.,Integrierter,2015-04-01,69000.0,Automatik,109.0,Fiat,51000,51000,,102,5-10 Jahre,50.001-100.000 km
+1023,2023-10-01,Wohnmobil,Globecar,Travelscout Aut. mit DPF,Kastenwagen,2005-11-01,158000.0,Automatik,94.0,Citroen Jumper,12700,12000,,215,Über 10 Jahre,Über 100.000 km
+1024,2023-10-01,Wohnmobil,Pössl,2 Win Plus,Kastenwagen,2016-07-01,92000.0,Schaltung,110.0,Citroen Jumper,34900,34900,,87,5-10 Jahre,50.001-100.000 km
+1025,2023-10-01,Wohnmobil,GiottiLine,Therry T22,Alkoven,2012-11-01,68000.0,Schaltung,96.0,Citroen,25950,29750,,131,Über 10 Jahre,50.001-100.000 km
+1026,2023-10-01,Wohnmobil,Knaus,Boxlife 600 MQ 9G-Tronic,Kastenwagen,2022-07-01,2908.0,Automatik,118.0,Fiat,57600,52500,,15,0-2 Jahre,0-20.000 km
+1027,2023-10-01,Wohnmobil,Hymer,Yosemite Aut.,Kastenwagen,2018-07-01,87997.0,Automatik,110.0,Fiat,43900,50000,,63,5-10 Jahre,50.001-100.000 km
+1028,2023-10-01,Wohnmobil,P.L.A.,Sandy S 75 / 4.0t,Integrierter,2017-04-01,57800.0,Schaltung,120.0,Citroen,37000,43700,,78,5-10 Jahre,50.001-100.000 km
+1029,2023-10-01,Wohnmobil,Westfalia,Club Joker City mit Aufstelldach,Bus,2015-08-01,85000.0,Schaltung,103.0,VW,37200,40000,,98,5-10 Jahre,50.001-100.000 km
+1030,2023-10-01,Wohnmobil,XGO,Dynamic 39,Alkoven,2015-04-01,46000.0,Schaltung,100.0,Renault,31300,35100,,102,5-10 Jahre,20.001-50.000 km
+1031,2023-10-01,Wohnmobil,Dethleffs,Premium Liner I 9950,Integrierter,2013-10-01,97000.0,Automatik,125.0,Iveco Daily 17 PS 70 C 17,85000,100000,,120,5-10 Jahre,50.001-100.000 km
+1032,2023-10-01,Wohnmobil,Carado,T 337,Teilintegrierter,2010-04-01,61470.0,Schaltung,96.0,Fiat Ducato,33100,33000,,162,Über 10 Jahre,50.001-100.000 km
+1033,2023-10-01,Wohnwagen,Knaus,Sport und Fun,Wohnwagen,2020-05-01,,,,,15000,18000,,41,2-5 Jahre,Über 100.000 km
+1034,2023-10-01,Wohnmobil,Bürstner,Ixeo Time IT590,Teilintegrierter,2017-05-01,97000.0,Schaltung,96.0,Fiat ,34300,40000,,77,5-10 Jahre,50.001-100.000 km
+1035,2023-10-01,Wohnmobil,Knaus,Van Ti 650 MEG Vansation 9G-Tronic,Teilintegrierter,2021-06-01,37800.0,Automatik,103.0,Fiat Ducato,62000,65000,,28,2-5 Jahre,20.001-50.000 km
+1036,2023-10-01,Wohnmobil,Pössl,Roadcamp R 540,Kastenwagen,2022-05-01,35000.0,Schaltung,103.0,Citroën ,48000,48000,,17,0-2 Jahre,20.001-50.000 km
+1037,2023-11-01,Wohnmobil,Pössl,Summit 640,Kastenwagen,2019-08-01,47900.0,Schaltung,120.0,Citroen,51090,50990,,51,2-5 Jahre,20.001-50.000 km
+1038,2023-11-01,Wohnmobil,Carthago,Chic C-Line 5.0 QB 4.25 t,Integrierter,2019-07-01,24100.0,Schaltung,110.0,Fiat,85450,99750,,52,2-5 Jahre,20.001-50.000 km
+1039,2023-11-01,Wohnmobil,Carado,A464,Alkoven,2012-05-01,43000.0,Schaltung,96.0,Fiat,33500,38000,,138,Über 10 Jahre,20.001-50.000 km
+1040,2023-11-01,Wohnmobil,Pössl,Summit Prime 540 / 9G-Tronic,Kastenwagen,2020-11-01,45100.0,Automatik,118.0,Fiat,46500,51000,,36,2-5 Jahre,20.001-50.000 km
+1041,2023-11-01,Wohnmobil,Pössl,Roadcruiser Evolution 640,Kastenwagen,2021-12-01,21000.0,Schaltung,103.0,Citroen,48750,51450,,23,0-2 Jahre,20.001-50.000 km
+1042,2023-11-01,Wohnmobil,Pössl,Summit 600 Plus,Kastenwagen,2020-01-01,28000.0,Schaltung,103.0,Citroen Jumper,40500,47500,,46,2-5 Jahre,20.001-50.000 km
+1043,2023-11-01,Wohnmobil,Hobby,Optima OnTour T 65 HKM,Teilintegrierter,2022-01-01,9500.0,Schaltung,103.0,Citroen,59000,66500,,22,0-2 Jahre,0-20.000 km
+1044,2023-11-01,Wohnmobil,Weinsberg,Carabus 600 MQ,Kastenwagen,2022-04-01,31000.0,Schaltung,103.0,Fiat Ducato,47700,47700,,19,0-2 Jahre,20.001-50.000 km
+1045,2023-11-01,Wohnmobil,Bürstner,Lyseo 727 G Time Harmony Line,Teilintegrierter,2019-09-01,22400.0,Schaltung,120.0,Citroen,55100,55000,,50,2-5 Jahre,20.001-50.000 km
+1046,2023-11-01,Wohnmobil,Glücksmobil,T 64,Teilintegrierter,2014-02-01,40804.0,Schaltung,96.0,Fiat,32900,37800,,117,5-10 Jahre,20.001-50.000 km
+1047,2023-11-01,Wohnmobil,Knaus,Box Star Freeway 630,Kastenwagen,2018-11-01,53000.0,Schaltung,96.0,Fiat Ducato,48400,48000,,60,2-5 Jahre,50.001-100.000 km
+1048,2023-11-01,Wohnwagen,Knaus,Blue Line,Wohnwagen,1998-07-01,,,,,2850,3850,,304,Über 10 Jahre,Über 100.000 km
+1049,2023-11-01,Wohnmobil,Sunlight,V60 Adventure Edition,Teilintegrierter,2021-06-01,26600.0,Schaltung,103.0,Citroen,43000,46000,,29,2-5 Jahre,20.001-50.000 km
+1050,2023-11-01,Wohnmobil,Bürstner,Aviano I 684 Aut.,Integrierter,2013-10-01,90000.0,Automatik,109.0,Fiat,43300,43300,,121,Über 10 Jahre,50.001-100.000 km
+1051,2023-11-01,Wohnmobil,Clever,Celebration 600,Kastenwagen,2022-07-01,4700.0,Schaltung,103.0,Citroen,50350,50550,,16,0-2 Jahre,0-20.000 km
+1052,2023-11-01,Wohnmobil,Clever,Celebration 600,Kastenwagen,2021-08-01,28370.0,Schaltung,103.0,Citroen,45200,48000,,27,2-5 Jahre,20.001-50.000 km
+1053,2023-11-01,Wohnmobil,XGO,4 Van,Kastenwagen,2021-09-01,4000.0,Schaltung,103.0,Fiat,44450,46550,,26,2-5 Jahre,0-20.000 km
+1054,2023-11-01,Wohnmobil,Pilote,P 696 GJ,Teilintegrierter,2021-09-01,11600.0,Schaltung,103.0,Citroën ,55000,60800,,26,2-5 Jahre,0-20.000 km
+1055,2023-11-01,Wohnmobil,Mooveo,TEI 70 EBH,Teilintegrierter,2022-02-01,6890.0,Schaltung,103.0,Citroen,59500,63200,,21,0-2 Jahre,0-20.000 km
+1056,2023-11-01,Wohnmobil,Weinsberg,Komet 645 LD,Integrierter,2002-08-01,142500.0,Schaltung,113.0,Fiat,19000,19000,,255,Über 10 Jahre,Über 100.000 km
+1057,2023-11-01,Wohnmobil,Volkswagen,Grand California 680,Kastenwagen,2021-08-01,3650.0,Automatik,130.0,Volkswagen,53550,59950,,27,2-5 Jahre,0-20.000 km
+1058,2023-11-01,Wohnmobil,Carado,I 447 Clever+ Edition 9G-Tronic,Integrierter,2021-09-01,30500.0,Automatik,103.0,Fiat Ducato ,58300,63000,,26,2-5 Jahre,20.001-50.000 km
+1059,2023-11-01,Wohnmobil,Carthago,M Liner 57 BRH Aut.,Integrierter,2007-07-01,110000.0,Automatik,130.0,Iveco ,55000,55000,,196,Über 10 Jahre,Über 100.000 km
+1060,2023-11-01,Wohnmobil,Pössl,Roadcruiser 640 Aut.,Kastenwagen,2014-10-01,29500.0,Automatik,130.0,Fiat ,39000,39000,,109,5-10 Jahre,20.001-50.000 km
+1061,2023-11-01,Wohnmobil,Dreamer,Cap Land Automatik Aufstelldach,Bus,2023-10-01,1132.0,Automatik,125.0,Ford,52250,60350,,1,0-2 Jahre,0-20.000 km
+1062,2023-11-01,Wohnmobil,Hymer,T 654 CL Aut.,Teilintegrierter,2011-04-01,107000.0,Automatik,116.0,Fiat ,35500,40000,,151,Über 10 Jahre,Über 100.000 km
+1063,2023-11-01,Wohnmobil,Weinsberg,Carabus 601,Kastenwagen,2011-06-01,66000.0,Schaltung,88.0,Fiat Ducato,32200,33000,,149,Über 10 Jahre,50.001-100.000 km
+1064,2023-11-01,Wohnmobil,Hymer,B MC-I 580 Aut.,Integrierter,2021-02-01,18700.0,Automatik,105.0,Mercedes ,95000,105000,,33,2-5 Jahre,0-20.000 km
+1065,2023-11-01,Wohnmobil,Ahorn,Alaska TE plus,Teilintegrierter,2021-05-01,47000.0,Schaltung,107.0,Renault,48250,51750,,30,2-5 Jahre,20.001-50.000 km
+1066,2023-11-01,Wohnmobil,Sunlight,Cliff 600 Adventure Edition ,Kastenwagen,2023-03-01,2000.0,Schaltung,103.0,Fiat,46499,49999,,8,0-2 Jahre,0-20.000 km
+1067,2023-11-01,Wohnmobil,Weinsberg,Cara Compact 600 MG,Teilintegrierter,2016-04-01,111420.0,Schaltung,96.0,Fiat,36000,41000,,91,5-10 Jahre,Über 100.000 km
+1068,2023-11-01,Wohnmobil,Bürstner,Nexxo 569 IC Line,Teilintegrierter,2017-04-01,118000.0,Schaltung,96.0,Fiat,37800,37800,,79,5-10 Jahre,Über 100.000 km
+1069,2023-11-01,Wohnmobil,Dethleffs,Globevan Automatik,Bus,2023-10-01,10.0,Automatik,110.0,Ford,42750,42750,,1,0-2 Jahre,0-20.000 km
+1070,2023-11-01,Wohnmobil,Bürstner,A 530,Alkoven,2004-03-01,96700.0,Schaltung,81.0,Fiat,17900,21500,,236,Über 10 Jahre,50.001-100.000 km
+1071,2023-11-01,Wohnmobil,Hymer,MLT 580 Aut.,Teilintegrierter,2015-07-01,75300.0,Automatik,120.0,Mercedes,52000,52000,,100,5-10 Jahre,50.001-100.000 km
+1072,2023-11-01,Wohnmobil,Eura Mobil,A 770,Alkoven,2001-06-01,245000.0,Schaltung,90.0,Fiat ,14800,19500,,269,Über 10 Jahre,Über 100.000 km
+1073,2023-11-01,Wohnmobil,Carado,T 337,Teilintegrierter,2016-07-01,64600.0,Schaltung,96.0,Fiat ,42000,42000,,88,5-10 Jahre,50.001-100.000 km
+1074,2023-11-01,Wohnmobil,Bürstner,Lyseo TD 744 Aut.,Teilintegrierter,2019-04-01,42300.0,Automatik,110.0,Fiat ,59100,64000,,55,2-5 Jahre,20.001-50.000 km
+1075,2023-11-01,Wohnmobil,Knaus,Van I 650 MEG Platinum ,Integrierter,2018-05-01,45600.0,Schaltung,110.0,Fiat,57000,56000,,66,5-10 Jahre,20.001-50.000 km
+1076,2023-11-01,Wohnmobil,Westfalia,Nugget Plus,Bus,2018-07-01,40100.0,Schaltung,125.0,Ford Transit Custom,39700,35000,,64,5-10 Jahre,20.001-50.000 km
+1077,2023-11-01,Wohnmobil,Hymer,Van 512 Silverline mit ATM,Teilintegrierter,2009-06-01,63000.0,Schaltung,103.0,Ford,25000,28000,,173,Über 10 Jahre,50.001-100.000 km
+1078,2023-11-01,Wohnmobil,Hobby,Optima OnTour A 60 GF,Alkoven,2021-04-01,82000.0,Schaltung,103.0,Citröen,35000,41000,,31,2-5 Jahre,50.001-100.000 km
+1079,2023-11-01,Wohnmobil,Knaus,Sun Ti 650 MEG Platinum Sel. Aut.,Teilintegrierter,2019-09-01,22500.0,Automatik,110.0,Fiat,57900,60900,,50,2-5 Jahre,20.001-50.000 km
+1080,2023-11-01,Wohnmobil,Karmann,Colorado S 600 ,Alkoven,1999-07-01,132781.0,Schaltung,75.0,Volkswagen,17200,20500,,292,Über 10 Jahre,Über 100.000 km
+1081,2023-11-01,Wohnmobil,Ahorn,Van 550 Aut.,Kastenwagen,2021-05-01,7000.0,Automatik,110.0,Renault,45100,45000,,30,2-5 Jahre,0-20.000 km
+1082,2023-11-01,Wohnmobil,Chausson,768 XLB Titanium Aut.,Teilintegrierter,2020-06-01,42600.0,Automatik,125.0,Ford,51900,55600,,41,2-5 Jahre,20.001-50.000 km
+1083,2023-11-01,Wohnmobil,Eura Mobil,Profila A 685 VB mit ATM,Alkoven,2011-01-01,149551.0,Schaltung,103.0,Ford,22000,25500,,154,Über 10 Jahre,Über 100.000 km
+1084,2023-11-01,Wohnmobil,Ahorn,Alaska TQ Automatik,Teilintegrierter,2019-10-01,19000.0,Automatik,125.0,Renault,45000,51900,,49,2-5 Jahre,0-20.000 km
+1085,2023-11-01,Wohnmobil,Hobby,Optima Ontour Edition V 65 GE,Teilintegrierter,2020-01-01,38500.0,Schaltung,103.0,Citroen,52000,52000,,46,2-5 Jahre,20.001-50.000 km
+1086,2023-11-01,Wohnmobil,Knaus,Van Ti 640 Meg MAN Vansation Aut.,Teilintegrierter,2022-07-01,11650.0,Automatik,130.0,MAN,65500,72500,,16,0-2 Jahre,0-20.000 km
+1087,2023-11-01,Wohnmobil,Hymer,B 584 Erstbesitz,Integrierter,1997-03-01,89900.0,Schaltung,85.0,Fiat,12000,14900,,320,Über 10 Jahre,50.001-100.000 km
+1088,2023-11-01,Wohnmobil,Pilote,G 690 Evidence 9G-Tronic,Integrierter,2021-03-01,30600.0,Automatik,118.0,Fiat,70000,75000,,32,2-5 Jahre,20.001-50.000 km
+1089,2023-11-01,Wohnmobil,Dethleffs,Globe-S A 597,Alkoven,2012-05-01,94500.0,Schaltung,96.0,Fiat ,26200,31000,,138,Über 10 Jahre,50.001-100.000 km
+1090,2023-11-01,Wohnmobil,Dethleffs,Camp One Automatik,Kastenwagen,2023-10-01,10.0,Automatik,110.0,Ford,42750,42750,,1,0-2 Jahre,0-20.000 km
+1091,2023-11-01,Wohnmobil,Eura Mobil,Integra Line 655 EB Aut.,Integrierter,2016-06-01,55000.0,Automatik,109.0,Fiat,57000,60000,,89,5-10 Jahre,50.001-100.000 km
+1092,2023-11-01,Wohnmobil,Etrusco,T 7400 SB,Teilintegrierter,2020-07-01,18000.0,Schaltung,96.0,Fiat ,40900,43000,,40,2-5 Jahre,0-20.000 km
+1093,2023-11-01,Wohnmobil,Bürstner,Delfin 680 G Harmony Line,Teilintegrierter,2021-08-01,18100.0,Schaltung,103.0,Citroen ,55900,57000,,27,2-5 Jahre,0-20.000 km
+1094,2023-11-01,Wohnmobil,Rapido,9000 DFH Aut.,Integrierter,2017-07-01,31375.0,Automatik,110.0,Fiat,70700,70000,,76,5-10 Jahre,20.001-50.000 km
+1095,2023-11-01,Wohnmobil,Weinsberg,Cara Compact 600 MEG Pepper,Teilintegrierter,2020-02-01,27800.0,Schaltung,121.0,Peugeot,48200,50900,,45,2-5 Jahre,20.001-50.000 km
+1096,2023-11-01,Wohnmobil,Eura Mobil,Terrestra A 690 HB,Alkoven,2012-05-01,48000.0,Schaltung,109.0,Fiat Ducato,35100,35000,,138,Über 10 Jahre,20.001-50.000 km
+1097,2023-11-01,Wohnmobil,Weinsberg,CaraBus 600 MQH ,Kastenwagen,2020-08-01,23500.0,Schaltung,103.0,Fiat,51500,48000,,39,2-5 Jahre,20.001-50.000 km
+1098,2023-11-01,Wohnwagen,Fendt,Saphir 465 SFB,Wohnwagen,2018-03-01,,,,,20000,22500,,68,5-10 Jahre,Über 100.000 km
+1099,2023-11-01,Wohnmobil,Bürstner,Lyseo TD 728 G Harmony Line,Teilintegrierter,2018-04-01,47000.0,Schaltung,96.0,Fiat,51950,56650,,67,5-10 Jahre,20.001-50.000 km
+1100,2023-11-01,Wohnmobil,Dethleffs,I 6700 Eighty II,Integrierter,2012-05-01,50000.0,Schaltung,96.0,Fiat,46000,46000,,138,Über 10 Jahre,20.001-50.000 km
+1101,2023-11-01,Wohnmobil,Sunlight,T68 XV,Teilintegrierter,2020-09-01,14800.0,Schaltung,103.0,Fiat,53400,55800,,38,2-5 Jahre,0-20.000 km
+1102,2023-11-01,Wohnmobil,Weinsberg,Caratour 600 MQH,Kastenwagen,2020-06-01,26000.0,Schaltung,103.0,Fiat ,49800,55000,,41,2-5 Jahre,20.001-50.000 km
+1103,2023-11-01,Wohnmobil,Pössl,Summit Prime 540 Prime 9G-Tronic,Kastenwagen,2020-11-01,34767.0,Automatik,118.0,Fiat ,54500,62000,,36,2-5 Jahre,20.001-50.000 km
+1104,2023-11-01,Wohnwagen,Fendt,Bianco Selection 515 SG,Wohnwagen,2021-08-01,,,,,20500,23000,,27,2-5 Jahre,Über 100.000 km
+1105,2023-11-01,Wohnmobil,Sun Living,Twin Aut.,Teilintegrierter,2014-10-01,89900.0,Automatik,109.0,Fiat ,38100,37000,,109,5-10 Jahre,50.001-100.000 km
+1106,2023-11-01,Wohnmobil,Carado,T132,Teilintegrierter,2015-09-01,51917.0,Schaltung,96.0,Fiat,35000,35000,,98,5-10 Jahre,50.001-100.000 km
+1107,2023-11-01,Wohnmobil,Adria,Twin SP 600,Kastenwagen,2015-06-01,137483.0,Schaltung,109.0,Fiat,34400,37900,,101,5-10 Jahre,Über 100.000 km
+1108,2023-11-01,Wohnmobil,Carado,CV 600,Kastenwagen,2022-05-01,13500.0,Schaltung,103.0,Fiat,47000,49000,,18,0-2 Jahre,0-20.000 km
+1109,2023-11-01,Wohnmobil,Knaus,V-Liner,Integrierter,2009-02-01,90500.0,Schaltung,107.0,Renault ,31600,30000,,177,Über 10 Jahre,50.001-100.000 km
+1110,2023-11-01,Wohnmobil,Knaus,Sun TR,Alkoven,2007-09-01,187000.0,Schaltung,96.0,Fiat,21000,23000,,194,Über 10 Jahre,Über 100.000 km
+1111,2023-11-01,Wohnmobil,Carado,T138,Teilintegrierter,2014-04-01,80600.0,Schaltung,96.0,Fiat,30200,35000,,115,5-10 Jahre,50.001-100.000 km
+1112,2023-11-01,Wohnmobil,Concorde,Carver 791 RL,Integrierter,2020-09-01,25000.0,Automatik,155.0,Iveco Daily,199900,230000,,38,2-5 Jahre,20.001-50.000 km
+1113,2023-11-01,Wohnwagen,Hobby,De Luxe 455 UF,Wohnwagen,2018-10-01,,,,,15000,17500,,61,5-10 Jahre,Über 100.000 km
+1114,2023-11-01,Wohnmobil,Carado,T 338 Emotion 9G-Tronic,Teilintegrierter,2020-04-01,28600.0,Automatik,103.0,Fiat,57000,60000,,43,2-5 Jahre,20.001-50.000 km
+1115,2023-11-01,Wohnmobil,Bürstner,Nexxo 728 G,Teilintegrierter,2012-03-01,41648.0,Schaltung,96.0,Fiat,36400,44500,,140,Über 10 Jahre,20.001-50.000 km
+1116,2023-12-01,Wohnmobil,Carthago,Opus 5.2 Liner,Integrierter,2008-11-01,109000.0,Schaltung,135.0,Mercedes ,53500,56000,,181,Über 10 Jahre,Über 100.000 km
+1117,2023-12-01,Wohnmobil,Weinsberg,Orbiter,Alkoven,2005-07-01,150000.0,Schaltung,94.0,Fiat ,15000,20000,,221,Über 10 Jahre,Über 100.000 km
+1118,2023-12-01,Wohnmobil,Hymer,Free S 600 Aut.,Kastenwagen,2022-09-01,27000.0,Automatik,125.0,Mercedes,68500,78500,,15,0-2 Jahre,20.001-50.000 km
+1119,2023-12-01,Wohnmobil,Miller,Montana Aut.,Teilintegrierter,2018-08-01,7685.0,Automatik,110.0,Fiat,44500,51500,,64,5-10 Jahre,0-20.000 km
+1120,2023-12-01,Wohnmobil,Weinsberg,Caraloft 650 MFH,Teilintegrierter,2017-03-01,52707.0,Schaltung,96.0,Fiat,35000,35000,,81,5-10 Jahre,50.001-100.000 km
+1121,2023-12-01,Wohnmobil,Pössl,Trenta 540 R,Kastenwagen,2022-04-01,15000.0,Schaltung,103.0,Citroen ,41200,44100,,20,0-2 Jahre,0-20.000 km
+1122,2023-12-01,Wohnmobil,Hymer,B 524,Integrierter,1999-04-01,131000.0,Schaltung,90.0,Fiat ,19200,21900,,296,Über 10 Jahre,Über 100.000 km
+1123,2023-12-01,Wohnmobil,Knaus,Sky Wave 650 MG ,Teilintegrierter,2014-03-01,57600.0,Schaltung,96.0,Fiat Ducato ,39500,41300,,117,5-10 Jahre,50.001-100.000 km
+1124,2023-12-01,Wohnmobil,Hymer,Free 600 Campus 9G-Tronic,Kastenwagen,2021-01-01,36000.0,Automatik,103.0,Fiat ,59600,60000,,35,2-5 Jahre,20.001-50.000 km
+1125,2023-12-01,Wohnmobil,Le Voyageur,LV 7.8 GJL Aut.,Integrierter,2017-12-01,53000.0,Automatik,130.0,Fiat ,70000,75700,,72,5-10 Jahre,50.001-100.000 km
+1126,2023-12-01,Wohnmobil,Ahorn,Canada TQ Plus,Teilintegrierter,2019-02-01,34100.0,Schaltung,96.0,Renault Master,43900,43900,,58,2-5 Jahre,20.001-50.000 km
+1127,2023-12-01,Wohnmobil,McLouis,Nevis 876 G,Integrierter,2012-02-01,86000.0,Schaltung,109.0,Fiat,31500,27000,,142,Über 10 Jahre,50.001-100.000 km
+1128,2023-12-01,Wohnmobil,Bürstner,Elegance 710 G,Integrierter,2008-08-01,116000.0,Schaltung,116.0,Fiat Ducato,43900,43000,,184,Über 10 Jahre,Über 100.000 km
+1129,2023-12-01,Wohnmobil,Etrusco,T 7300,Teilintegrierter,2019-03-01,32800.0,Schaltung,96.0,Fiat,48000,50000,,57,2-5 Jahre,20.001-50.000 km
+1130,2023-12-01,Wohnwagen,Knaus,Sport 500 EU,Wohnwagen,2020-02-01,,,,,18400,19900,,46,2-5 Jahre,Über 100.000 km
+1131,2023-12-01,Wohnmobil,Knaus,Boxstar Road 540 Aut.,Kastenwagen,2019-01-01,71736.0,Automatik,110.0,Fiat,41800,47000,,59,2-5 Jahre,50.001-100.000 km
+1132,2023-12-01,Wohnmobil,Mooveo,63 EB 9G-Tronic,Kastenwagen,2021-08-01,20000.0,Automatik,103.0,Fiat,55300,55600,,28,2-5 Jahre,0-20.000 km
+1133,2023-12-01,Wohnmobil,Pössl,Summit 640 / 9G-Tronic,Kastenwagen,2020-09-01,16000.0,Automatik,118.0,Fiat,58900,50000,,39,2-5 Jahre,0-20.000 km
+1134,2023-12-01,Wohnmobil,Sunlight,Cliff 600 Adventure Edition ,Kastenwagen,2021-08-01,32000.0,Schaltung,103.0,Fiat,42700,40000,,28,2-5 Jahre,20.001-50.000 km
+1135,2023-12-01,Wohnmobil,Eura Mobil,Activa 690 HB,Alkoven,2001-05-01,124284.0,Schaltung,94.0,Fiat ,16900,20900,,271,Über 10 Jahre,Über 100.000 km
+1136,2023-12-01,Wohnmobil,Forster,T 699 VB,Teilintegrierter,2015-05-01,63000.0,Schaltung,96.0,Fiat,38900,44200,,103,5-10 Jahre,50.001-100.000 km
+1137,2023-12-01,Wohnmobil,Sunlight,Cliff 600 Adventure,Kastenwagen,2022-02-01,16500.0,Schaltung,103.0,Fiat,46800,48000,,22,0-2 Jahre,0-20.000 km
+1138,2023-12-01,Wohnmobil,Malibu,T 430 LE,Teilintegrierter,2020-07-01,57460.0,Schaltung,118.0,Fiat,59500,65500,,41,2-5 Jahre,50.001-100.000 km
+1139,2023-12-01,Wohnmobil,Carado,T 337,Teilintegrierter,2015-04-01,36000.0,Schaltung,96.0,Fiat,37600,30000,,104,5-10 Jahre,20.001-50.000 km
+1140,2023-12-01,Wohnmobil,Sunlight,T67S Adventure Edition,Teilintegrierter,2022-02-01,15500.0,Schaltung,103.0,Fiat ,56100,57000,,22,0-2 Jahre,0-20.000 km
+1141,2023-12-01,Wohnmobil,Volkswagen,Grand California 680 Aut.,Kastenwagen,2021-11-01,19000.0,Automatik,130.0,Volkswagen,56500,60500,,25,2-5 Jahre,0-20.000 km
+1142,2023-12-01,Wohnwagen,Hobby,DeLuxe UFE 460,Wohnwagen,2021-07-01,,,,,17300,20000,,29,2-5 Jahre,Über 100.000 km
+1143,2023-12-01,Wohnmobil,Hymer,ML-T 570,Teilintegrierter,2018-03-01,59000.0,Automatik,120.0,Mercedes,62600,60000,,69,5-10 Jahre,50.001-100.000 km
+1144,2023-12-01,Wohnmobil,Pössl,Summit 540,Kastenwagen,2020-04-01,23548.0,Schaltung,103.0,Fiat ,42100,42100,,44,2-5 Jahre,20.001-50.000 km
+1145,2023-12-01,Wohnmobil,Knaus,BoxStar Solution 4 / H3,Kastenwagen,2020-01-01,47212.0,Schaltung,96.0,Fiat,46700,47700,,47,2-5 Jahre,20.001-50.000 km
+1146,2023-12-01,Wohnwagen,Knaus,Azur 650 TF ,Wohnwagen,2001-06-01,,,,,1490,3750,,270,Über 10 Jahre,Über 100.000 km
