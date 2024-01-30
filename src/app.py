@@ -3,17 +3,21 @@ from dash import Dash, dcc, html, dash_table
 import pandas as pd
 import plotly.graph_objs as go
 from dash.dependencies import Input, Output
+import locale
+
+# Set to a locale that uses period as thousands separator, e.g., 'de_DE' for Germany
+locale.setlocale(locale.LC_ALL, 'de_DE')
 
 
 # Style for tiles
 tile_style = {
     'background-color': '#f0f0f0',
     'border-radius': '10px',
-    'padding': '20px',
-    'margin': '10px',
+    'padding': '5px',
+    'margin': '5px',
     'text-align': 'center',
     'display': 'inline-block',
-    'width': '30%'
+    'width': '80%'
 }
 
 table_container_style = {
@@ -36,6 +40,9 @@ data_table_header_style = {
     'padding': '0px'
 }
 
+header_style = {
+    'margin-bottom': '10px'  # Adjust the value as needed for desired spacing
+}
 
 def get_color(value):
     if value is None:
@@ -44,7 +51,7 @@ def get_color(value):
 
 
 # Load data
-df = pd.read_csv('pricedata4.csv')
+df = pd.read_csv('pricedata6.csv')
 
 df = df[~df['Kategorie'].isin(['Bus', 'Wohnwagen'])]
 
@@ -80,12 +87,27 @@ for i, category in enumerate(category_order):
         line=dict(color=colors[i % len(colors)])
     ))
 
+
+
+y_values = list(range(0, 100001, 10000))  # Convert range to list
+ticktext = [str(int(value / 1000)) for value in y_values]  # Convert to simpler numbers
+
 category_line_chart_figure.update_layout(
-    #title='Median Price per Vehicle Category Over Time',
-    xaxis_title='Quarter',
-    yaxis_title='Median Price',
-    legend=dict(orientation='h', x=0.5, y=-0.3, xanchor='center', yanchor='top'),
-    margin=dict(l=20, r=20, t=20, b=20)
+    xaxis_title='Quartal',
+    yaxis_title='Medianpreis (in Tsd)',
+    legend=dict(
+        orientation='h',
+        x=0.5,
+        y=-0.3,
+        xanchor='center',
+        yanchor='top'
+    ),
+    margin=dict(l=20, r=20, t=20, b=20),
+    font=dict(family='Roboto Condensed', size=14),
+    yaxis=dict(
+        tickvals=y_values,
+        ticktext=ticktext
+    )
 )
 
 # Processing for Stacked Bar Chart
@@ -108,19 +130,31 @@ for i, category in enumerate(category_order):
         name=category,
         x=category_data['Quarter'].astype(str),
         y=category_data['Percentage'],
-        text=category_data['Percentage'].apply(lambda x: f'{x:.1f}%'),
+        text=category_data['Percentage'].apply(lambda x: f'{x:.0f}%'),  # Keine Dezimalstellen
         textposition='inside',
         marker_color=colors[i % len(colors)]
     ))
 
 stacked_bar_chart_figure.update_layout(
     barmode='stack',
-    #title='Prozentualer Anteil der verkauften Einheiten pro Quartal nach Fahrzeugkategorie',
-    xaxis=dict(title='Quarter', type='category'),
-    yaxis=dict(title='Prozentualer Anteil (%)', tickformat=',.2f'),
-    legend=dict(orientation='h', x=0.5, y=-0.3, xanchor='center', yanchor='top'),
+    xaxis=dict(
+        title='Quartal',
+        type='category'
+    ),
+    yaxis=dict(
+        title='Prozentualer Anteil (%)',
+        tickformat=',d'
+    ),
+    legend=dict(
+        orientation='h',
+        x=0.5,
+        y=-0.3,
+        xanchor='center',
+        yanchor='top'
+    ),
     legend_title_text='Fahrzeugkategorie',
-    margin=dict(l=20, r=20, t=20, b=20)
+    margin=dict(l=20, r=20, t=20, b=20),
+    font=dict(family='Roboto Condensed', size=14) # Set font for the entire layout
 )
 
 
@@ -142,8 +176,13 @@ app.layout = html.Div([
         html.Img(src='assets/Header_PriceAnalyzer.jpg'),
 
         html.Div([
-        html.H2("KPIs", style={'textAlign': 'center', 'margin-top': '20px'})
-         ], style={'width': '100%'}),
+        html.Div([
+            html.H2("Performance-Dashboard: CARAVANING ", style={'textAlign': 'left', 'margin-top': '20px'})
+        ], style={'width': '70%', 'display': 'inline-block'}),
+
+        # Alert section
+        html.Div(id='data-alert', style={'width': '30%', 'display': 'inline-block', 'textAlign': 'right'})
+    ], style={'display': 'flex', 'width': '100%'}),
 
     # Tiles row with 4 tiles now
         html.Div([
@@ -283,7 +322,7 @@ def update_tiles(selected_category, selected_km_cat, selected_age_cat, selected_
 
     # Calculate Median-Verkaufspreis for Q4 2023
     q4_2023_data = filtered_data[filtered_data['Quarter'] == '2023Q4']
-    median_price_2023 = q4_2023_data['Verkaufspreis'].median()
+    median_price_2023 = round(q4_2023_data['Verkaufspreis'].median())
 
     # Calculate percentage difference vs. Q4 2022
     q4_2022_data = filtered_data[filtered_data['Quarter'] == '2022Q4']
@@ -291,48 +330,45 @@ def update_tiles(selected_category, selected_km_cat, selected_age_cat, selected_
     percentage_diff_2022 = ((median_price_2023 - median_price_2022) / median_price_2022) * 100 if median_price_2022 else None
 
     # Calculate percentage difference vs. previous quarter
-    previous_quarter = '2023Q3'
-    previous_q_data = filtered_data[filtered_data['Quarter'] == previous_quarter]
+    current_quarter_period = pd.Period('2023Q4', freq='Q')  # Ändern Sie dies entsprechend, um das aktuelle Quartal dynamisch zu bestimmen
+    previous_quarter_period = current_quarter_period - 1
+    previous_quarter = previous_quarter_period.strftime('Q%q/%Y')
+    
+    previous_q_data = filtered_data[filtered_data['Quarter'] == previous_quarter_period]
     median_price_previous = previous_q_data['Verkaufspreis'].median()
     percentage_diff_previous = ((median_price_2023 - median_price_previous) / median_price_previous) * 100 if median_price_previous else None
+
+
 
     # Calculate percentage difference between Verkaufspreis and Wunschpreis for the latest quarter
     median_wunschpreis_2023 = q4_2023_data['Wunschpreis'].median()
     percentage_diff_wunschpreis = ((median_price_2023 - median_wunschpreis_2023) / median_wunschpreis_2023) * 100 if median_wunschpreis_2023 else None
 
+    number_style = {
+        'font-size': '20px',  # Increase font size as needed
+        'font-weight': 'bold'  # Optional: make the font bold
+    }
+
     # Formatting tile contents
     tile_1_content = html.Div([
-        html.Strong("Median-Verkaufspreis (Q4/2023):"),
-        html.Br(),
-        f"{median_price_2023:.2f} €" if median_price_2023 else 'Data not available'
-    ])
+        html.Div(html.Strong("Median-Verkaufspreis (Q4/2023):"), style={'margin-bottom': '10px'}),
+        html.Div(locale.format_string("%d", median_price_2023, grouping=True) + " €" if median_price_2023 else 'Data not available', style=number_style)
+    ], style=tile_style)
 
     tile_2_content = html.Div([
-        html.Strong("Proz. Differenz (vs. Q4/2022):"),
-        html.Br(),
-        html.Span(
-            f"{percentage_diff_2022:.2f}%",
-            style={'color': get_color(percentage_diff_2022)}
-        ) if percentage_diff_2022 is not None else 'Data not available'
-    ])
+        html.Div(html.Strong("Proz. Differenz (vs. Q4/2022):"), style={'margin-bottom': '10px'}),
+        html.Div(html.Span(f"{percentage_diff_2022:.2f}%", style={'color': get_color(percentage_diff_2022)}) if percentage_diff_2022 is not None else 'Data not available', style=number_style)
+    ], style=tile_style)
 
     tile_3_content = html.Div([
-        html.Strong("Proz. Differenz (vs. vorheriges Quartal):"),
-        html.Br(),
-        html.Span(
-            f"{percentage_diff_previous:.2f}%",
-            style={'color': get_color(percentage_diff_previous)}
-        ) if percentage_diff_previous is not None else 'Data not available'
-    ])
+        html.Div(html.Strong(f"Proz. Differenz (vs. {previous_quarter}):"), style={'margin-bottom': '10px'}),
+        html.Div(html.Span(f"{percentage_diff_previous:.2f}%", style={'color': get_color(percentage_diff_previous)}) if percentage_diff_previous is not None else 'Data not available', style=number_style)
+    ], style=tile_style)
 
     tile_4_content = html.Div([
-        html.Strong("Proz. Differenz (Verkaufspreis zu Wunschpreis):"),
-        html.Br(),
-        html.Span(
-            f"{percentage_diff_wunschpreis:.2f}%",
-            style={'color': get_color(percentage_diff_wunschpreis)}
-        ) if percentage_diff_wunschpreis is not None else 'Data not available'
-    ])
+        html.Div(html.Strong("Ratio (Angebots- zu Verkaufspreis):"), style={'margin-bottom': '10px'}),
+        html.Div(html.Span(f"{percentage_diff_wunschpreis:.2f}%", style={'color': get_color(percentage_diff_wunschpreis)}) if percentage_diff_wunschpreis is not None else 'Data not available', style=number_style)
+    ], style=tile_style)
 
     return tile_1_content, tile_2_content, tile_3_content, tile_4_content
 
@@ -370,6 +406,7 @@ def update_graph(selected_category, selected_km_cat, selected_age_cat, selected_
 
     # Filter data to only include these quarters
     filtered_quarterly = filtered_quarterly[filtered_quarterly['Quarter'].isin(last_5_quarters)]
+    
 
     # Count the number of entries
     num_entries = len(filtered_data)
@@ -378,23 +415,35 @@ def update_graph(selected_category, selected_km_cat, selected_age_cat, selected_
     fig.add_trace(go.Scatter(x=filtered_quarterly['Quarter'].astype(str), y=filtered_quarterly['Verkaufspreis'],
                              mode='lines+markers', line=dict(color='#b22122', width=4), name='Verkaufspreis'))
 
-    # Set fixed range for y-axis and update axis labels
+    # Dynamically adjust y-axis range
+    min_price = filtered_quarterly['Verkaufspreis'].min()
+    max_price = filtered_quarterly['Verkaufspreis'].max()
+    y_axis_min = max(min_price - (60000 - (max_price - min_price)) // 2, 0)
+    y_axis_max = y_axis_min + 60000
+
+    # Round y_axis_min to nearest ten thousand
+    y_axis_min_rounded = int(round(y_axis_min, -4))
+
+    # Generate y-values for the range, starting from the rounded minimum
+    y_values = list(range(y_axis_min_rounded, y_axis_min_rounded + 60001, 10000))
+    ticktext = [str(int(value / 1000)) for value in y_values]
+
     fig.update_layout(
-        yaxis_range=[30000, 80000],
         yaxis=dict(
             tickmode='array',
-            tickvals=[10000, 20000, 30000, 40000, 50000, 60000, 70000, 80000, 90000, 100000]
+            tickvals=y_values,
+            ticktext=ticktext,
+            range=[y_axis_min, y_axis_min + 60000]
         ),
         margin=dict(l=20, r=20, t=10, b=20),
-
-        # Positioning the legend inside the graph
         legend=dict(
             x=0.01,
             y=0.99,
             bordercolor="Black",
             borderwidth=2,
             orientation="h"
-        )
+        ),
+        font=dict(family='Roboto Condensed', size=14)  # Set the font globally for the figure
     )
 
     # Return the figure and the number of entries
@@ -402,8 +451,39 @@ def update_graph(selected_category, selected_km_cat, selected_age_cat, selected_
 
 
 
+@app.callback(
+    Output('data-alert', 'children'),
+    [Input('category-dropdown', 'value'),
+     Input('km-cat-dropdown', 'value'),
+     Input('age-cat-dropdown', 'value'),
+     Input('region-dropdown', 'value')]
+)
+def update_data_alert(selected_category, selected_km_cat, selected_age_cat, selected_region):
+    filtered_data = data.copy()
+    # Apply the same filters as in your other callbacks
+    if selected_category != 'Total':
+        filtered_data = filtered_data[filtered_data['Kategorie'] == selected_category]
+    if selected_km_cat != 'Total':
+        filtered_data = filtered_data[filtered_data['Kilometer_cat'] == selected_km_cat]
+    if selected_age_cat != 'Total':
+        filtered_data = filtered_data[filtered_data['fahrzeugalter_cat'] == selected_age_cat]
+    if selected_region != 'Total':
+        filtered_data = filtered_data[filtered_data['region'] == selected_region]
 
+    # Filter data for Q4
+    q4_data = filtered_data[filtered_data['Quarter'] == '2023Q4']  # Adjust the year as needed
 
+    # Check the number of entries in Q4
+    if len(q4_data) < 10:
+        return html.Div('Hinweis: Für das letzte Quartal liegen uns zu wenige Daten vor. Bitte wählen Sie weniger Parameter.', 
+                        style={'color': 'red', 
+                               'fontWeight': 'bold', 
+                               'fontSize': '14px', 
+                               'display': 'flex', 
+                               'alignItems': 'center', 
+                               'justifyContent': 'center', 
+                               'height': '100%'})
+    return ''
 
 
 
