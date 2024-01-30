@@ -49,6 +49,11 @@ def get_color(value):
         return "#000000"  # Default to black if data is not available
     return "#ff0000" if value < 0 else "#008000"  # Red for negative, green for positive
 
+def format_number(value):
+    if value is None:
+        return 'N/A'
+    return f"{value:,}".replace(",", ".")
+
 
 # Load data
 df = pd.read_csv('pricedata6.csv')
@@ -351,9 +356,9 @@ def update_tiles(selected_category, selected_km_cat, selected_age_cat, selected_
 
     # Formatting tile contents
     tile_1_content = html.Div([
-        html.Div(html.Strong("Median-Verkaufspreis (Q4/2023):"), style={'margin-bottom': '10px'}),
-        html.Div(locale.format_string("%d", median_price_2023, grouping=True) + " €" if median_price_2023 else 'Data not available', style=number_style)
-    ], style=tile_style)
+    html.Div(html.Strong("Median-Verkaufspreis (Q4/2023):"), style={'margin-bottom': '10px'}),
+    html.Div(format_number(median_price_2023) + " €" if median_price_2023 else 'Data not available', style=number_style)
+], style=tile_style)
 
     tile_2_content = html.Div([
         html.Div(html.Strong("Proz. Differenz (vs. Q4/2022):"), style={'margin-bottom': '10px'}),
@@ -481,7 +486,7 @@ def update_data_alert(selected_category, selected_km_cat, selected_age_cat, sele
                                'fontSize': '14px', 
                                'display': 'flex', 
                                'alignItems': 'center', 
-                               'justifyContent': 'center', 
+                               'justifyContent': 'center', a
                                'height': '100%'})
     return ''
 
