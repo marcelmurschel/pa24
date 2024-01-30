@@ -3,10 +3,8 @@ from dash import Dash, dcc, html, dash_table
 import pandas as pd
 import plotly.graph_objs as go
 from dash.dependencies import Input, Output
-import locale
 
-# Set to a locale that uses period as thousands separator, e.g., 'de_DE' for Germany
-locale.setlocale(locale.LC_ALL, 'de_DE')
+
 
 
 # Style for tiles
@@ -486,7 +484,7 @@ def update_data_alert(selected_category, selected_km_cat, selected_age_cat, sele
                                'fontSize': '14px', 
                                'display': 'flex', 
                                'alignItems': 'center', 
-                               'justifyContent': 'center', a
+                               'justifyContent': 'center',
                                'height': '100%'})
     return ''
 
