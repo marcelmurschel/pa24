@@ -162,6 +162,118 @@ stacked_bar_chart_figure.update_layout(
 
 
 
+# Group by vehicle age category and quarter
+age_cat_grouped = data.groupby(['fahrzeugalter_cat', 'Quarter']).agg({'Verkaufspreis': 'median'}).reset_index()
+age_cat_grouped.sort_values('Quarter', inplace=True)
+last_five_quarters = age_cat_grouped['Quarter'].unique()[-5:]
+age_cat_grouped = age_cat_grouped[age_cat_grouped['Quarter'].isin(last_five_quarters)]
+
+# Create line chart for vehicle age categories
+vehicle_age_line_chart_figure = go.Figure()
+age_order = sorted(data['fahrzeugalter_cat'].unique())
+
+for i, age_cat in enumerate(age_order):
+    age_data = age_cat_grouped[age_cat_grouped['fahrzeugalter_cat'] == age_cat]
+    vehicle_age_line_chart_figure.add_trace(go.Scatter(
+        x=age_data['Quarter'].astype(str),
+        y=age_data['Verkaufspreis'],
+        mode='lines+markers',
+        name=age_cat,
+        line=dict(color=colors[i % len(colors)])
+    ))
+
+# Update layout for the line chart with specified styles
+vehicle_age_line_chart_figure.update_layout(
+    xaxis_title='Quartal',
+    yaxis_title='Medianpreis (in Tsd)',
+    legend=dict(
+        orientation='h',
+        x=0.5,
+        y=-0.3,
+        xanchor='center',
+        yanchor='top'
+    ),
+    margin=dict(l=20, r=20, t=20, b=20),
+    font=dict(family='Roboto Condensed', size=14),
+    yaxis=dict(
+        tickvals=list(range(0, 100001, 10000)),
+        ticktext=[str(int(value / 1000)) for value in range(0, 101, 10)]
+    )
+)
+
+
+# Filter the data for the last five quarters
+data['Verkauf in'] = pd.to_datetime(data['Verkauf in'])
+data['Quarter'] = pd.PeriodIndex(data['Verkauf in'].dt.to_period('Q'), freq='Q')
+last_five_quarters = data['Quarter'].drop_duplicates().sort_values()[-5:]
+data_last_five_quarters = data[data['Quarter'].isin(last_five_quarters)]
+
+# Group by quarter and vehicle age category, then aggregate sales
+age_cat_sales = data_last_five_quarters.groupby(['Quarter', 'fahrzeugalter_cat']).agg({'Verkaufspreis': 'sum'}).reset_index()
+quarterly_totals = age_cat_sales.groupby('Quarter')['Verkaufspreis'].sum().reset_index(name='Total_Sales')
+age_cat_sales = pd.merge(age_cat_sales, quarterly_totals, on='Quarter')
+age_cat_sales['Percentage'] = (age_cat_sales['Verkaufspreis'] / age_cat_sales['Total_Sales']) * 100
+
+# Colors for the chart
+colors = ['#F97A1F', '#C91D42', '#1DC9A4', '#141F52']
+
+# Create the stacked bar chart
+vehicle_age_stacked_bar_figure = go.Figure()
+
+# Ensure age categories are sorted consistently
+age_order = sorted(data['fahrzeugalter_cat'].unique())
+
+for i, age_cat in enumerate(age_order):
+    filtered_data = age_cat_sales[age_cat_sales['fahrzeugalter_cat'] == age_cat]
+    vehicle_age_stacked_bar_figure.add_trace(go.Bar(
+        name=age_cat,
+        x=filtered_data['Quarter'].astype(str),
+        y=filtered_data['Percentage'],
+        text=filtered_data['Percentage'].apply(lambda x: f'{x:.0f}%'),
+        textposition='inside',
+        marker_color=colors[i % len(colors)]
+    ))
+
+# Update layout with specified styles and to reflect only the last 5 quarters
+vehicle_age_stacked_bar_figure.update_layout(
+    barmode='stack',
+    xaxis=dict(
+        title='Quartal',
+
+        type='category',
+   
+    ),
+    yaxis=dict(
+        title='Prozentualer Anteil (%)',
+        tickformat=',d'
+    ),
+    legend=dict(
+        orientation='h',
+        x=0.5,
+        y=-0.3,
+        xanchor='center',
+        yanchor='top',
+        title='Fahrzeugalter Kategorie'
+    ),
+    margin=dict(l=20, r=20, t=20, b=20),
+    font=dict(family='Roboto Condensed', size=14)
+)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Creating the Dash app
 app = Dash(__name__)
 server = app.server
@@ -207,19 +319,9 @@ app.layout = html.Div([
                     value='Total',
                     style={'width': '100%', 'margin-right': '10px'}
                 ),
-            ], style={'width': '25%', 'display': 'inline-block', 'padding': '10px'}),
+            ], style={'width': '33.33%', 'display': 'inline-block', 'padding': '10px'}),
             
-            # Dropdown for Kilometerstand
-            html.Div([
-                html.H3('Kilometerstand', style={'textAlign': 'center'}),
-                dcc.Dropdown(
-                    id='km-cat-dropdown',
-                    options=[{'label': k, 'value': k} for k in data['Kilometer_cat'].unique()] + [{'label': 'Total', 'value': 'Total'}],
-                    value='Total',
-                    style={'width': '100%', 'margin-right': '10px'}
-                ),
-            ], style={'width': '25%', 'display': 'inline-block', 'padding': '10px'}),
-
+           
             # Dropdown for Alter des Fahrzeugs
             html.Div([
                 html.H3('Alter des Fahrzeugs', style={'textAlign': 'center'}),
@@ -229,7 +331,7 @@ app.layout = html.Div([
                     value='Total',
                     style={'width': '100%', 'margin-right': '10px'}
                 )
-            ], style={'width': '25%', 'display': 'inline-block', 'padding': '10px'}),
+            ], style={'width': '33.33%', 'display': 'inline-block', 'padding': '10px'}),
 
 
             html.Div([
@@ -240,7 +342,7 @@ app.layout = html.Div([
                     value='Total',
                     style={'width': '100%', 'margin-right': '10px'}
                 ),
-            ], style={'width': '25%', 'display': 'inline-block', 'padding': '10px'}),
+            ], style={'width': '33.33%', 'display': 'inline-block', 'padding': '10px'}),
         ], style={'display': 'flex', 'width': '100%'}),
 
 
@@ -268,7 +370,7 @@ Der signifikante Rückgang der Einkaufspreise um 14,5% gegenüber dem Vorjahresq
         ], style={'display': 'flex', 'width': '100%'}),
 
     html.Div(style={'height': '20px'}),
-    html.Img(src='assets/Fahrzeugkategorie_Block.png'),
+    html.Img(src='assets/Fahrzeugkategorie_Block.jpg'),
 
     html.Div([
         # Column for the line chart
@@ -289,6 +391,30 @@ Der signifikante Rückgang der Einkaufspreise um 14,5% gegenüber dem Vorjahresq
     ], style={'display': 'flex', 'width': '100%', 'margin-top': '20px'}),
 
 
+       html.Div(style={'height': '20px'}),
+    html.Img(src='assets/Fahrzeugalter_Block.jpg'),
+
+    html.Div([
+        # Column for the line chart
+        html.Div([
+            dcc.Graph(
+                id='vehicle_age_line_chart',
+                figure=vehicle_age_line_chart_figure
+            ),
+        ], style={'width': '50%', 'display': 'inline-block'}),
+
+        # Column for the stacked bar chart
+        html.Div([
+            dcc.Graph(
+                id='vehicle_age_stacked_bar',
+                figure=vehicle_age_stacked_bar_figure
+            ),
+        ], style={'width': '50%', 'display': 'inline-block'}),
+    ], style={'display': 'flex', 'width': '100%', 'margin-top': '20px'}),
+
+
+
+
 
 
 
@@ -306,17 +432,14 @@ Der signifikante Rückgang der Einkaufspreise um 14,5% gegenüber dem Vorjahresq
      Output('tile-3', 'children'),
      Output('tile-4', 'children')],
     [Input('category-dropdown', 'value'),
-     Input('km-cat-dropdown', 'value'),
      Input('age-cat-dropdown', 'value'), 
      Input('region-dropdown', 'value')]
 )
-def update_tiles(selected_category, selected_km_cat, selected_age_cat, selected_region):
+def update_tiles(selected_category, selected_age_cat, selected_region):
     # Filter data based on dropdown values
     filtered_data = data.copy()
     if selected_category != 'Total':
         filtered_data = filtered_data[filtered_data['Kategorie'] == selected_category]
-    if selected_km_cat != 'Total':
-        filtered_data = filtered_data[filtered_data['Kilometer_cat'] == selected_km_cat]
     if selected_age_cat != 'Total':
         filtered_data = filtered_data[filtered_data['fahrzeugalter_cat'] == selected_age_cat]
     if selected_region != 'Total':
@@ -382,20 +505,17 @@ def update_tiles(selected_category, selected_km_cat, selected_age_cat, selected_
     [Output('price-graph', 'figure'),
      Output('num-entries', 'children')],
     [Input('category-dropdown', 'value'),
-     Input('km-cat-dropdown', 'value'),
      Input('age-cat-dropdown', 'value'),
      Input('region-dropdown', 'value')]
 )
 
 
 
-def update_graph(selected_category, selected_km_cat, selected_age_cat, selected_region):
+def update_graph(selected_category, selected_age_cat, selected_region):
     # Filter data based on dropdown values
     filtered_data = data.copy()
     if selected_category != 'Total':
         filtered_data = filtered_data[filtered_data['Kategorie'] == selected_category]
-    if selected_km_cat != 'Total':
-        filtered_data = filtered_data[filtered_data['Kilometer_cat'] == selected_km_cat]
     if selected_age_cat != 'Total':
         filtered_data = filtered_data[filtered_data['fahrzeugalter_cat'] == selected_age_cat]
     if selected_region != 'Total':
@@ -457,17 +577,14 @@ def update_graph(selected_category, selected_km_cat, selected_age_cat, selected_
 @app.callback(
     Output('data-alert', 'children'),
     [Input('category-dropdown', 'value'),
-     Input('km-cat-dropdown', 'value'),
      Input('age-cat-dropdown', 'value'),
      Input('region-dropdown', 'value')]
 )
-def update_data_alert(selected_category, selected_km_cat, selected_age_cat, selected_region):
+def update_data_alert(selected_category, selected_age_cat, selected_region):
     filtered_data = data.copy()
     # Apply the same filters as in your other callbacks
     if selected_category != 'Total':
         filtered_data = filtered_data[filtered_data['Kategorie'] == selected_category]
-    if selected_km_cat != 'Total':
-        filtered_data = filtered_data[filtered_data['Kilometer_cat'] == selected_km_cat]
     if selected_age_cat != 'Total':
         filtered_data = filtered_data[filtered_data['fahrzeugalter_cat'] == selected_age_cat]
     if selected_region != 'Total':
