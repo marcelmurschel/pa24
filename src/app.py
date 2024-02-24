@@ -54,7 +54,7 @@ def format_number(value):
 
 
 # Load data
-df = pd.read_csv('pricedata6.csv')
+df = pd.read_csv('pricedata7.csv')
 
 df = df[~df['Kategorie'].isin(['Bus', 'Wohnwagen'])]
 
@@ -113,27 +113,29 @@ category_line_chart_figure.update_layout(
     )
 )
 
-# Processing for Stacked Bar Chart
 data['Verkauf in'] = pd.to_datetime(data['Verkauf in'])
 data['Quarter'] = pd.PeriodIndex(data['Verkauf in'].dt.to_period('Q'), freq='Q')
 last_five_quarters = data['Quarter'].drop_duplicates().sort_values()[-5:]
 data_last_five_quarters = data[data['Quarter'].isin(last_five_quarters)]
 
-quarterly_sales = data_last_five_quarters.groupby(['Quarter', 'Kategorie']).agg({'Verkaufspreis': 'sum'}).reset_index()
-quarterly_totals = quarterly_sales.groupby('Quarter')['Verkaufspreis'].sum().reset_index()
-merged_data = pd.merge(quarterly_sales, quarterly_totals, on='Quarter', suffixes=('', '_total'))
-merged_data['Percentage'] = (merged_data['Verkaufspreis'] / merged_data['Verkaufspreis_total']) * 100
+# Adjusting to count the number of sales per category per quarter instead of summing sales price
+quarterly_sales_count = data_last_five_quarters.groupby(['Quarter', 'Kategorie']).size().reset_index(name='Anzahl Verkäufe')
+quarterly_totals_count = quarterly_sales_count.groupby('Quarter')['Anzahl Verkäufe'].sum().reset_index()
 
-# Creating Stacked Bar Chart
+# Merging the count data with total counts for each quarter to calculate percentages
+merged_data_count = pd.merge(quarterly_sales_count, quarterly_totals_count, on='Quarter', suffixes=('', '_total'))
+merged_data_count['Percentage'] = (merged_data_count['Anzahl Verkäufe'] / merged_data_count['Anzahl Verkäufe_total']) * 100
+
+# Creating Stacked Bar Chart based on sales count
 stacked_bar_chart_figure = go.Figure()
 
 for i, category in enumerate(category_order):
-    category_data = merged_data[merged_data['Kategorie'] == category]
+    category_data = merged_data_count[merged_data_count['Kategorie'] == category]
     stacked_bar_chart_figure.add_trace(go.Bar(
         name=category,
         x=category_data['Quarter'].astype(str),
         y=category_data['Percentage'],
-        text=category_data['Percentage'].apply(lambda x: f'{x:.0f}%'),  # Keine Dezimalstellen
+        text=category_data['Percentage'].apply(lambda x: f'{x:.0f}%'),
         textposition='inside',
         marker_color=colors[i % len(colors)]
     ))
@@ -161,7 +163,6 @@ stacked_bar_chart_figure.update_layout(
 )
 
 
-
 # Group by vehicle age category and quarter
 age_cat_grouped = data.groupby(['fahrzeugalter_cat', 'Quarter']).agg({'Verkaufspreis': 'median'}).reset_index()
 age_cat_grouped.sort_values('Quarter', inplace=True)
@@ -170,7 +171,8 @@ age_cat_grouped = age_cat_grouped[age_cat_grouped['Quarter'].isin(last_five_quar
 
 # Create line chart for vehicle age categories
 vehicle_age_line_chart_figure = go.Figure()
-age_order = sorted(data['fahrzeugalter_cat'].unique())
+#age_order = sorted(data['fahrzeugalter_cat'].unique())
+age_order = ["Bis 2 Jahre", "2 - 4 Jahre", "4 - 6 Jahre", "6 Jahre und älter"]
 
 for i, age_cat in enumerate(age_order):
     age_data = age_cat_grouped[age_cat_grouped['fahrzeugalter_cat'] == age_cat]
@@ -182,7 +184,9 @@ for i, age_cat in enumerate(age_order):
         line=dict(color=colors[i % len(colors)])
     ))
 
-# Update layout for the line chart with specified styles
+y_values = list(range(0, 100001, 10000))  # Convert range to list
+ticktext = [str(int(value / 1000)) for value in y_values]  # Convert to simpler numbers
+
 vehicle_age_line_chart_figure.update_layout(
     xaxis_title='Quartal',
     yaxis_title='Medianpreis (in Tsd)',
@@ -193,55 +197,51 @@ vehicle_age_line_chart_figure.update_layout(
         xanchor='center',
         yanchor='top'
     ),
-    margin=dict(l=20, r=20, t=20, b=20),
-    font=dict(family='Roboto Condensed', size=14),
-    yaxis=dict(
-        tickvals=list(range(0, 100001, 10000)),
-        ticktext=[str(int(value / 1000)) for value in range(0, 101, 10)]
-    )
+    margin=dict(l=20, r=20, t=20, b=70),
+    font=dict(family='Roboto Condensed', size=14)
+    # Removed manual yaxis tickvals and ticktext to allow automatic scaling
 )
 
 
+
+
+
 # Filter the data for the last five quarters
+# Data preprocessing for vehicle age categories
 data['Verkauf in'] = pd.to_datetime(data['Verkauf in'])
 data['Quarter'] = pd.PeriodIndex(data['Verkauf in'].dt.to_period('Q'), freq='Q')
 last_five_quarters = data['Quarter'].drop_duplicates().sort_values()[-5:]
 data_last_five_quarters = data[data['Quarter'].isin(last_five_quarters)]
 
-# Group by quarter and vehicle age category, then aggregate sales
-age_cat_sales = data_last_five_quarters.groupby(['Quarter', 'fahrzeugalter_cat']).agg({'Verkaufspreis': 'sum'}).reset_index()
-quarterly_totals = age_cat_sales.groupby('Quarter')['Verkaufspreis'].sum().reset_index(name='Total_Sales')
-age_cat_sales = pd.merge(age_cat_sales, quarterly_totals, on='Quarter')
-age_cat_sales['Percentage'] = (age_cat_sales['Verkaufspreis'] / age_cat_sales['Total_Sales']) * 100
+# Adjusting to count the number of sales per vehicle age category per quarter
+age_cat_sales_count = data_last_five_quarters.groupby(['Quarter', 'fahrzeugalter_cat']).size().reset_index(name='Anzahl Verkäufe')
+quarterly_totals_count = age_cat_sales_count.groupby('Quarter')['Anzahl Verkäufe'].sum().reset_index()
 
-# Colors for the chart
-colors = ['#F97A1F', '#C91D42', '#1DC9A4', '#141F52']
+# Merging the count data with total counts for each quarter to calculate percentages
+merged_data_age_count = pd.merge(age_cat_sales_count, quarterly_totals_count, on='Quarter', suffixes=('', '_total'))
+merged_data_age_count['Percentage'] = (merged_data_age_count['Anzahl Verkäufe'] / merged_data_age_count['Anzahl Verkäufe_total']) * 100
 
-# Create the stacked bar chart
+# Creating Stacked Bar Chart based on sales count for vehicle age categories
 vehicle_age_stacked_bar_figure = go.Figure()
 
-# Ensure age categories are sorted consistently
-age_order = sorted(data['fahrzeugalter_cat'].unique())
 
 for i, age_cat in enumerate(age_order):
-    filtered_data = age_cat_sales[age_cat_sales['fahrzeugalter_cat'] == age_cat]
+    age_cat_data = merged_data_age_count[merged_data_age_count['fahrzeugalter_cat'] == age_cat]
     vehicle_age_stacked_bar_figure.add_trace(go.Bar(
         name=age_cat,
-        x=filtered_data['Quarter'].astype(str),
-        y=filtered_data['Percentage'],
-        text=filtered_data['Percentage'].apply(lambda x: f'{x:.0f}%'),
+        x=age_cat_data['Quarter'].astype(str),
+        y=age_cat_data['Percentage'],
+        text=age_cat_data['Percentage'].apply(lambda x: f'{x:.0f}%'),
         textposition='inside',
         marker_color=colors[i % len(colors)]
     ))
 
-# Update layout with specified styles and to reflect only the last 5 quarters
+# Update layout for the stacked bar chart to reflect counts-based percentages
 vehicle_age_stacked_bar_figure.update_layout(
     barmode='stack',
     xaxis=dict(
         title='Quartal',
-
-        type='category',
-   
+        type='category'
     ),
     yaxis=dict(
         title='Prozentualer Anteil (%)',
@@ -258,7 +258,6 @@ vehicle_age_stacked_bar_figure.update_layout(
     margin=dict(l=20, r=20, t=20, b=20),
     font=dict(family='Roboto Condensed', size=14)
 )
-
 
 
 
