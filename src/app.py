@@ -277,39 +277,26 @@ vehicle_age_stacked_bar_figure.update_layout(
 app = Dash(__name__)
 server = app.server
 
-# App layout
 app.layout = html.Div([
-    # External Google Font stylesheet
     html.Link(
         rel='stylesheet',
         href='https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@400;700&display=swap'
     ),
-
-    # Content div
     html.Div([
         html.Img(src='assets/Header_PriceAnalyzer.jpg'),
-
         html.Div([
-        html.Div([
-            html.H2("Performance-Dashboard: CARAVANING ", style={'textAlign': 'left', 'margin-top': '20px'})
-        ], style={'width': '70%', 'display': 'inline-block'}),
-
-        # Alert section
-        html.Div(id='data-alert', style={'width': '30%', 'display': 'inline-block', 'textAlign': 'right'})
-    ], style={'display': 'flex', 'width': '100%'}),
-
-    # Tiles row with 4 tiles now
+            html.Div([
+                html.H2("Kerndaten auf einem Blick:", style={'textAlign': 'left', 'margin-top': '20px'})
+            ], style={'width': '70%', 'display': 'inline-block'}),
+        
+        ], style={'display': 'flex', 'width': '100%'}),
         html.Div([
             html.Div('Tile 1', id='tile-1', style=tile_style),
             html.Div('Tile 2', id='tile-2', style=tile_style),
             html.Div('Tile 3', id='tile-3', style=tile_style),
-            html.Div('Tile 4', id='tile-4', style=tile_style)  # Added a fourth tile
+            html.Div('Tile 4', id='tile-4', style=tile_style)
         ], style={'display': 'flex', 'justify-content': 'space-around', 'width': '100%'}),
-
-
-        # Dropdowns
         html.Div([
-            # Dropdown for Fahrzeugtyp
             html.Div([
                 html.H3('Fahrzeugtyp', style={'textAlign': 'center'}),
                 dcc.Dropdown(
@@ -317,11 +304,8 @@ app.layout = html.Div([
                     options=[{'label': k, 'value': k} for k in data['Kategorie'].dropna().unique()] + [{'label': 'Total', 'value': 'Total'}],
                     value='Total',
                     style={'width': '100%', 'margin-right': '10px'}
-                ),
-            ], style={'width': '33.33%', 'display': 'inline-block', 'padding': '10px'}),
-            
-           
-            # Dropdown for Alter des Fahrzeugs
+                )
+            ], style={'width': '50%', 'display': 'inline-block', 'padding': '10px'}),
             html.Div([
                 html.H3('Alter des Fahrzeugs', style={'textAlign': 'center'}),
                 dcc.Dropdown(
@@ -330,45 +314,40 @@ app.layout = html.Div([
                     value='Total',
                     style={'width': '100%', 'margin-right': '10px'}
                 )
-            ], style={'width': '33.33%', 'display': 'inline-block', 'padding': '10px'}),
-
-
-            html.Div([
-                html.H3('Region', style={'textAlign': 'center'}),
-                dcc.Dropdown(
-                    id='region-dropdown',
-                    options=[{'label': k, 'value': k} for k in data['region'].dropna().unique()] + [{'label': 'Total', 'value': 'Total'}],
-                    value='Total',
-                    style={'width': '100%', 'margin-right': '10px'}
-                ),
-            ], style={'width': '33.33%', 'display': 'inline-block', 'padding': '10px'}),
+            ], style={'width': '50%', 'display': 'inline-block', 'padding': '10px'})
         ], style={'display': 'flex', 'width': '100%'}),
-
-
-        
         html.Div([
-        # Column for the graph
             html.Div([
-                # Price development heading
                 html.H2("Preisentwicklung seit Q4/2022", style={'textAlign': 'center'}),
-                # Graph
                 dcc.Graph(id='price-graph'),
-                # Number of entries display
-                html.Div(id='num-entries', style={'font-family': 'Roboto Condensed'})
-            ], style={'width': '60%', 'display': 'inline-block'}),  # Adjust width as needed
-
-            # Column for the commentary
+                
+            ], style={'width': '60%', 'display': 'inline-block'}),
             html.Div([
-                html.H3("Kommentarbereich", style={'textAlign': 'center'}),
-                # You can replace this with any component you like
-                html.P("""Der größte Gewinn liegt im Einkauf. Eine wohlüberlegte Ankaufsstrategie ist das A und O, um Margen zu maximieren. Hier zeigt sich die Stärke des PRICEANALYZERs, der durch detaillierte Marktkenntnisse – aufgeschlüsselt nach Fahrzeugtyp, Alter und Kilometerstand – den Einkauf entscheidend optimiert. 
-Der signifikante Rückgang der Einkaufspreise um 14,5% gegenüber dem Vorjahresquartal öffnet weitreichende Möglichkeiten für Händler und andere Marktbeteiligte, ihre Rentabilität zu steigern. Der PRICEANALYZER wird damit zur zentralen Informationsquelle, die Transparenz schafft und es erlaubt, auf der Basis solider Daten Risiken zu minimieren und Gewinnpotenziale zu maximieren.
-""", style={'padding': '10px'}),
-                # Add more components here as needed
-            ], style={'width': '40%', 'display': 'inline-block', 'vertical-align': 'top'})  # Adjust width as needed
+                html.Div([
+                    html.Div([
+                        html.Img(src='assets/OlegRubinov_Kommentar.jpg', style={'width': '100%', 'border-radius': '50%'})  # Ensure this path is correct
+                    ], style={'width': '25%', 'display': 'inline-block', 'padding': '5px'}),
+                    html.Div([
+                        html.H4("Oleg Rubinov", style={'margin': '0', 'color': '#b22122', 'fontSize': '24px', }),  # Name with larger font size and red color
+                html.P("Co-Gründer & Geschäftsführer caravanmarkt24.de", style={'color': 'black', 'margin': '0'})  # Subtitle in normal size and black color
+                    ], style={'width': '75%', 'display': 'inline-block', 'padding': '5px'})
+                ], style={'display': 'flex', 'alignItems': 'center'}),
+                html.P("""Der Markt für gebrauchte Freizeitfahrzeuge bietet Chancen für den Handel, mit stabiler Nachfrage und moderaten Preissenkungen in bestimmten Segmenten und Altersklassen. Besonders gefragt sind gut gepflegte Reisemobile und Caravans der Altersklasse 2-4 Jahre. Fachhändler können durch den Zukauf junger Gebrauchter Erträge sichern und neue Kundensegmente erschließen. caravanmarkt24 rät zum Mut beim Gebrauchtwagenhandel!
+""",
+                style={
+                    'backgroundColor': '#f0f0f0',
+                    'borderRadius': '10px',
+                    'padding': '30px',
+                    'fontSize': '18px',
+                    'lineHeight': '1.5'
+                })
+            ], style={'width': '40%', 'display': 'inline-block', 'verticalAlign': 'top', 'margin': '10px'})
         ], style={'display': 'flex', 'width': '100%'}),
 
-    html.Div(style={'height': '20px'}),
+        html.Div(id='data-alert', style={'textAlign': 'left', 'marginTop': 20, 'marginBottom': 20, }),
+
+
+         html.Div(style={'height': '20px'}),
     html.Img(src='assets/Fahrzeugkategorie_Block.jpg'),
 
     html.Div([
@@ -411,17 +390,7 @@ Der signifikante Rückgang der Einkaufspreise um 14,5% gegenüber dem Vorjahresq
         ], style={'width': '50%', 'display': 'inline-block'}),
     ], style={'display': 'flex', 'width': '100%', 'margin-top': '20px'}),
 
-
-
-
-
-
-
-
-    ], style={'fontFamily': 'Roboto Condensed', 'maxWidth': '1000px', 'margin': '0 auto'}),
-
-    
-
+    ], style={'fontFamily': 'Roboto Condensed', 'maxWidth': '1000px', 'margin': '0 auto'})
 ])
 
 # New callback to update the tiles based on dropdown selections
@@ -431,18 +400,16 @@ Der signifikante Rückgang der Einkaufspreise um 14,5% gegenüber dem Vorjahresq
      Output('tile-3', 'children'),
      Output('tile-4', 'children')],
     [Input('category-dropdown', 'value'),
-     Input('age-cat-dropdown', 'value'), 
-     Input('region-dropdown', 'value')]
+     Input('age-cat-dropdown', 'value'), ]
 )
-def update_tiles(selected_category, selected_age_cat, selected_region):
+def update_tiles(selected_category, selected_age_cat):
     # Filter data based on dropdown values
     filtered_data = data.copy()
     if selected_category != 'Total':
         filtered_data = filtered_data[filtered_data['Kategorie'] == selected_category]
     if selected_age_cat != 'Total':
         filtered_data = filtered_data[filtered_data['fahrzeugalter_cat'] == selected_age_cat]
-    if selected_region != 'Total':
-        filtered_data = filtered_data[filtered_data['region'] == selected_region]
+
 
 
     # Calculate Median-Verkaufspreis for Q4 2023
@@ -476,22 +443,26 @@ def update_tiles(selected_category, selected_age_cat, selected_region):
 
     # Formatting tile contents
     tile_1_content = html.Div([
-    html.Div(html.Strong("Median-Verkaufspreis (Q4/2023):"), style={'margin-bottom': '10px'}),
-    html.Div(format_number(median_price_2023) + " €" if median_price_2023 else 'Data not available', style=number_style)
-], style=tile_style)
+        html.Div(html.Strong("Händlereinkaufspreis"), style={'margin-bottom': '5px'}),
+        html.Div("(Q4/2023):", style={'margin-bottom': '10px'}),
+        html.Div(format_number(median_price_2023) + " €" if median_price_2023 else 'Data not available', style=number_style)
+    ], style=tile_style)
 
     tile_2_content = html.Div([
-        html.Div(html.Strong("Proz. Differenz (vs. Q4/2022):"), style={'margin-bottom': '10px'}),
+        html.Div(html.Strong("Proz. Differenz"), style={'margin-bottom': '5px'}),
+        html.Div("(vs. Q4/2022):", style={'margin-bottom': '10px'}),
         html.Div(html.Span(f"{percentage_diff_2022:.2f}%", style={'color': get_color(percentage_diff_2022)}) if percentage_diff_2022 is not None else 'Data not available', style=number_style)
     ], style=tile_style)
 
     tile_3_content = html.Div([
-        html.Div(html.Strong(f"Proz. Differenz (vs. {previous_quarter}):"), style={'margin-bottom': '10px'}),
+        html.Div(html.Strong("Proz. Differenz"), style={'margin-bottom': '5px'}),
+        html.Div(f"(vs. {previous_quarter}):", style={'margin-bottom': '10px'}),
         html.Div(html.Span(f"{percentage_diff_previous:.2f}%", style={'color': get_color(percentage_diff_previous)}) if percentage_diff_previous is not None else 'Data not available', style=number_style)
     ], style=tile_style)
 
     tile_4_content = html.Div([
-        html.Div(html.Strong("Ratio (Angebots- zu Verkaufspreis):"), style={'margin-bottom': '10px'}),
+        html.Div(html.Strong("Ratio"), style={'margin-bottom': '5px', 'padding':'0'}),
+        html.Div("(Angebots- zu Einkaufspreis):", style={'margin-bottom': '10px', 'font-size': '90%'}),
         html.Div(html.Span(f"{percentage_diff_wunschpreis:.2f}%", style={'color': get_color(percentage_diff_wunschpreis)}) if percentage_diff_wunschpreis is not None else 'Data not available', style=number_style)
     ], style=tile_style)
 
@@ -499,26 +470,21 @@ def update_tiles(selected_category, selected_age_cat, selected_region):
 
 
 
-
 @app.callback(
-    [Output('price-graph', 'figure'),
-     Output('num-entries', 'children')],
+    [Output('price-graph', 'figure')],
     [Input('category-dropdown', 'value'),
-     Input('age-cat-dropdown', 'value'),
-     Input('region-dropdown', 'value')]
+     Input('age-cat-dropdown', 'value'),]
 )
 
 
 
-def update_graph(selected_category, selected_age_cat, selected_region):
+def update_graph(selected_category, selected_age_cat):
     # Filter data based on dropdown values
     filtered_data = data.copy()
     if selected_category != 'Total':
         filtered_data = filtered_data[filtered_data['Kategorie'] == selected_category]
     if selected_age_cat != 'Total':
         filtered_data = filtered_data[filtered_data['fahrzeugalter_cat'] == selected_age_cat]
-    if selected_region != 'Total':
-        filtered_data = filtered_data[filtered_data['region'] == selected_region]
 
     # Group by quarter after filtering
     filtered_quarterly = filtered_data.groupby('Quarter').agg({'Verkaufspreis': 'median'}).reset_index()
@@ -528,35 +494,24 @@ def update_graph(selected_category, selected_age_cat, selected_region):
 
     # Filter data to only include these quarters
     filtered_quarterly = filtered_quarterly[filtered_quarterly['Quarter'].isin(last_5_quarters)]
-    
 
-    # Count the number of entries
-    num_entries = len(filtered_data)
+    # Adjust values to thousands for the graph
+    filtered_quarterly['Verkaufspreis'] = filtered_quarterly['Verkaufspreis'] / 1000
 
     fig = go.Figure()
     fig.add_trace(go.Scatter(x=filtered_quarterly['Quarter'].astype(str), y=filtered_quarterly['Verkaufspreis'],
-                             mode='lines+markers', line=dict(color='#b22122', width=4), name='Verkaufspreis'))
+                             mode='lines+markers', line=dict(color='#b22122', width=4), name='Medianpreis'))
 
     # Dynamically adjust y-axis range
-    min_price = filtered_quarterly['Verkaufspreis'].min()
-    max_price = filtered_quarterly['Verkaufspreis'].max()
-    y_axis_min = max(min_price - (60000 - (max_price - min_price)) // 2, 0)
-    y_axis_max = y_axis_min + 60000
-
-    # Round y_axis_min to nearest ten thousand
-    y_axis_min_rounded = int(round(y_axis_min, -4))
-
-    # Generate y-values for the range, starting from the rounded minimum
-    y_values = list(range(y_axis_min_rounded, y_axis_min_rounded + 60001, 10000))
-    ticktext = [str(int(value / 1000)) for value in y_values]
+    min_price = filtered_quarterly['Verkaufspreis'].min() - 10  # Subtract 10 units from the min value
+    max_price = filtered_quarterly['Verkaufspreis'].max() + 10  # Add 10 units to the max value
 
     fig.update_layout(
         yaxis=dict(
-            tickmode='array',
-            tickvals=y_values,
-            ticktext=ticktext,
-            range=[y_axis_min, y_axis_min + 60000]
+            title='Medianpreis (in Tsd. €)',
+            range=[min_price, max_price]  # Set the range from min to max with the adjustments
         ),
+        xaxis_title='Quartal',
         margin=dict(l=20, r=20, t=10, b=20),
         legend=dict(
             x=0.01,
@@ -568,26 +523,26 @@ def update_graph(selected_category, selected_age_cat, selected_region):
         font=dict(family='Roboto Condensed', size=14)  # Set the font globally for the figure
     )
 
-    # Return the figure and the number of entries
-    return fig, f"n = {num_entries}"
+    # Only return the figure
+    return (fig,)
+
+
 
 
 
 @app.callback(
     Output('data-alert', 'children'),
     [Input('category-dropdown', 'value'),
-     Input('age-cat-dropdown', 'value'),
-     Input('region-dropdown', 'value')]
+     Input('age-cat-dropdown', 'value'),]
 )
-def update_data_alert(selected_category, selected_age_cat, selected_region):
+def update_data_alert(selected_category, selected_age_cat):
     filtered_data = data.copy()
     # Apply the same filters as in your other callbacks
     if selected_category != 'Total':
         filtered_data = filtered_data[filtered_data['Kategorie'] == selected_category]
     if selected_age_cat != 'Total':
         filtered_data = filtered_data[filtered_data['fahrzeugalter_cat'] == selected_age_cat]
-    if selected_region != 'Total':
-        filtered_data = filtered_data[filtered_data['region'] == selected_region]
+
 
     # Filter data for Q4
     q4_data = filtered_data[filtered_data['Quarter'] == '2023Q4']  # Adjust the year as needed
@@ -597,10 +552,10 @@ def update_data_alert(selected_category, selected_age_cat, selected_region):
         return html.Div('Hinweis: Für das letzte Quartal liegen uns zu wenige Daten vor. Bitte wählen Sie weniger Parameter.', 
                         style={'color': 'red', 
                                'fontWeight': 'bold', 
-                               'fontSize': '14px', 
-                               'display': 'flex', 
-                               'alignItems': 'center', 
-                               'justifyContent': 'center',
+                               'fontSize': '17px', 
+                               'display': 'left', 
+                               'alignItems': 'left', 
+                               'justifyContent': 'left',
                                'height': '100%'})
     return ''
 
