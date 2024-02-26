@@ -449,13 +449,13 @@ def update_tiles(selected_category, selected_age_cat):
     ], style=tile_style)
 
     tile_2_content = html.Div([
-        html.Div(html.Strong("Proz. Differenz"), style={'margin-bottom': '5px'}),
+        html.Div(html.Strong("Trend (Vorjahr)"), style={'margin-bottom': '5px'}),
         html.Div("(vs. Q4/2022):", style={'margin-bottom': '10px'}),
         html.Div(html.Span(f"{percentage_diff_2022:.2f}%", style={'color': get_color(percentage_diff_2022)}) if percentage_diff_2022 is not None else 'Data not available', style=number_style)
     ], style=tile_style)
 
     tile_3_content = html.Div([
-        html.Div(html.Strong("Proz. Differenz"), style={'margin-bottom': '5px'}),
+        html.Div(html.Strong("Trend (letztes Quartal)"), style={'margin-bottom': '5px'}),
         html.Div(f"(vs. {previous_quarter}):", style={'margin-bottom': '10px'}),
         html.Div(html.Span(f"{percentage_diff_previous:.2f}%", style={'color': get_color(percentage_diff_previous)}) if percentage_diff_previous is not None else 'Data not available', style=number_style)
     ], style=tile_style)
