@@ -461,7 +461,7 @@ def update_tiles(selected_category, selected_age_cat):
     ], style=tile_style)
 
     tile_4_content = html.Div([
-        html.Div(html.Strong("Ratio"), style={'margin-bottom': '5px', 'padding':'0'}),
+        html.Div(html.Strong("Verhandlungsspielraum"), style={'margin-bottom': '5px', 'padding':'0'}),
         html.Div("(Angebots- zu Einkaufspreis):", style={'margin-bottom': '10px', 'font-size': '90%'}),
         html.Div(html.Span(f"{percentage_diff_wunschpreis:.2f}%", style={'color': get_color(percentage_diff_wunschpreis)}) if percentage_diff_wunschpreis is not None else 'Data not available', style=number_style)
     ], style=tile_style)
