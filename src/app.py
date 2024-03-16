@@ -54,7 +54,7 @@ def format_number(value):
 
 
 # Load data
-df = pd.read_csv('pricedata7.csv')
+df = pd.read_csv('pricedata8.csv')
 
 df = df[~df['Kategorie'].isin(['Bus', 'Wohnwagen'])]
 
@@ -66,7 +66,7 @@ data['Quarter'] = data['Verkauf in'].dt.to_period('Q')
 
 
 
-colors = ['#F97A1F', '#C91D42', '#1DC9A4', '#141F52']
+colors = ['#F97A1F', '#C91D42', '#1DC9A4', '#141F52', '#B3B3B3' ]
 
 # Define a consistent category order
 category_order = sorted(data['Kategorie'].apply(str).unique())
@@ -172,7 +172,7 @@ age_cat_grouped = age_cat_grouped[age_cat_grouped['Quarter'].isin(last_five_quar
 # Create line chart for vehicle age categories
 vehicle_age_line_chart_figure = go.Figure()
 #age_order = sorted(data['fahrzeugalter_cat'].unique())
-age_order = ["Bis 2 Jahre", "2 - 4 Jahre", "4 - 6 Jahre", "6 Jahre und älter"]
+age_order = ["Bis 2 Jahre", "2 - 4 Jahre", "4 - 6 Jahre", "6 - 10 Jahre", "Über 10 Jahre"]
 
 for i, age_cat in enumerate(age_order):
     age_data = age_cat_grouped[age_cat_grouped['fahrzeugalter_cat'] == age_cat]
@@ -284,6 +284,7 @@ app.layout = html.Div([
     ),
     html.Div([
         html.Img(src='assets/Header_PriceAnalyzer.jpg'),
+        html.A(html.Img(src='assets/Feedback_PriceAnalyzer.jpg'), href='http://www.miios.de', target='_blank'),
         html.Div([
             html.Div([
                 html.H2("Kerndaten auf einem Blick:", style={'textAlign': 'left', 'margin-top': '20px'})
